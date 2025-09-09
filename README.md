@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2F3.11-blue)](https://www.python.org/)  
 [![TensorFlow Federated](https://img.shields.io/badge/TensorFlow-Federated-orange)](https://www.tensorflow.org/federated)  
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+
 
 Repositori ini berisi lesson plan, catatan, eksperimen, dan dokumentasi pembelajaran **Federated Learning (FL)** menggunakan **TensorFlow Federated (TFF)**.  
 Tujuannya adalah memahami konsep dasar, arsitektur, implementasi, serta integrasi dengan **Differential Privacy (DP)** dalam sebuah pipeline end-to-end.  
