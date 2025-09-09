@@ -1,0 +1,1501 @@
+umur,status_pekerjaan,status_pernikahan,layak_subsidi
+58,wirausaha,belum menikah,1
+23,wirausaha,menikah,0
+51,buruh,cerai,1
+60,wirausaha,menikah,0
+35,pegawai,menikah,0
+37,pengangguran,menikah,1
+68,pengangguran,cerai,0
+29,freelancer,belum menikah,0
+34,pegawai,menikah,1
+33,buruh,menikah,0
+42,wirausaha,cerai,1
+49,pengangguran,belum menikah,1
+31,pengangguran,menikah,1
+58,pegawai,belum menikah,1
+48,wirausaha,belum menikah,0
+18,buruh,menikah,0
+25,buruh,belum menikah,0
+18,wirausaha,menikah,0
+39,pegawai,belum menikah,0
+20,buruh,menikah,1
+20,freelancer,menikah,0
+37,freelancer,belum menikah,0
+65,freelancer,menikah,1
+44,buruh,belum menikah,1
+18,buruh,menikah,1
+54,buruh,belum menikah,0
+28,buruh,cerai,1
+57,freelancer,belum menikah,0
+60,wirausaha,belum menikah,0
+66,freelancer,belum menikah,1
+23,freelancer,menikah,0
+53,pengangguran,belum menikah,1
+67,wirausaha,menikah,1
+40,buruh,belum menikah,0
+55,freelancer,menikah,0
+40,pengangguran,belum menikah,1
+25,wirausaha,menikah,0
+54,pegawai,belum menikah,1
+28,pengangguran,menikah,0
+42,wirausaha,menikah,1
+19,wirausaha,belum menikah,1
+67,pegawai,menikah,1
+48,pegawai,menikah,0
+20,freelancer,menikah,0
+41,pengangguran,menikah,0
+33,pegawai,menikah,1
+66,pegawai,menikah,1
+24,pengangguran,menikah,1
+25,pegawai,menikah,0
+28,freelancer,belum menikah,0
+43,buruh,menikah,0
+46,buruh,belum menikah,0
+39,freelancer,menikah,0
+19,pengangguran,menikah,0
+32,wirausaha,cerai,1
+54,buruh,belum menikah,1
+22,freelancer,belum menikah,0
+50,wirausaha,menikah,1
+61,pegawai,menikah,0
+64,pegawai,menikah,0
+26,pengangguran,belum menikah,0
+20,freelancer,menikah,0
+53,wirausaha,belum menikah,1
+60,freelancer,menikah,1
+49,pengangguran,menikah,0
+60,freelancer,belum menikah,0
+50,wirausaha,belum menikah,1
+53,freelancer,menikah,1
+69,freelancer,cerai,0
+47,pengangguran,belum menikah,1
+21,pengangguran,menikah,0
+38,buruh,menikah,1
+25,buruh,cerai,0
+62,pengangguran,menikah,1
+22,pengangguran,menikah,0
+69,pegawai,menikah,1
+49,pengangguran,menikah,1
+62,pengangguran,cerai,0
+26,pengangguran,menikah,0
+20,pengangguran,menikah,0
+36,wirausaha,menikah,0
+54,wirausaha,menikah,0
+42,wirausaha,menikah,1
+43,freelancer,menikah,1
+40,buruh,belum menikah,1
+44,buruh,belum menikah,0
+20,pegawai,menikah,0
+47,freelancer,menikah,0
+60,freelancer,belum menikah,1
+34,freelancer,menikah,0
+20,wirausaha,menikah,1
+41,freelancer,menikah,1
+54,pengangguran,menikah,0
+67,pegawai,menikah,0
+67,buruh,menikah,0
+20,wirausaha,cerai,0
+44,buruh,menikah,1
+28,freelancer,belum menikah,0
+34,freelancer,cerai,0
+67,pengangguran,belum menikah,1
+44,pengangguran,belum menikah,0
+36,freelancer,belum menikah,0
+59,freelancer,menikah,0
+60,pegawai,belum menikah,0
+48,wirausaha,menikah,1
+40,pengangguran,menikah,0
+58,buruh,menikah,1
+43,pegawai,belum menikah,1
+24,buruh,menikah,1
+19,pegawai,belum menikah,1
+44,wirausaha,belum menikah,0
+21,freelancer,menikah,1
+18,pengangguran,menikah,1
+38,buruh,menikah,0
+33,freelancer,belum menikah,0
+48,buruh,menikah,1
+57,buruh,cerai,1
+54,pengangguran,belum menikah,0
+59,buruh,menikah,0
+36,wirausaha,menikah,0
+22,buruh,belum menikah,0
+45,pengangguran,belum menikah,1
+40,freelancer,menikah,0
+55,wirausaha,menikah,1
+24,freelancer,belum menikah,1
+36,freelancer,menikah,1
+69,buruh,belum menikah,0
+58,pengangguran,belum menikah,1
+19,buruh,belum menikah,1
+28,pengangguran,menikah,1
+42,wirausaha,menikah,0
+57,buruh,menikah,1
+58,pegawai,menikah,0
+43,pengangguran,menikah,0
+67,buruh,belum menikah,0
+57,freelancer,menikah,1
+46,freelancer,belum menikah,1
+47,freelancer,menikah,0
+22,pegawai,menikah,0
+20,buruh,cerai,0
+18,freelancer,belum menikah,0
+62,pegawai,menikah,0
+50,buruh,menikah,0
+33,pengangguran,belum menikah,1
+65,pegawai,belum menikah,0
+37,pengangguran,belum menikah,1
+63,pengangguran,menikah,1
+30,pengangguran,menikah,0
+19,pengangguran,belum menikah,0
+35,buruh,belum menikah,1
+40,pegawai,belum menikah,0
+36,freelancer,belum menikah,1
+31,buruh,menikah,1
+46,pegawai,menikah,1
+52,freelancer,menikah,1
+35,buruh,belum menikah,0
+69,pengangguran,menikah,1
+58,pengangguran,belum menikah,0
+34,pegawai,menikah,1
+30,buruh,belum menikah,1
+65,buruh,belum menikah,1
+46,freelancer,menikah,0
+22,pegawai,belum menikah,1
+41,pegawai,menikah,1
+23,pegawai,menikah,0
+37,pengangguran,menikah,0
+22,buruh,menikah,0
+67,freelancer,menikah,0
+39,wirausaha,menikah,1
+47,freelancer,menikah,1
+69,buruh,belum menikah,1
+33,wirausaha,belum menikah,1
+38,wirausaha,belum menikah,0
+57,buruh,belum menikah,1
+18,pegawai,belum menikah,0
+37,freelancer,belum menikah,1
+66,wirausaha,cerai,1
+37,freelancer,menikah,0
+39,wirausaha,menikah,1
+68,pegawai,menikah,1
+60,pengangguran,cerai,0
+49,buruh,belum menikah,1
+40,pengangguran,belum menikah,0
+64,buruh,menikah,1
+37,wirausaha,cerai,1
+39,pengangguran,belum menikah,1
+63,buruh,menikah,0
+28,freelancer,belum menikah,0
+57,freelancer,belum menikah,0
+33,freelancer,menikah,0
+21,freelancer,menikah,0
+19,freelancer,belum menikah,1
+60,buruh,menikah,0
+40,buruh,cerai,0
+46,pegawai,menikah,0
+21,freelancer,cerai,1
+59,pegawai,belum menikah,1
+56,pegawai,menikah,0
+68,pegawai,belum menikah,1
+65,buruh,menikah,1
+34,freelancer,menikah,0
+21,buruh,belum menikah,0
+38,freelancer,belum menikah,1
+46,pengangguran,cerai,0
+21,buruh,menikah,1
+40,freelancer,menikah,1
+37,buruh,menikah,0
+22,pegawai,belum menikah,0
+38,wirausaha,belum menikah,1
+42,buruh,menikah,0
+62,wirausaha,menikah,1
+39,freelancer,belum menikah,0
+42,pegawai,menikah,1
+30,freelancer,menikah,0
+34,buruh,menikah,1
+20,wirausaha,menikah,0
+43,wirausaha,belum menikah,1
+21,freelancer,belum menikah,1
+62,pengangguran,menikah,0
+44,pegawai,cerai,1
+61,pengangguran,menikah,1
+23,freelancer,belum menikah,0
+22,pengangguran,menikah,1
+37,buruh,menikah,0
+25,pengangguran,menikah,0
+45,wirausaha,menikah,0
+60,wirausaha,menikah,1
+21,freelancer,cerai,1
+33,buruh,belum menikah,1
+52,freelancer,belum menikah,0
+34,pengangguran,belum menikah,0
+65,pengangguran,menikah,0
+52,wirausaha,belum menikah,0
+19,freelancer,menikah,1
+22,freelancer,menikah,0
+67,buruh,menikah,0
+60,pegawai,cerai,0
+48,wirausaha,menikah,1
+48,buruh,menikah,1
+25,pegawai,menikah,1
+50,pegawai,menikah,0
+69,freelancer,belum menikah,1
+61,buruh,cerai,1
+27,pengangguran,menikah,0
+60,freelancer,menikah,1
+19,pengangguran,belum menikah,0
+19,buruh,cerai,1
+46,pengangguran,menikah,0
+34,buruh,belum menikah,0
+32,buruh,belum menikah,1
+54,pengangguran,belum menikah,0
+23,pegawai,belum menikah,1
+24,buruh,belum menikah,0
+35,buruh,menikah,1
+27,pegawai,menikah,1
+18,wirausaha,belum menikah,1
+64,freelancer,menikah,0
+68,pegawai,belum menikah,0
+58,freelancer,cerai,1
+51,wirausaha,belum menikah,1
+49,pegawai,menikah,1
+36,buruh,belum menikah,0
+33,pengangguran,menikah,0
+60,pengangguran,menikah,0
+45,pengangguran,belum menikah,0
+28,pegawai,cerai,0
+42,pegawai,cerai,1
+23,wirausaha,menikah,1
+19,pengangguran,menikah,0
+20,wirausaha,cerai,0
+28,wirausaha,belum menikah,0
+47,pengangguran,cerai,1
+40,pegawai,cerai,0
+29,pegawai,cerai,0
+39,buruh,menikah,1
+37,freelancer,belum menikah,1
+18,buruh,menikah,1
+21,buruh,belum menikah,0
+19,wirausaha,belum menikah,1
+29,freelancer,menikah,1
+55,pengangguran,menikah,0
+23,buruh,belum menikah,1
+34,freelancer,belum menikah,1
+43,freelancer,belum menikah,0
+29,pegawai,menikah,1
+64,buruh,menikah,0
+22,pengangguran,cerai,0
+63,wirausaha,belum menikah,0
+30,buruh,belum menikah,1
+34,buruh,cerai,1
+67,freelancer,cerai,1
+27,wirausaha,belum menikah,0
+58,pengangguran,menikah,1
+44,pengangguran,menikah,0
+69,pegawai,menikah,1
+63,freelancer,belum menikah,0
+63,freelancer,belum menikah,0
+57,buruh,menikah,0
+36,pegawai,menikah,0
+42,buruh,belum menikah,1
+48,buruh,menikah,0
+23,wirausaha,menikah,0
+61,freelancer,belum menikah,0
+50,freelancer,menikah,0
+28,freelancer,belum menikah,1
+46,pegawai,menikah,0
+44,pegawai,menikah,0
+50,pengangguran,belum menikah,1
+31,pegawai,belum menikah,0
+28,buruh,belum menikah,0
+41,pengangguran,menikah,1
+39,pengangguran,belum menikah,0
+63,wirausaha,belum menikah,0
+44,pengangguran,cerai,0
+41,buruh,belum menikah,1
+47,pegawai,belum menikah,0
+49,pegawai,menikah,0
+29,wirausaha,belum menikah,0
+45,buruh,belum menikah,0
+22,buruh,belum menikah,1
+40,pengangguran,menikah,0
+63,pegawai,menikah,1
+24,pegawai,menikah,1
+52,wirausaha,menikah,0
+33,pegawai,menikah,1
+69,pengangguran,belum menikah,0
+47,buruh,menikah,0
+63,freelancer,belum menikah,0
+25,buruh,menikah,1
+35,pengangguran,menikah,1
+42,pengangguran,belum menikah,0
+27,pengangguran,menikah,0
+22,wirausaha,belum menikah,1
+19,pegawai,cerai,1
+25,freelancer,menikah,0
+18,pengangguran,menikah,0
+31,freelancer,menikah,1
+36,freelancer,menikah,0
+22,buruh,belum menikah,1
+23,pegawai,menikah,0
+44,freelancer,menikah,1
+62,freelancer,menikah,0
+33,buruh,menikah,0
+28,pegawai,cerai,0
+22,pegawai,belum menikah,0
+19,buruh,menikah,1
+58,pegawai,belum menikah,1
+56,wirausaha,menikah,0
+30,pegawai,belum menikah,0
+26,pengangguran,cerai,1
+26,wirausaha,belum menikah,0
+44,freelancer,belum menikah,0
+64,pegawai,belum menikah,0
+58,pengangguran,belum menikah,1
+67,pegawai,menikah,0
+64,wirausaha,cerai,0
+20,pegawai,menikah,0
+50,wirausaha,menikah,1
+27,pegawai,cerai,0
+40,pengangguran,belum menikah,1
+66,freelancer,belum menikah,0
+34,wirausaha,belum menikah,1
+56,freelancer,menikah,1
+57,buruh,menikah,0
+57,buruh,belum menikah,0
+32,pegawai,menikah,1
+57,freelancer,belum menikah,0
+22,buruh,menikah,0
+40,pegawai,belum menikah,0
+37,buruh,cerai,0
+33,pegawai,menikah,0
+36,pengangguran,belum menikah,1
+38,freelancer,belum menikah,0
+51,pengangguran,menikah,1
+33,buruh,belum menikah,0
+47,wirausaha,menikah,0
+37,buruh,menikah,1
+24,wirausaha,menikah,0
+35,wirausaha,belum menikah,0
+18,buruh,menikah,0
+22,buruh,belum menikah,1
+27,pegawai,menikah,1
+53,buruh,menikah,0
+49,pengangguran,menikah,1
+21,pegawai,belum menikah,1
+60,buruh,menikah,1
+43,pegawai,belum menikah,1
+60,freelancer,belum menikah,0
+24,wirausaha,belum menikah,1
+24,pengangguran,belum menikah,0
+58,pegawai,belum menikah,1
+64,pegawai,menikah,1
+60,pegawai,cerai,1
+22,pengangguran,belum menikah,0
+39,wirausaha,menikah,1
+36,buruh,menikah,1
+27,wirausaha,cerai,0
+59,wirausaha,belum menikah,1
+33,pengangguran,belum menikah,0
+56,pegawai,menikah,0
+45,pengangguran,menikah,1
+35,pengangguran,menikah,1
+22,pegawai,menikah,0
+33,buruh,menikah,0
+24,pegawai,menikah,0
+24,pegawai,menikah,1
+33,pengangguran,belum menikah,1
+50,buruh,menikah,1
+64,wirausaha,menikah,1
+57,pegawai,belum menikah,0
+69,pegawai,belum menikah,0
+38,pengangguran,menikah,1
+41,pegawai,belum menikah,1
+69,freelancer,menikah,0
+59,pegawai,belum menikah,0
+22,freelancer,menikah,1
+51,pegawai,belum menikah,0
+54,pengangguran,belum menikah,0
+30,freelancer,belum menikah,0
+33,pegawai,menikah,1
+20,pegawai,menikah,0
+32,freelancer,belum menikah,0
+44,wirausaha,cerai,0
+33,pegawai,cerai,0
+24,wirausaha,belum menikah,0
+61,freelancer,cerai,0
+61,buruh,menikah,0
+34,wirausaha,belum menikah,0
+26,freelancer,belum menikah,0
+41,pegawai,belum menikah,0
+18,pengangguran,menikah,0
+32,buruh,cerai,0
+25,buruh,menikah,0
+24,wirausaha,menikah,1
+19,freelancer,belum menikah,1
+19,pegawai,menikah,1
+60,pegawai,menikah,1
+23,pegawai,menikah,1
+49,pegawai,menikah,0
+47,freelancer,menikah,0
+69,pegawai,cerai,1
+58,freelancer,menikah,0
+62,freelancer,cerai,1
+45,freelancer,menikah,0
+60,pengangguran,menikah,0
+68,pengangguran,menikah,0
+58,pengangguran,menikah,0
+53,wirausaha,belum menikah,0
+18,buruh,menikah,1
+23,buruh,belum menikah,1
+41,pegawai,menikah,1
+38,buruh,belum menikah,1
+46,pengangguran,belum menikah,1
+33,freelancer,menikah,0
+28,wirausaha,belum menikah,1
+47,buruh,menikah,1
+48,freelancer,cerai,1
+64,pegawai,menikah,1
+23,freelancer,belum menikah,0
+60,pengangguran,belum menikah,0
+30,pengangguran,belum menikah,0
+35,freelancer,menikah,1
+41,wirausaha,menikah,0
+60,freelancer,menikah,1
+57,pengangguran,menikah,1
+52,wirausaha,menikah,1
+27,freelancer,menikah,0
+55,pengangguran,belum menikah,1
+60,pegawai,menikah,1
+55,buruh,menikah,1
+59,buruh,menikah,1
+23,pegawai,menikah,1
+49,wirausaha,menikah,1
+67,pegawai,menikah,1
+46,pengangguran,menikah,1
+68,pegawai,belum menikah,1
+23,buruh,menikah,1
+60,freelancer,menikah,1
+19,wirausaha,menikah,1
+30,freelancer,menikah,1
+41,buruh,belum menikah,1
+25,pengangguran,cerai,0
+26,buruh,belum menikah,0
+69,pegawai,menikah,0
+22,pengangguran,belum menikah,0
+32,buruh,belum menikah,0
+68,wirausaha,cerai,0
+43,buruh,menikah,1
+60,pengangguran,belum menikah,1
+64,freelancer,menikah,1
+29,freelancer,cerai,1
+23,freelancer,cerai,0
+36,pegawai,belum menikah,0
+49,pengangguran,belum menikah,1
+48,freelancer,belum menikah,1
+41,freelancer,belum menikah,1
+52,buruh,menikah,0
+19,freelancer,menikah,0
+55,pegawai,menikah,1
+58,buruh,belum menikah,0
+23,pengangguran,menikah,1
+68,pengangguran,cerai,1
+59,pengangguran,menikah,0
+40,freelancer,menikah,1
+28,pengangguran,menikah,0
+48,pengangguran,menikah,0
+69,freelancer,cerai,1
+29,pengangguran,menikah,0
+63,pengangguran,belum menikah,0
+45,pegawai,menikah,0
+67,wirausaha,menikah,1
+50,pegawai,menikah,1
+29,buruh,belum menikah,1
+61,buruh,menikah,1
+41,wirausaha,menikah,1
+61,buruh,belum menikah,1
+35,pegawai,menikah,1
+53,pengangguran,menikah,0
+57,wirausaha,belum menikah,0
+42,freelancer,belum menikah,1
+68,buruh,cerai,0
+68,wirausaha,menikah,1
+18,freelancer,cerai,0
+68,wirausaha,menikah,1
+44,pegawai,menikah,0
+68,freelancer,belum menikah,1
+60,buruh,belum menikah,0
+63,wirausaha,cerai,0
+40,pengangguran,menikah,0
+28,pegawai,menikah,1
+38,wirausaha,menikah,0
+34,wirausaha,menikah,0
+58,buruh,menikah,1
+19,buruh,cerai,0
+66,pegawai,menikah,0
+54,pegawai,menikah,0
+39,pegawai,menikah,1
+32,pengangguran,menikah,1
+29,pengangguran,menikah,0
+56,pengangguran,menikah,0
+43,freelancer,menikah,1
+37,buruh,menikah,0
+48,wirausaha,belum menikah,1
+33,pegawai,menikah,0
+24,buruh,belum menikah,1
+53,pengangguran,menikah,1
+58,freelancer,cerai,1
+18,pengangguran,belum menikah,1
+68,freelancer,belum menikah,1
+42,pengangguran,menikah,1
+52,wirausaha,menikah,1
+28,pengangguran,belum menikah,1
+67,freelancer,belum menikah,0
+19,pengangguran,belum menikah,1
+59,pegawai,belum menikah,1
+49,pengangguran,belum menikah,1
+62,pegawai,menikah,1
+68,pegawai,menikah,1
+67,buruh,menikah,0
+60,pegawai,menikah,0
+43,freelancer,belum menikah,0
+46,buruh,belum menikah,0
+37,pengangguran,belum menikah,0
+30,buruh,cerai,1
+69,freelancer,menikah,0
+30,wirausaha,menikah,1
+36,wirausaha,belum menikah,0
+26,buruh,belum menikah,0
+26,pegawai,belum menikah,0
+31,freelancer,menikah,1
+39,pegawai,belum menikah,1
+33,pengangguran,menikah,0
+63,wirausaha,belum menikah,1
+65,freelancer,belum menikah,1
+24,pengangguran,belum menikah,0
+58,pengangguran,menikah,1
+32,pengangguran,menikah,0
+37,wirausaha,menikah,1
+26,freelancer,menikah,0
+49,pegawai,menikah,1
+69,pengangguran,belum menikah,1
+34,wirausaha,menikah,1
+67,wirausaha,menikah,1
+37,pegawai,menikah,1
+67,pegawai,menikah,1
+69,pegawai,menikah,1
+63,pegawai,menikah,0
+43,pengangguran,menikah,1
+62,buruh,belum menikah,1
+35,pengangguran,menikah,1
+24,wirausaha,menikah,1
+62,pegawai,menikah,1
+58,buruh,belum menikah,0
+19,buruh,belum menikah,0
+31,pegawai,cerai,1
+49,pengangguran,belum menikah,0
+34,wirausaha,menikah,1
+68,wirausaha,menikah,0
+19,pegawai,menikah,1
+22,pengangguran,belum menikah,1
+27,wirausaha,menikah,1
+46,pegawai,menikah,1
+49,pegawai,belum menikah,0
+49,pegawai,belum menikah,1
+45,wirausaha,belum menikah,1
+40,pengangguran,menikah,1
+35,pengangguran,menikah,0
+32,pegawai,menikah,0
+59,wirausaha,menikah,0
+44,freelancer,belum menikah,1
+37,pegawai,menikah,0
+24,pegawai,belum menikah,0
+65,buruh,menikah,1
+32,buruh,menikah,1
+22,pegawai,menikah,1
+56,buruh,menikah,1
+22,freelancer,menikah,0
+57,buruh,menikah,0
+18,wirausaha,belum menikah,0
+62,freelancer,menikah,0
+29,freelancer,belum menikah,1
+44,freelancer,menikah,0
+31,pegawai,belum menikah,1
+18,freelancer,menikah,0
+60,pengangguran,belum menikah,1
+60,freelancer,menikah,0
+28,buruh,belum menikah,0
+35,wirausaha,belum menikah,0
+33,freelancer,cerai,1
+64,buruh,belum menikah,0
+45,pengangguran,menikah,0
+36,buruh,belum menikah,1
+18,wirausaha,menikah,1
+39,pegawai,cerai,1
+29,pegawai,belum menikah,1
+52,pegawai,belum menikah,0
+48,pengangguran,belum menikah,0
+64,buruh,menikah,1
+23,wirausaha,menikah,1
+22,wirausaha,belum menikah,1
+47,wirausaha,belum menikah,0
+64,pengangguran,cerai,0
+42,buruh,cerai,1
+37,wirausaha,menikah,1
+57,buruh,menikah,0
+26,freelancer,belum menikah,1
+25,pengangguran,menikah,0
+19,wirausaha,belum menikah,1
+56,buruh,belum menikah,0
+43,pengangguran,belum menikah,0
+54,pengangguran,menikah,1
+50,wirausaha,belum menikah,0
+51,wirausaha,belum menikah,0
+37,pegawai,belum menikah,1
+69,freelancer,belum menikah,0
+65,buruh,belum menikah,1
+48,freelancer,menikah,1
+58,wirausaha,belum menikah,0
+62,pengangguran,menikah,1
+69,wirausaha,cerai,0
+44,freelancer,menikah,0
+35,freelancer,menikah,0
+57,wirausaha,belum menikah,0
+65,wirausaha,cerai,1
+32,freelancer,menikah,0
+64,wirausaha,cerai,1
+39,pengangguran,menikah,1
+30,pengangguran,belum menikah,1
+24,wirausaha,menikah,0
+23,buruh,menikah,1
+62,buruh,cerai,0
+53,freelancer,belum menikah,0
+64,pengangguran,belum menikah,1
+63,wirausaha,menikah,1
+27,pengangguran,belum menikah,1
+40,pegawai,cerai,0
+29,wirausaha,belum menikah,0
+36,wirausaha,belum menikah,0
+43,pegawai,menikah,1
+24,buruh,belum menikah,1
+39,pengangguran,menikah,0
+45,freelancer,belum menikah,0
+35,pegawai,menikah,0
+33,buruh,menikah,0
+31,pegawai,cerai,1
+46,pengangguran,belum menikah,0
+35,freelancer,belum menikah,0
+55,pengangguran,menikah,0
+33,buruh,belum menikah,0
+55,pengangguran,menikah,1
+24,pengangguran,menikah,1
+20,pegawai,cerai,1
+36,pegawai,belum menikah,0
+50,buruh,menikah,0
+52,pengangguran,cerai,0
+42,pengangguran,belum menikah,0
+24,freelancer,menikah,0
+30,pegawai,belum menikah,0
+51,freelancer,menikah,0
+46,freelancer,menikah,1
+44,wirausaha,belum menikah,1
+35,buruh,menikah,0
+55,freelancer,belum menikah,1
+50,freelancer,belum menikah,1
+43,pegawai,belum menikah,0
+50,buruh,belum menikah,0
+36,wirausaha,menikah,1
+36,freelancer,menikah,0
+51,pegawai,menikah,1
+27,pengangguran,menikah,0
+56,freelancer,menikah,1
+59,freelancer,belum menikah,0
+69,freelancer,belum menikah,1
+39,pegawai,menikah,0
+53,wirausaha,menikah,1
+41,pegawai,cerai,1
+58,pegawai,belum menikah,1
+47,pegawai,belum menikah,0
+28,buruh,belum menikah,0
+19,buruh,menikah,1
+63,pengangguran,menikah,1
+33,freelancer,menikah,0
+24,pengangguran,menikah,0
+61,freelancer,menikah,1
+57,wirausaha,menikah,0
+67,pegawai,belum menikah,0
+54,pegawai,menikah,0
+41,wirausaha,menikah,0
+21,buruh,menikah,0
+34,buruh,menikah,1
+39,pegawai,menikah,0
+45,buruh,menikah,1
+25,freelancer,menikah,1
+22,wirausaha,cerai,0
+68,buruh,menikah,0
+38,wirausaha,belum menikah,0
+39,buruh,belum menikah,0
+68,wirausaha,belum menikah,1
+63,freelancer,belum menikah,1
+47,pengangguran,belum menikah,0
+20,pegawai,menikah,1
+29,wirausaha,menikah,1
+52,freelancer,menikah,0
+69,freelancer,belum menikah,1
+49,buruh,belum menikah,0
+50,freelancer,belum menikah,0
+22,wirausaha,cerai,1
+56,freelancer,belum menikah,0
+33,buruh,menikah,0
+64,pengangguran,menikah,1
+46,pengangguran,menikah,1
+33,buruh,menikah,0
+33,freelancer,menikah,0
+51,freelancer,belum menikah,1
+40,pegawai,menikah,1
+61,pegawai,menikah,1
+58,pengangguran,menikah,0
+67,pengangguran,menikah,0
+48,freelancer,belum menikah,0
+59,pegawai,menikah,1
+53,buruh,belum menikah,0
+30,buruh,menikah,0
+44,pegawai,belum menikah,0
+51,buruh,belum menikah,0
+55,buruh,menikah,0
+22,wirausaha,menikah,1
+21,wirausaha,menikah,1
+56,freelancer,menikah,1
+63,buruh,cerai,1
+44,freelancer,belum menikah,0
+44,pegawai,menikah,1
+55,freelancer,menikah,1
+63,wirausaha,belum menikah,1
+60,wirausaha,menikah,0
+50,pengangguran,cerai,0
+39,pegawai,belum menikah,0
+63,freelancer,belum menikah,0
+43,pegawai,menikah,1
+37,wirausaha,menikah,1
+36,pengangguran,belum menikah,1
+49,wirausaha,cerai,0
+66,buruh,belum menikah,1
+62,pegawai,menikah,0
+42,pegawai,cerai,1
+33,buruh,menikah,0
+65,buruh,menikah,0
+20,buruh,menikah,1
+65,buruh,menikah,0
+39,freelancer,cerai,0
+24,freelancer,belum menikah,1
+40,wirausaha,cerai,0
+59,wirausaha,menikah,1
+55,pengangguran,belum menikah,1
+40,pegawai,menikah,1
+64,wirausaha,menikah,1
+27,pengangguran,belum menikah,0
+66,pegawai,menikah,1
+40,freelancer,belum menikah,1
+58,pengangguran,menikah,0
+47,pengangguran,belum menikah,0
+42,buruh,menikah,0
+20,freelancer,menikah,1
+51,buruh,belum menikah,1
+66,pegawai,cerai,0
+35,freelancer,menikah,1
+29,pegawai,menikah,0
+46,wirausaha,menikah,1
+26,buruh,menikah,0
+29,freelancer,menikah,0
+65,pegawai,cerai,1
+27,pengangguran,menikah,0
+60,freelancer,menikah,1
+64,pengangguran,menikah,0
+56,freelancer,cerai,0
+47,wirausaha,menikah,0
+21,freelancer,menikah,0
+50,buruh,menikah,1
+68,buruh,menikah,0
+37,pegawai,belum menikah,1
+51,freelancer,menikah,0
+61,freelancer,menikah,1
+20,pengangguran,menikah,1
+62,pegawai,menikah,0
+44,pegawai,menikah,1
+34,pegawai,belum menikah,1
+22,pengangguran,cerai,0
+37,pengangguran,menikah,0
+44,wirausaha,menikah,0
+20,freelancer,belum menikah,1
+30,pengangguran,menikah,1
+64,wirausaha,cerai,1
+42,pengangguran,belum menikah,0
+19,pengangguran,menikah,1
+52,buruh,menikah,1
+29,buruh,belum menikah,1
+63,freelancer,menikah,0
+60,pegawai,belum menikah,0
+69,freelancer,cerai,1
+28,freelancer,menikah,1
+65,wirausaha,menikah,0
+65,freelancer,belum menikah,0
+51,wirausaha,belum menikah,0
+19,pegawai,belum menikah,0
+59,pegawai,cerai,0
+63,buruh,belum menikah,1
+24,freelancer,menikah,0
+57,pegawai,menikah,1
+68,wirausaha,menikah,1
+62,pengangguran,menikah,0
+43,wirausaha,belum menikah,1
+21,pegawai,belum menikah,0
+46,pengangguran,menikah,1
+28,freelancer,belum menikah,0
+59,pengangguran,menikah,0
+26,buruh,belum menikah,0
+18,pegawai,menikah,1
+43,buruh,belum menikah,0
+48,freelancer,menikah,1
+27,wirausaha,menikah,1
+36,freelancer,cerai,0
+57,pengangguran,menikah,0
+31,buruh,belum menikah,1
+25,pegawai,belum menikah,0
+24,wirausaha,belum menikah,0
+66,wirausaha,menikah,0
+21,wirausaha,menikah,0
+20,pegawai,cerai,0
+36,wirausaha,menikah,1
+35,buruh,belum menikah,1
+52,buruh,cerai,1
+37,pegawai,menikah,0
+22,buruh,menikah,0
+37,pegawai,belum menikah,1
+37,buruh,menikah,0
+64,pengangguran,belum menikah,1
+47,freelancer,belum menikah,1
+32,pengangguran,cerai,1
+21,wirausaha,menikah,0
+40,pegawai,belum menikah,1
+37,freelancer,menikah,0
+40,pegawai,menikah,1
+36,pengangguran,menikah,1
+56,buruh,cerai,0
+47,pegawai,belum menikah,0
+19,pegawai,belum menikah,1
+69,buruh,menikah,1
+60,buruh,menikah,0
+40,pengangguran,belum menikah,0
+55,pegawai,menikah,0
+68,pegawai,belum menikah,1
+62,pengangguran,menikah,1
+23,buruh,belum menikah,1
+59,pegawai,cerai,0
+49,pengangguran,belum menikah,1
+61,pegawai,menikah,1
+33,freelancer,menikah,0
+45,wirausaha,belum menikah,1
+65,pengangguran,belum menikah,0
+24,freelancer,menikah,1
+58,buruh,belum menikah,0
+46,freelancer,menikah,0
+27,buruh,menikah,0
+39,buruh,belum menikah,1
+35,buruh,belum menikah,0
+62,pegawai,belum menikah,0
+20,buruh,menikah,0
+64,freelancer,belum menikah,0
+57,freelancer,belum menikah,0
+62,wirausaha,menikah,1
+35,pengangguran,menikah,1
+28,wirausaha,menikah,0
+41,wirausaha,menikah,1
+42,freelancer,menikah,1
+45,pegawai,menikah,0
+40,pengangguran,belum menikah,0
+27,freelancer,menikah,0
+59,pegawai,cerai,1
+55,pengangguran,belum menikah,0
+66,buruh,menikah,0
+24,buruh,menikah,0
+23,wirausaha,belum menikah,1
+61,wirausaha,belum menikah,1
+53,buruh,menikah,1
+60,wirausaha,menikah,0
+30,buruh,belum menikah,1
+22,freelancer,cerai,1
+27,pegawai,belum menikah,1
+64,pengangguran,belum menikah,1
+56,buruh,menikah,0
+66,buruh,menikah,1
+50,pengangguran,menikah,0
+48,pengangguran,belum menikah,1
+45,freelancer,cerai,0
+27,pengangguran,menikah,0
+63,pengangguran,belum menikah,1
+69,pengangguran,menikah,1
+43,freelancer,menikah,1
+34,pengangguran,belum menikah,0
+56,wirausaha,menikah,1
+57,wirausaha,cerai,1
+46,buruh,menikah,0
+51,buruh,menikah,0
+52,buruh,menikah,0
+68,pegawai,belum menikah,1
+29,freelancer,belum menikah,0
+21,wirausaha,cerai,1
+61,freelancer,belum menikah,1
+35,wirausaha,cerai,1
+49,freelancer,belum menikah,0
+38,freelancer,belum menikah,0
+21,freelancer,menikah,1
+61,pegawai,menikah,0
+45,pengangguran,belum menikah,0
+57,pegawai,belum menikah,0
+20,buruh,belum menikah,1
+52,wirausaha,menikah,0
+67,pegawai,belum menikah,0
+47,pengangguran,menikah,0
+40,pengangguran,belum menikah,1
+20,freelancer,belum menikah,1
+18,wirausaha,cerai,1
+69,wirausaha,cerai,1
+24,buruh,menikah,0
+54,pegawai,menikah,0
+31,pengangguran,menikah,0
+35,wirausaha,menikah,0
+38,pengangguran,menikah,1
+68,pegawai,belum menikah,1
+46,pengangguran,belum menikah,1
+48,freelancer,menikah,0
+51,wirausaha,menikah,1
+35,buruh,belum menikah,0
+53,wirausaha,menikah,1
+33,pengangguran,belum menikah,1
+48,wirausaha,belum menikah,1
+61,pengangguran,belum menikah,1
+30,pegawai,belum menikah,0
+28,freelancer,belum menikah,0
+46,pengangguran,belum menikah,1
+24,pengangguran,menikah,0
+57,buruh,cerai,1
+40,buruh,menikah,0
+54,freelancer,menikah,1
+38,buruh,menikah,0
+21,wirausaha,menikah,1
+57,pegawai,menikah,1
+48,pengangguran,belum menikah,1
+59,pegawai,menikah,0
+35,pegawai,belum menikah,1
+26,pengangguran,menikah,0
+24,pegawai,menikah,0
+57,pegawai,belum menikah,1
+27,pengangguran,belum menikah,1
+37,pengangguran,cerai,0
+18,pegawai,menikah,0
+35,buruh,menikah,1
+34,buruh,belum menikah,0
+49,buruh,belum menikah,1
+66,buruh,menikah,1
+38,buruh,belum menikah,0
+56,pengangguran,menikah,1
+57,buruh,belum menikah,1
+36,wirausaha,menikah,0
+68,pengangguran,menikah,1
+51,wirausaha,menikah,1
+47,freelancer,belum menikah,1
+38,pengangguran,menikah,1
+34,pengangguran,menikah,1
+60,freelancer,belum menikah,1
+19,freelancer,menikah,1
+28,buruh,belum menikah,0
+43,pegawai,menikah,1
+50,pengangguran,belum menikah,1
+46,wirausaha,belum menikah,0
+48,buruh,menikah,1
+59,pengangguran,menikah,0
+67,pegawai,menikah,0
+53,buruh,cerai,1
+62,pegawai,belum menikah,0
+25,pengangguran,menikah,0
+55,buruh,belum menikah,1
+23,pegawai,cerai,0
+22,pegawai,belum menikah,1
+39,buruh,menikah,0
+18,pegawai,belum menikah,0
+22,pegawai,menikah,0
+68,pegawai,menikah,1
+47,buruh,belum menikah,0
+58,wirausaha,menikah,1
+20,pengangguran,belum menikah,0
+24,pengangguran,belum menikah,1
+27,pengangguran,menikah,1
+53,buruh,belum menikah,0
+44,pegawai,belum menikah,1
+56,buruh,belum menikah,1
+35,freelancer,menikah,1
+53,pegawai,menikah,1
+37,pegawai,cerai,0
+64,freelancer,menikah,0
+27,pegawai,belum menikah,1
+22,pegawai,menikah,0
+26,pegawai,menikah,1
+29,wirausaha,belum menikah,0
+68,pengangguran,menikah,0
+46,freelancer,belum menikah,1
+37,freelancer,menikah,0
+45,wirausaha,menikah,1
+48,wirausaha,menikah,1
+45,pegawai,belum menikah,1
+41,buruh,belum menikah,1
+66,wirausaha,cerai,1
+62,pegawai,menikah,0
+20,pegawai,menikah,1
+48,freelancer,cerai,1
+21,buruh,cerai,0
+58,freelancer,belum menikah,1
+47,freelancer,menikah,0
+60,freelancer,menikah,1
+51,pegawai,belum menikah,1
+67,pengangguran,menikah,0
+53,wirausaha,belum menikah,0
+50,pegawai,cerai,0
+58,pengangguran,menikah,0
+18,pengangguran,menikah,1
+61,buruh,belum menikah,0
+26,wirausaha,belum menikah,1
+44,freelancer,menikah,1
+57,pengangguran,belum menikah,1
+26,buruh,menikah,0
+41,buruh,belum menikah,1
+54,wirausaha,belum menikah,0
+35,wirausaha,menikah,0
+24,pegawai,belum menikah,1
+18,pengangguran,belum menikah,1
+50,pegawai,menikah,1
+56,freelancer,menikah,1
+41,wirausaha,belum menikah,1
+32,freelancer,belum menikah,0
+64,freelancer,menikah,1
+67,pengangguran,menikah,1
+59,buruh,menikah,1
+24,pegawai,belum menikah,1
+51,freelancer,belum menikah,1
+52,wirausaha,belum menikah,1
+24,buruh,cerai,1
+57,pengangguran,menikah,1
+33,buruh,menikah,1
+19,buruh,menikah,1
+23,buruh,cerai,0
+39,pegawai,menikah,0
+56,pegawai,belum menikah,0
+23,pengangguran,belum menikah,1
+33,pegawai,belum menikah,0
+18,buruh,cerai,0
+48,freelancer,menikah,1
+65,buruh,belum menikah,0
+48,buruh,menikah,0
+47,wirausaha,cerai,0
+31,buruh,menikah,0
+55,pegawai,belum menikah,0
+56,buruh,belum menikah,1
+48,pengangguran,belum menikah,1
+61,buruh,belum menikah,1
+18,wirausaha,menikah,1
+60,pegawai,belum menikah,1
+34,buruh,menikah,1
+46,buruh,menikah,1
+69,freelancer,belum menikah,1
+33,freelancer,belum menikah,0
+58,wirausaha,belum menikah,0
+23,freelancer,menikah,0
+35,freelancer,menikah,0
+62,pengangguran,belum menikah,1
+43,freelancer,menikah,0
+60,pegawai,menikah,1
+66,pengangguran,menikah,1
+32,buruh,belum menikah,0
+48,wirausaha,belum menikah,1
+18,pegawai,menikah,0
+19,pegawai,menikah,1
+28,wirausaha,menikah,1
+44,freelancer,belum menikah,1
+58,wirausaha,belum menikah,1
+19,pengangguran,belum menikah,0
+69,pegawai,belum menikah,0
+26,wirausaha,menikah,1
+56,wirausaha,belum menikah,1
+64,pegawai,menikah,0
+19,buruh,belum menikah,1
+62,pengangguran,menikah,1
+38,pegawai,menikah,1
+49,buruh,menikah,1
+57,wirausaha,belum menikah,1
+30,pengangguran,belum menikah,0
+69,pengangguran,menikah,1
+55,freelancer,belum menikah,0
+45,freelancer,menikah,1
+26,freelancer,cerai,1
+39,freelancer,cerai,1
+62,wirausaha,belum menikah,1
+60,buruh,cerai,0
+34,wirausaha,belum menikah,1
+20,pengangguran,belum menikah,0
+46,buruh,belum menikah,0
+58,freelancer,belum menikah,0
+68,wirausaha,belum menikah,1
+50,buruh,menikah,1
+48,pegawai,belum menikah,0
+53,pegawai,belum menikah,1
+23,freelancer,belum menikah,0
+29,buruh,cerai,0
+21,freelancer,menikah,0
+29,freelancer,menikah,0
+52,freelancer,menikah,0
+53,freelancer,menikah,0
+60,pegawai,belum menikah,1
+41,freelancer,belum menikah,0
+22,wirausaha,menikah,0
+51,wirausaha,menikah,0
+59,pengangguran,menikah,0
+66,pegawai,menikah,0
+21,wirausaha,menikah,0
+39,pengangguran,menikah,0
+40,pegawai,belum menikah,0
+62,wirausaha,belum menikah,1
+33,pengangguran,menikah,1
+28,freelancer,menikah,1
+66,pengangguran,menikah,1
+22,pegawai,belum menikah,0
+39,pengangguran,menikah,0
+52,buruh,menikah,0
+50,buruh,menikah,1
+48,freelancer,belum menikah,1
+30,freelancer,menikah,1
+52,pegawai,belum menikah,1
+29,wirausaha,menikah,0
+27,freelancer,belum menikah,1
+37,pegawai,menikah,0
+43,freelancer,menikah,0
+24,pegawai,cerai,0
+19,freelancer,menikah,0
+21,pengangguran,menikah,1
+46,pegawai,belum menikah,1
+55,freelancer,menikah,0
+56,buruh,belum menikah,0
+23,pegawai,menikah,0
+57,buruh,belum menikah,0
+31,wirausaha,belum menikah,1
+43,freelancer,menikah,1
+58,buruh,menikah,0
+62,pegawai,menikah,1
+43,freelancer,belum menikah,0
+67,pengangguran,belum menikah,0
+40,pegawai,menikah,1
+66,pegawai,menikah,0
+26,freelancer,belum menikah,1
+26,wirausaha,belum menikah,1
+24,buruh,belum menikah,0
+38,wirausaha,belum menikah,0
+69,pengangguran,belum menikah,0
+61,pengangguran,menikah,0
+61,wirausaha,menikah,1
+24,pengangguran,menikah,1
+35,pegawai,menikah,0
+58,pegawai,belum menikah,1
+43,wirausaha,menikah,0
+53,pegawai,menikah,1
+51,freelancer,belum menikah,0
+34,pegawai,menikah,0
+33,wirausaha,belum menikah,1
+50,wirausaha,belum menikah,0
+35,buruh,menikah,1
+40,wirausaha,menikah,1
+22,freelancer,menikah,0
+58,pengangguran,belum menikah,0
+30,freelancer,cerai,0
+57,freelancer,belum menikah,0
+37,wirausaha,menikah,1
+67,pengangguran,menikah,0
+49,wirausaha,belum menikah,0
+50,freelancer,belum menikah,0
+68,pengangguran,belum menikah,0
+35,buruh,menikah,0
+23,pengangguran,menikah,1
+31,wirausaha,belum menikah,1
+37,wirausaha,menikah,0
+37,wirausaha,menikah,0
+42,buruh,menikah,0
+38,pegawai,belum menikah,1
+28,pengangguran,menikah,1
+65,buruh,belum menikah,0
+64,wirausaha,menikah,1
+69,pegawai,menikah,0
+41,freelancer,menikah,1
+67,wirausaha,menikah,1
+62,wirausaha,cerai,0
+55,wirausaha,belum menikah,1
+37,wirausaha,menikah,0
+55,pengangguran,menikah,0
+56,pegawai,belum menikah,1
+42,wirausaha,menikah,1
+52,pengangguran,cerai,1
+61,pegawai,menikah,1
+39,wirausaha,menikah,0
+46,pengangguran,menikah,0
+31,pegawai,belum menikah,1
+54,wirausaha,menikah,0
+49,freelancer,belum menikah,1
+42,freelancer,cerai,0
+48,pengangguran,belum menikah,1
+40,wirausaha,menikah,0
+52,freelancer,menikah,1
+62,wirausaha,menikah,1
+50,wirausaha,menikah,1
+43,freelancer,menikah,0
+18,pegawai,belum menikah,1
+40,pengangguran,menikah,0
+51,buruh,menikah,0
+52,wirausaha,menikah,1
+33,freelancer,menikah,1
+40,wirausaha,belum menikah,1
+37,wirausaha,belum menikah,1
+58,freelancer,belum menikah,1
+69,buruh,menikah,1
+21,freelancer,belum menikah,0
+59,freelancer,menikah,1
+46,freelancer,menikah,0
+67,pegawai,menikah,0
+51,wirausaha,belum menikah,1
+62,pengangguran,menikah,0
+31,wirausaha,menikah,1
+38,wirausaha,belum menikah,1
+37,pengangguran,menikah,0
+57,wirausaha,menikah,0
+41,freelancer,belum menikah,1
+23,wirausaha,menikah,1
+63,pegawai,belum menikah,0
+58,pegawai,belum menikah,0
+62,buruh,belum menikah,1
+56,wirausaha,menikah,1
+55,freelancer,belum menikah,0
+58,pegawai,belum menikah,0
+54,pengangguran,menikah,1
+62,wirausaha,menikah,0
+37,freelancer,belum menikah,0
+18,wirausaha,cerai,0
+38,buruh,menikah,1
+54,freelancer,belum menikah,1
+32,buruh,menikah,1
+68,freelancer,menikah,1
+69,pegawai,menikah,0
+58,pengangguran,menikah,0
+65,pegawai,menikah,1
+60,freelancer,belum menikah,1
+37,freelancer,belum menikah,1
+44,buruh,menikah,0
+59,buruh,menikah,1
+20,wirausaha,belum menikah,0
+48,pegawai,cerai,1
+52,freelancer,cerai,1
+57,freelancer,menikah,0
+19,freelancer,belum menikah,0
+18,buruh,menikah,0
+24,wirausaha,menikah,1
+21,freelancer,belum menikah,1
+30,pegawai,cerai,0
+65,wirausaha,belum menikah,1
+49,freelancer,menikah,0
+40,pegawai,menikah,0
+51,freelancer,menikah,0
+53,pengangguran,cerai,1
+49,freelancer,menikah,1
+44,wirausaha,menikah,1
+56,pegawai,menikah,1
+25,freelancer,belum menikah,1
+63,pegawai,menikah,1
+31,pegawai,belum menikah,0
+30,pegawai,belum menikah,1
+50,pengangguran,menikah,1
+59,pegawai,menikah,0
+41,buruh,belum menikah,1
+28,pengangguran,menikah,0
+68,wirausaha,belum menikah,1
+31,pengangguran,menikah,1
+64,pegawai,menikah,1
+53,freelancer,belum menikah,1
+52,buruh,belum menikah,0
+63,pengangguran,belum menikah,0
+55,wirausaha,menikah,1
+39,wirausaha,menikah,1
+21,pengangguran,belum menikah,0
+34,buruh,belum menikah,1
+41,wirausaha,cerai,1
+43,pengangguran,belum menikah,0
+50,pegawai,belum menikah,0
+35,freelancer,belum menikah,1
+33,freelancer,belum menikah,0
+39,wirausaha,menikah,0
+20,pengangguran,menikah,0
+24,wirausaha,menikah,1
+23,buruh,menikah,0
+30,pegawai,menikah,1
+23,buruh,belum menikah,0
+62,buruh,belum menikah,0
+55,wirausaha,menikah,1
+21,wirausaha,menikah,0
+33,pegawai,belum menikah,1
+55,wirausaha,belum menikah,0
+23,pengangguran,menikah,0
+64,wirausaha,belum menikah,0
+56,buruh,belum menikah,0
+66,freelancer,menikah,0
+28,pegawai,menikah,1
+29,wirausaha,belum menikah,1
+69,pegawai,menikah,1
+68,pengangguran,belum menikah,1
+28,pegawai,belum menikah,1
+24,freelancer,menikah,1
+63,buruh,menikah,0
+33,pegawai,belum menikah,1
+32,buruh,belum menikah,0
+30,wirausaha,menikah,1
+40,pegawai,cerai,1
+62,pegawai,belum menikah,0
+55,freelancer,menikah,1
+42,pegawai,cerai,0
+44,pengangguran,cerai,0
+66,pengangguran,menikah,1
+38,buruh,menikah,1
+57,pegawai,menikah,1
+53,pegawai,cerai,1
+19,freelancer,cerai,0
+48,wirausaha,cerai,1
+58,buruh,belum menikah,1
+33,pengangguran,belum menikah,1
+33,wirausaha,menikah,0
+37,freelancer,menikah,1
+25,buruh,menikah,0
+27,freelancer,belum menikah,0
+22,freelancer,menikah,1
+44,buruh,menikah,1
+40,buruh,belum menikah,1
+18,freelancer,cerai,0
+36,pegawai,menikah,0
+69,wirausaha,menikah,0
+41,buruh,menikah,0
+25,freelancer,belum menikah,1
+59,pegawai,menikah,0
+20,buruh,belum menikah,0
+26,pegawai,menikah,0
+67,pegawai,menikah,0
+29,pegawai,menikah,0
+31,pegawai,belum menikah,1
+50,pegawai,menikah,1
+52,freelancer,belum menikah,0
+47,buruh,belum menikah,0
+27,freelancer,menikah,1
+59,buruh,menikah,0
+46,freelancer,cerai,1
+50,pegawai,menikah,1
+29,buruh,belum menikah,1
+66,freelancer,menikah,0
+65,pengangguran,belum menikah,1
+67,buruh,menikah,0
+39,buruh,menikah,0
+19,wirausaha,menikah,1
+62,pengangguran,menikah,0
+60,pengangguran,cerai,0
+44,wirausaha,belum menikah,1
+22,freelancer,belum menikah,0
+31,pegawai,menikah,1
+29,wirausaha,menikah,1
+21,freelancer,menikah,0
+48,pengangguran,belum menikah,0
+32,pengangguran,belum menikah,0
+39,wirausaha,belum menikah,1
+50,buruh,menikah,1
+66,wirausaha,belum menikah,0
+48,buruh,belum menikah,1
+23,pengangguran,menikah,0
+64,buruh,menikah,1
+35,buruh,belum menikah,1
+36,pegawai,belum menikah,1
+33,freelancer,menikah,1
+62,freelancer,menikah,0
+28,buruh,belum menikah,0
+24,buruh,menikah,0
+39,wirausaha,belum menikah,1
+27,freelancer,cerai,0
+68,freelancer,belum menikah,1
+27,wirausaha,belum menikah,0
+44,pegawai,belum menikah,1
+67,pegawai,menikah,1
+49,freelancer,menikah,0
+68,buruh,menikah,1
+48,freelancer,menikah,1
+42,freelancer,belum menikah,1
+53,pengangguran,menikah,0
+26,pengangguran,menikah,0
+59,buruh,menikah,1
+34,freelancer,belum menikah,1
+21,pengangguran,belum menikah,1
+52,freelancer,belum menikah,0
+27,pengangguran,menikah,0
+29,buruh,menikah,0
+47,wirausaha,menikah,1
+21,pengangguran,menikah,1
+23,pegawai,menikah,0
+46,pengangguran,cerai,1
+27,freelancer,belum menikah,0
+32,freelancer,cerai,1
+44,freelancer,menikah,1
+31,pengangguran,menikah,1
+35,freelancer,belum menikah,0
+36,buruh,menikah,1
+68,freelancer,menikah,1
+18,freelancer,menikah,0
+51,freelancer,cerai,1
+38,wirausaha,belum menikah,0
+64,wirausaha,belum menikah,0
+49,buruh,menikah,1
+60,pengangguran,belum menikah,0
+28,freelancer,menikah,1
+40,freelancer,cerai,1
+69,freelancer,cerai,1
+49,buruh,menikah,0
+30,pengangguran,menikah,0
+23,freelancer,cerai,1
+60,buruh,menikah,0
+42,pegawai,menikah,1
+22,pegawai,menikah,1
+51,wirausaha,belum menikah,1
+33,pegawai,belum menikah,0
+35,pegawai,menikah,0
+44,pengangguran,belum menikah,1
+20,pengangguran,menikah,1
+61,freelancer,menikah,1
+44,pengangguran,menikah,1
+60,pegawai,belum menikah,0
+63,pegawai,cerai,1
+21,freelancer,menikah,1
+31,buruh,belum menikah,0
+41,freelancer,belum menikah,0
+21,pegawai,menikah,1
+36,wirausaha,menikah,1
+52,wirausaha,menikah,1
+49,buruh,menikah,0
+38,wirausaha,belum menikah,0
+61,freelancer,belum menikah,1
+35,freelancer,menikah,1
+65,pengangguran,belum menikah,0
+62,pengangguran,menikah,0
+69,pengangguran,menikah,0
+55,freelancer,belum menikah,0
+55,freelancer,belum menikah,0
+35,pengangguran,belum menikah,1
+61,pegawai,menikah,1
+19,pegawai,belum menikah,0
+68,pengangguran,belum menikah,0
+67,pengangguran,menikah,1

@@ -1,0 +1,101 @@
+jumlah_tanggungan,penghasilan,kondisi_rumah,layak_subsidi,umur,status_pekerjaan,status_pernikahan,riwayat_penyakit,status_gizi,tinggi_cm,berat_kg
+4,1925472,tidak layak,1,43,pengangguran,cerai,hipertensi,baik,146,51
+5,548984,layak,1,54,pensiunan,cerai,diabetes,baik,142,86
+3,2900070,sangat sederhana,1,43,pengangguran,belum menikah,sehat,baik,186,40
+5,3765879,sangat sederhana,0,40,pengangguran,belum menikah,hipertensi,baik,162,65
+5,2004384,sangat sederhana,0,26,pengangguran,menikah,asma,lebih,185,53
+2,2730919,semi permanen,1,29,pengangguran,cerai,hipertensi,lebih,182,77
+3,2252126,semi permanen,0,18,karyawan,cerai,asma,lebih,186,76
+3,4830634,layak,0,18,buruh,belum menikah,sehat,lebih,184,50
+3,2237095,layak,1,64,pelajar,menikah,diabetes,baik,157,75
+5,2611138,tidak layak,1,51,pengangguran,cerai,hipertensi,kurang,177,52
+4,2609818,tidak layak,0,49,pensiunan,cerai,diabetes,baik,174,82
+3,2731785,layak,1,65,pengangguran,menikah,hipertensi,kurang,154,42
+6,4983302,semi permanen,1,42,pensiunan,menikah,asma,lebih,164,72
+5,3448089,sangat sederhana,1,57,karyawan,cerai,diabetes,baik,176,45
+2,3225928,layak,0,62,pensiunan,cerai,hipertensi,lebih,167,89
+4,4353339,tidak layak,1,18,pelajar,menikah,asma,baik,149,95
+6,2343400,semi permanen,1,33,buruh,cerai,diabetes,lebih,178,49
+6,1579111,layak,1,56,pensiunan,belum menikah,diabetes,kurang,156,44
+2,1496107,layak,1,22,pensiunan,belum menikah,hipertensi,kurang,178,62
+4,4021441,semi permanen,1,39,buruh,menikah,hipertensi,kurang,161,49
+5,2370230,layak,0,46,pelajar,menikah,hipertensi,baik,165,83
+1,4247389,semi permanen,1,20,pengangguran,menikah,asma,kurang,183,41
+4,4642807,sangat sederhana,1,29,pensiunan,belum menikah,hipertensi,baik,164,52
+2,4102279,semi permanen,1,43,buruh,cerai,diabetes,kurang,156,79
+6,2621690,semi permanen,0,33,karyawan,belum menikah,diabetes,kurang,152,41
+5,3491650,semi permanen,1,68,buruh,cerai,hipertensi,baik,159,59
+4,991234,layak,1,54,karyawan,belum menikah,hipertensi,baik,164,40
+1,2448260,layak,1,39,pelajar,cerai,sehat,kurang,143,76
+1,4833486,semi permanen,0,46,pengangguran,belum menikah,diabetes,baik,149,48
+3,2021101,layak,1,31,buruh,menikah,asma,kurang,142,56
+3,4878368,tidak layak,1,45,pensiunan,belum menikah,sehat,baik,180,48
+2,4908324,tidak layak,0,22,pelajar,cerai,hipertensi,lebih,184,50
+4,3636729,layak,1,64,buruh,belum menikah,hipertensi,lebih,157,54
+4,1397421,layak,1,66,pensiunan,belum menikah,diabetes,lebih,186,63
+6,622409,semi permanen,1,47,buruh,belum menikah,hipertensi,lebih,175,77
+6,2516716,sangat sederhana,0,63,karyawan,menikah,asma,lebih,186,94
+6,2850770,layak,1,69,buruh,belum menikah,diabetes,kurang,161,74
+3,1269598,tidak layak,1,22,buruh,menikah,hipertensi,lebih,173,69
+4,3767824,semi permanen,1,29,buruh,menikah,diabetes,lebih,186,70
+4,3831068,layak,0,33,pelajar,belum menikah,hipertensi,lebih,147,88
+1,3756415,tidak layak,0,43,buruh,belum menikah,hipertensi,lebih,179,44
+3,1374371,tidak layak,0,43,pensiunan,belum menikah,hipertensi,baik,188,99
+5,3332868,sangat sederhana,0,65,karyawan,cerai,asma,kurang,183,83
+3,4372998,semi permanen,1,38,karyawan,belum menikah,asma,lebih,158,89
+5,1473548,semi permanen,0,56,buruh,menikah,diabetes,lebih,181,53
+1,3844014,sangat sederhana,0,53,pelajar,belum menikah,hipertensi,lebih,180,92
+2,1713475,sangat sederhana,1,50,pelajar,cerai,hipertensi,kurang,176,95
+4,3970495,semi permanen,1,47,pensiunan,belum menikah,asma,baik,145,50
+1,3459034,semi permanen,0,54,buruh,cerai,hipertensi,kurang,165,48
+4,543585,layak,0,40,karyawan,cerai,asma,baik,173,73
+6,3557213,layak,1,27,pelajar,belum menikah,hipertensi,lebih,184,51
+2,3039448,sangat sederhana,0,22,buruh,menikah,diabetes,lebih,145,74
+2,609556,layak,0,53,pelajar,cerai,hipertensi,kurang,176,74
+1,2075557,tidak layak,0,51,pelajar,belum menikah,hipertensi,kurang,172,40
+2,4527419,layak,0,69,karyawan,belum menikah,sehat,baik,161,79
+5,4894539,layak,1,48,pengangguran,menikah,asma,baik,160,61
+2,2623091,tidak layak,0,27,pensiunan,cerai,hipertensi,kurang,145,99
+4,2509021,sangat sederhana,1,36,pensiunan,cerai,hipertensi,baik,145,68
+4,1701482,tidak layak,1,49,karyawan,belum menikah,sehat,kurang,187,47
+4,1042335,layak,0,18,pelajar,belum menikah,sehat,baik,143,50
+4,3933977,sangat sederhana,1,22,buruh,menikah,asma,kurang,169,80
+5,4770070,layak,0,62,pelajar,menikah,sehat,kurang,150,76
+3,4060920,tidak layak,1,21,karyawan,cerai,diabetes,kurang,169,53
+6,2984413,tidak layak,0,33,pensiunan,cerai,sehat,baik,170,99
+1,3407360,layak,0,41,pelajar,belum menikah,diabetes,baik,163,69
+4,3282592,semi permanen,1,33,pensiunan,cerai,asma,baik,148,74
+2,2735000,semi permanen,0,19,buruh,menikah,asma,kurang,142,60
+4,4822252,tidak layak,0,66,pensiunan,menikah,asma,baik,170,76
+2,902690,tidak layak,0,45,pensiunan,belum menikah,asma,baik,179,44
+6,3048421,semi permanen,0,49,pengangguran,menikah,asma,kurang,176,58
+6,4716263,semi permanen,1,44,pengangguran,menikah,diabetes,lebih,175,98
+6,4306618,layak,0,37,pengangguran,menikah,diabetes,kurang,163,53
+2,2454109,layak,1,41,pensiunan,menikah,asma,baik,170,65
+4,4922880,semi permanen,1,29,karyawan,belum menikah,sehat,kurang,145,43
+6,3612754,layak,1,67,pensiunan,belum menikah,hipertensi,lebih,141,64
+5,1884250,layak,0,52,karyawan,cerai,asma,kurang,159,84
+2,4525717,sangat sederhana,0,50,karyawan,menikah,sehat,baik,167,81
+2,561087,layak,1,50,pengangguran,cerai,hipertensi,lebih,150,64
+4,1996176,tidak layak,1,68,pelajar,belum menikah,asma,baik,143,57
+2,2386013,layak,1,60,buruh,belum menikah,asma,lebih,154,79
+2,539353,layak,0,54,pengangguran,belum menikah,diabetes,lebih,145,47
+6,3860011,semi permanen,0,29,pengangguran,belum menikah,hipertensi,kurang,188,78
+4,4759622,tidak layak,0,20,pelajar,belum menikah,hipertensi,kurang,169,79
+6,916880,layak,1,18,buruh,belum menikah,sehat,baik,177,53
+6,1313168,layak,0,50,pensiunan,belum menikah,diabetes,kurang,141,71
+4,725281,sangat sederhana,1,57,pensiunan,menikah,diabetes,kurang,154,90
+1,3617697,layak,0,27,pengangguran,cerai,diabetes,lebih,150,77
+6,4282875,layak,1,60,buruh,belum menikah,diabetes,kurang,147,72
+5,3495765,sangat sederhana,1,61,pengangguran,menikah,hipertensi,lebih,165,62
+5,769536,semi permanen,1,46,karyawan,menikah,hipertensi,lebih,184,54
+2,4872093,layak,0,30,pengangguran,cerai,asma,lebih,183,72
+5,2061729,sangat sederhana,1,29,pengangguran,belum menikah,asma,baik,144,64
+2,2722809,tidak layak,1,48,pensiunan,cerai,diabetes,baik,145,56
+1,1181669,semi permanen,0,63,pensiunan,belum menikah,diabetes,baik,165,72
+4,4364822,tidak layak,0,19,pensiunan,menikah,diabetes,lebih,143,86
+4,1619043,tidak layak,1,68,karyawan,menikah,asma,baik,158,94
+4,3829462,sangat sederhana,1,67,pensiunan,menikah,sehat,baik,159,41
+5,2706903,layak,0,52,buruh,menikah,sehat,kurang,172,53
+1,2241093,sangat sederhana,0,40,pelajar,cerai,asma,baik,159,92
+5,3058231,sangat sederhana,1,34,buruh,belum menikah,asma,baik,188,79
