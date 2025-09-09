@@ -61,6 +61,3 @@ Tujuannya adalah memahami konsep dasar, arsitektur, implementasi, serta integras
 
 ---
 
-## 📜 Lisensi
-Repositori ini menggunakan lisensi **MIT** – silakan gunakan, modifikasi, dan kembangkan.  
-
