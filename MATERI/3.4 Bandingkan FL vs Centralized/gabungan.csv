@@ -1,0 +1,1501 @@
+jumlah_tanggungan,penghasilan,kondisi_rumah,umur,status_pekerjaan,status_pernikahan,riwayat_penyakit,status_gizi,tinggi_cm,berat_kg,layak_subsidi
+7,2168898,semi permanen,33,pns,menikah,tidak ada,kurang gizi,175,52,0
+3,905067,semi permanen,35,karyawan,belum menikah,hipertensi,lebih,154,81,1
+2,4070886,layak,52,pns,menikah,tidak ada,normal,157,64,1
+4,3039184,semi permanen,57,buruh,belum menikah,tbc,normal,186,94,1
+4,1449692,layak,53,mahasiswa,belum menikah,diabetes,normal,173,72,0
+6,1734586,layak,58,mahasiswa,belum menikah,tbc,lebih,163,75,0
+4,1941421,sangat sederhana,48,buruh,menikah,asma,kurang gizi,170,60,1
+5,3771756,layak,48,pns,belum menikah,diabetes,kurang gizi,157,63,0
+5,2897735,tidak layak,57,pns,belum menikah,diabetes,kurang gizi,188,55,1
+7,763025,tidak layak,55,petani,menikah,tbc,normal,189,65,0
+3,3422443,sangat sederhana,43,petani,menikah,asma,lebih,161,52,1
+5,2592770,tidak layak,63,petani,menikah,asma,lebih,163,45,0
+7,2623899,sangat sederhana,55,petani,janda/duda,diabetes,normal,170,52,0
+4,1590601,tidak layak,40,mahasiswa,janda/duda,tbc,kurang gizi,181,68,0
+6,4952989,tidak layak,46,pns,belum menikah,diabetes,kurang gizi,146,66,0
+6,1203846,tidak layak,44,buruh,menikah,tbc,kurang gizi,180,45,0
+6,2233687,layak,51,petani,menikah,tidak ada,lebih,167,79,1
+3,1453019,layak,35,tidak bekerja,menikah,tbc,lebih,172,88,0
+1,1160442,layak,19,buruh,belum menikah,asma,lebih,167,69,1
+7,2052190,layak,21,pns,belum menikah,tidak ada,normal,151,83,0
+3,2247163,sangat sederhana,61,tidak bekerja,belum menikah,hipertensi,kurang gizi,183,97,1
+6,849334,layak,19,pns,janda/duda,asma,lebih,187,51,1
+2,4677045,layak,21,petani,belum menikah,tidak ada,lebih,160,96,0
+7,2872441,layak,52,pns,menikah,diabetes,normal,170,40,1
+3,4399654,sangat sederhana,45,petani,janda/duda,tidak ada,normal,175,95,0
+4,4605112,semi permanen,19,pns,janda/duda,asma,normal,190,47,0
+5,4794632,semi permanen,51,buruh,janda/duda,tidak ada,kurang gizi,145,76,1
+3,2234967,layak,63,petani,janda/duda,tbc,kurang gizi,171,78,1
+4,4849437,sangat sederhana,54,mahasiswa,menikah,tbc,normal,177,95,0
+7,3802488,tidak layak,48,buruh,belum menikah,diabetes,kurang gizi,168,47,1
+1,4795401,semi permanen,23,petani,belum menikah,asma,kurang gizi,173,78,0
+5,2989638,layak,18,mahasiswa,belum menikah,tbc,kurang gizi,190,52,0
+6,710532,tidak layak,50,mahasiswa,belum menikah,asma,kurang gizi,171,93,0
+1,2941236,tidak layak,43,pns,janda/duda,tidak ada,kurang gizi,147,41,0
+4,4945299,sangat sederhana,44,tidak bekerja,menikah,asma,kurang gizi,164,74,0
+5,1453721,tidak layak,54,tidak bekerja,janda/duda,tidak ada,lebih,166,53,0
+7,794062,semi permanen,31,petani,janda/duda,tbc,lebih,175,52,1
+1,3121808,layak,39,pns,belum menikah,hipertensi,normal,187,72,1
+4,3389279,layak,18,pns,belum menikah,hipertensi,lebih,154,57,0
+1,2372947,layak,57,pns,janda/duda,tidak ada,lebih,173,69,1
+3,3961873,tidak layak,64,buruh,janda/duda,tbc,kurang gizi,164,46,1
+7,2496900,layak,51,petani,menikah,asma,normal,146,49,0
+6,1963626,sangat sederhana,39,petani,menikah,asma,lebih,145,51,0
+3,2295877,layak,58,buruh,menikah,tbc,kurang gizi,165,88,0
+3,2699865,tidak layak,53,buruh,janda/duda,tbc,normal,149,40,1
+4,1749532,sangat sederhana,27,karyawan,menikah,diabetes,kurang gizi,166,92,0
+5,2633836,tidak layak,24,petani,menikah,diabetes,normal,157,88,1
+6,4180073,layak,30,tidak bekerja,menikah,asma,lebih,172,99,1
+7,4759544,tidak layak,62,pns,menikah,diabetes,normal,187,63,0
+1,1618906,layak,19,karyawan,janda/duda,asma,lebih,158,58,1
+1,708662,sangat sederhana,25,pns,belum menikah,hipertensi,kurang gizi,188,81,1
+2,4237383,tidak layak,29,pns,belum menikah,tidak ada,kurang gizi,174,81,1
+1,3659325,semi permanen,42,buruh,menikah,diabetes,lebih,175,82,1
+4,4165099,semi permanen,61,karyawan,janda/duda,diabetes,normal,188,67,0
+7,1736634,layak,23,petani,belum menikah,hipertensi,kurang gizi,182,61,1
+1,1321441,layak,65,buruh,menikah,tidak ada,normal,163,97,1
+1,3026833,sangat sederhana,50,buruh,belum menikah,tbc,normal,158,76,0
+6,4486605,tidak layak,32,karyawan,menikah,tidak ada,lebih,148,76,1
+7,1784430,semi permanen,30,mahasiswa,menikah,diabetes,lebih,170,70,0
+1,2990319,tidak layak,62,tidak bekerja,janda/duda,asma,kurang gizi,156,68,0
+5,1808649,sangat sederhana,48,pns,menikah,hipertensi,kurang gizi,180,55,1
+4,3803521,layak,32,buruh,belum menikah,diabetes,lebih,167,56,0
+3,2778563,semi permanen,46,pns,menikah,asma,normal,172,48,1
+7,1863457,tidak layak,60,tidak bekerja,menikah,diabetes,kurang gizi,183,93,1
+2,2918459,sangat sederhana,25,buruh,belum menikah,hipertensi,normal,184,84,1
+4,3079699,tidak layak,35,mahasiswa,belum menikah,tidak ada,kurang gizi,178,66,0
+1,4737143,layak,45,tidak bekerja,janda/duda,tidak ada,kurang gizi,162,40,1
+7,2127281,layak,39,karyawan,belum menikah,tbc,lebih,146,74,0
+4,4789191,semi permanen,34,pns,menikah,tbc,lebih,145,43,0
+6,1443230,tidak layak,28,petani,menikah,diabetes,kurang gizi,188,66,1
+2,899264,sangat sederhana,21,pns,janda/duda,tbc,kurang gizi,182,81,0
+3,1034636,semi permanen,59,karyawan,belum menikah,hipertensi,lebih,175,55,1
+6,1923118,sangat sederhana,30,buruh,menikah,hipertensi,normal,183,40,1
+3,1883336,tidak layak,22,buruh,menikah,tbc,lebih,148,56,0
+5,1011324,sangat sederhana,48,karyawan,belum menikah,hipertensi,kurang gizi,149,72,1
+2,1353682,tidak layak,36,buruh,menikah,asma,normal,154,94,1
+6,2937276,layak,18,buruh,menikah,tbc,lebih,176,86,0
+5,3110743,layak,57,buruh,janda/duda,asma,lebih,175,57,1
+6,1960559,semi permanen,47,tidak bekerja,belum menikah,asma,lebih,157,78,1
+3,1538429,tidak layak,62,petani,janda/duda,diabetes,lebih,161,49,1
+4,1093994,semi permanen,33,buruh,janda/duda,hipertensi,normal,160,48,1
+3,774326,semi permanen,34,mahasiswa,belum menikah,asma,normal,159,100,1
+3,3206062,semi permanen,19,pns,janda/duda,tbc,lebih,149,60,0
+4,2243911,tidak layak,55,petani,menikah,tidak ada,kurang gizi,189,97,0
+7,2244906,layak,43,mahasiswa,belum menikah,tidak ada,normal,163,86,0
+3,3230514,layak,47,buruh,belum menikah,asma,kurang gizi,171,87,0
+1,4980059,tidak layak,63,buruh,belum menikah,tidak ada,lebih,163,44,0
+4,4461321,tidak layak,36,buruh,menikah,diabetes,lebih,146,57,1
+1,1543390,tidak layak,29,petani,janda/duda,tbc,normal,179,51,0
+4,776741,tidak layak,23,petani,menikah,tbc,kurang gizi,164,76,0
+4,2912318,tidak layak,28,pns,belum menikah,tbc,kurang gizi,146,69,1
+3,1455038,sangat sederhana,53,buruh,belum menikah,tidak ada,lebih,157,41,1
+4,4568615,tidak layak,63,buruh,menikah,tbc,kurang gizi,147,71,1
+2,1352586,layak,24,tidak bekerja,belum menikah,tidak ada,kurang gizi,166,43,1
+7,4634777,tidak layak,50,petani,menikah,tidak ada,normal,189,41,1
+7,1954077,sangat sederhana,52,buruh,belum menikah,tidak ada,lebih,155,83,1
+5,4325026,tidak layak,58,pns,menikah,tidak ada,lebih,172,85,0
+5,2071003,sangat sederhana,42,tidak bekerja,belum menikah,diabetes,lebih,160,91,0
+6,3082254,semi permanen,51,mahasiswa,belum menikah,hipertensi,kurang gizi,178,100,1
+7,4272783,tidak layak,63,buruh,belum menikah,tbc,kurang gizi,185,56,0
+6,4015888,semi permanen,20,petani,janda/duda,hipertensi,lebih,148,89,0
+2,1900514,semi permanen,29,tidak bekerja,janda/duda,hipertensi,lebih,179,61,0
+2,960605,sangat sederhana,50,karyawan,janda/duda,hipertensi,normal,146,73,0
+7,4512755,tidak layak,22,petani,belum menikah,hipertensi,lebih,177,59,0
+6,1643189,tidak layak,28,pns,menikah,tidak ada,lebih,177,66,0
+3,1073392,sangat sederhana,23,mahasiswa,belum menikah,diabetes,kurang gizi,154,84,0
+6,1364273,sangat sederhana,18,buruh,janda/duda,diabetes,kurang gizi,157,99,0
+5,3170978,sangat sederhana,63,karyawan,belum menikah,tidak ada,lebih,146,87,0
+6,1957902,semi permanen,52,mahasiswa,belum menikah,hipertensi,lebih,145,57,1
+4,4932081,sangat sederhana,33,tidak bekerja,belum menikah,tidak ada,normal,155,43,1
+6,2576649,layak,62,pns,janda/duda,diabetes,kurang gizi,166,66,1
+5,1793635,layak,38,buruh,janda/duda,tbc,lebih,184,44,1
+2,1286510,tidak layak,64,pns,belum menikah,diabetes,normal,164,87,0
+5,4754277,semi permanen,56,tidak bekerja,janda/duda,tbc,kurang gizi,180,46,0
+6,2618442,sangat sederhana,30,karyawan,janda/duda,tidak ada,kurang gizi,182,93,1
+2,1677725,sangat sederhana,37,tidak bekerja,menikah,diabetes,lebih,153,55,0
+6,2995752,sangat sederhana,32,karyawan,menikah,diabetes,kurang gizi,161,88,1
+4,3982154,layak,43,mahasiswa,menikah,hipertensi,kurang gizi,156,66,0
+1,775113,semi permanen,49,buruh,menikah,diabetes,kurang gizi,161,75,0
+6,4847735,tidak layak,63,mahasiswa,janda/duda,tidak ada,kurang gizi,158,72,1
+4,3479091,sangat sederhana,57,mahasiswa,menikah,hipertensi,lebih,147,95,0
+1,1840022,tidak layak,65,pns,belum menikah,asma,kurang gizi,153,89,0
+2,3372526,tidak layak,33,pns,janda/duda,asma,normal,162,59,1
+1,2488367,sangat sederhana,32,mahasiswa,belum menikah,tbc,lebih,184,73,0
+1,4447820,tidak layak,64,karyawan,menikah,tidak ada,lebih,186,73,1
+1,1723144,tidak layak,51,tidak bekerja,janda/duda,tidak ada,lebih,148,91,1
+4,2165974,tidak layak,59,mahasiswa,menikah,diabetes,lebih,173,73,0
+2,2490481,semi permanen,51,karyawan,belum menikah,tidak ada,normal,168,77,1
+2,4031077,sangat sederhana,30,tidak bekerja,menikah,tbc,kurang gizi,177,72,0
+1,3564239,sangat sederhana,35,mahasiswa,menikah,hipertensi,lebih,180,50,1
+3,3221094,semi permanen,31,pns,belum menikah,diabetes,normal,173,88,1
+7,4902585,semi permanen,53,karyawan,menikah,tbc,kurang gizi,187,61,1
+7,4319298,sangat sederhana,41,mahasiswa,belum menikah,tbc,lebih,159,73,0
+4,4854527,sangat sederhana,58,buruh,janda/duda,diabetes,lebih,168,54,0
+5,1108617,layak,47,pns,janda/duda,hipertensi,kurang gizi,176,82,1
+1,1585740,sangat sederhana,21,petani,menikah,tbc,normal,161,99,1
+4,3141692,semi permanen,46,petani,belum menikah,tbc,normal,187,64,0
+4,3783132,semi permanen,21,buruh,menikah,hipertensi,kurang gizi,155,53,0
+4,3279682,sangat sederhana,22,buruh,belum menikah,tbc,kurang gizi,182,48,0
+1,2457304,sangat sederhana,44,karyawan,belum menikah,diabetes,kurang gizi,173,59,1
+3,3668474,sangat sederhana,54,karyawan,menikah,tidak ada,lebih,176,62,1
+4,604481,semi permanen,30,tidak bekerja,belum menikah,asma,lebih,179,96,1
+1,2629389,layak,46,petani,belum menikah,tbc,normal,158,65,0
+3,2229545,sangat sederhana,49,pns,menikah,tidak ada,normal,185,72,1
+7,3110936,layak,56,buruh,menikah,tbc,kurang gizi,162,98,0
+6,3191559,semi permanen,37,petani,belum menikah,asma,kurang gizi,176,79,0
+5,2031256,semi permanen,63,karyawan,janda/duda,tidak ada,lebih,175,62,1
+4,621580,semi permanen,45,buruh,menikah,diabetes,normal,183,92,1
+4,2979667,tidak layak,24,petani,menikah,asma,lebih,145,74,1
+4,4387661,layak,49,karyawan,janda/duda,tbc,normal,166,77,1
+2,3393792,semi permanen,62,buruh,belum menikah,asma,kurang gizi,171,74,0
+4,4351494,sangat sederhana,44,karyawan,menikah,tbc,normal,159,63,1
+3,3518628,sangat sederhana,33,karyawan,menikah,tidak ada,kurang gizi,167,99,1
+4,3706909,sangat sederhana,63,buruh,belum menikah,diabetes,lebih,176,51,1
+5,4470491,semi permanen,23,buruh,janda/duda,diabetes,normal,145,97,1
+3,3456952,semi permanen,30,mahasiswa,menikah,diabetes,normal,170,89,0
+6,3443791,tidak layak,43,mahasiswa,menikah,tbc,lebih,187,76,0
+1,1854432,semi permanen,25,tidak bekerja,belum menikah,tidak ada,kurang gizi,169,89,0
+4,4837105,tidak layak,44,karyawan,menikah,diabetes,kurang gizi,183,68,1
+7,2694342,sangat sederhana,31,mahasiswa,janda/duda,hipertensi,kurang gizi,173,93,0
+5,3897442,tidak layak,45,tidak bekerja,menikah,tbc,kurang gizi,146,50,0
+1,778101,sangat sederhana,56,karyawan,janda/duda,diabetes,lebih,178,89,1
+5,3535782,semi permanen,19,pns,janda/duda,asma,normal,182,46,0
+1,4106432,semi permanen,62,petani,menikah,asma,lebih,163,52,1
+2,4826108,layak,45,petani,menikah,tidak ada,lebih,175,92,0
+5,1873495,sangat sederhana,55,pns,janda/duda,asma,lebih,151,90,1
+2,3111657,layak,25,buruh,janda/duda,tbc,lebih,170,45,1
+2,2389724,layak,22,petani,janda/duda,tbc,kurang gizi,190,91,1
+3,3818960,sangat sederhana,51,pns,menikah,tbc,kurang gizi,156,60,0
+5,699854,sangat sederhana,36,karyawan,belum menikah,tbc,lebih,176,77,1
+4,4102886,layak,42,pns,janda/duda,tidak ada,kurang gizi,151,98,1
+1,2854585,layak,64,tidak bekerja,menikah,tbc,normal,154,82,0
+4,2650081,layak,53,buruh,janda/duda,asma,normal,161,69,1
+2,3099363,layak,54,tidak bekerja,belum menikah,hipertensi,normal,156,70,1
+1,1601028,semi permanen,28,pns,janda/duda,asma,kurang gizi,169,65,1
+4,2599715,sangat sederhana,39,tidak bekerja,belum menikah,tbc,normal,174,81,1
+4,2678195,semi permanen,54,tidak bekerja,janda/duda,asma,kurang gizi,146,66,1
+5,4783170,layak,25,petani,menikah,tidak ada,lebih,169,48,0
+6,1711999,sangat sederhana,46,buruh,janda/duda,hipertensi,kurang gizi,185,81,0
+6,3299779,layak,24,mahasiswa,belum menikah,hipertensi,lebih,145,76,1
+7,1802925,tidak layak,51,tidak bekerja,menikah,tidak ada,kurang gizi,159,81,0
+6,2762032,layak,23,karyawan,janda/duda,diabetes,normal,180,49,1
+4,4875711,sangat sederhana,50,tidak bekerja,janda/duda,asma,lebih,179,47,1
+7,2466586,sangat sederhana,53,mahasiswa,janda/duda,tbc,kurang gizi,184,86,0
+2,1289428,tidak layak,32,buruh,janda/duda,asma,kurang gizi,161,62,1
+1,4059677,tidak layak,29,pns,janda/duda,tidak ada,lebih,177,53,1
+3,4916966,layak,50,mahasiswa,janda/duda,tidak ada,normal,187,64,1
+2,3966894,semi permanen,30,pns,janda/duda,tbc,kurang gizi,155,96,1
+3,789504,layak,54,mahasiswa,belum menikah,diabetes,lebih,151,90,1
+7,1319845,sangat sederhana,22,buruh,belum menikah,diabetes,kurang gizi,163,79,1
+3,1348140,layak,56,mahasiswa,menikah,asma,kurang gizi,167,65,0
+3,4589841,sangat sederhana,34,pns,belum menikah,diabetes,lebih,155,68,0
+1,3308840,layak,28,mahasiswa,menikah,diabetes,kurang gizi,168,64,1
+5,4100650,semi permanen,62,karyawan,menikah,diabetes,lebih,170,78,1
+7,3368489,layak,58,pns,menikah,tbc,lebih,182,98,0
+5,840492,tidak layak,35,karyawan,janda/duda,tidak ada,lebih,146,66,1
+1,3604857,sangat sederhana,41,tidak bekerja,menikah,hipertensi,lebih,179,48,0
+3,1784172,tidak layak,50,pns,janda/duda,diabetes,normal,181,83,0
+2,4076819,tidak layak,60,karyawan,belum menikah,hipertensi,normal,162,71,1
+7,2094556,tidak layak,57,karyawan,belum menikah,hipertensi,lebih,182,48,1
+5,2865584,semi permanen,52,petani,menikah,tidak ada,normal,145,71,0
+3,3254129,layak,31,mahasiswa,janda/duda,hipertensi,kurang gizi,176,75,0
+2,3010153,sangat sederhana,20,karyawan,menikah,diabetes,lebih,167,69,0
+1,2114489,sangat sederhana,64,mahasiswa,belum menikah,diabetes,kurang gizi,185,85,1
+7,2965162,layak,51,petani,janda/duda,tidak ada,normal,177,64,0
+4,733209,semi permanen,35,karyawan,janda/duda,tidak ada,kurang gizi,164,73,0
+6,4668206,semi permanen,42,buruh,belum menikah,tbc,normal,176,74,0
+3,997194,sangat sederhana,51,karyawan,menikah,hipertensi,kurang gizi,149,58,0
+4,2418454,semi permanen,31,pns,belum menikah,diabetes,kurang gizi,184,66,0
+3,1537266,layak,36,tidak bekerja,menikah,tbc,lebih,172,91,1
+7,2174847,layak,58,pns,janda/duda,tbc,lebih,175,90,0
+7,4725179,tidak layak,60,buruh,janda/duda,asma,lebih,145,76,1
+1,3753842,sangat sederhana,58,buruh,janda/duda,tidak ada,lebih,188,44,1
+4,545874,semi permanen,42,tidak bekerja,belum menikah,asma,kurang gizi,176,43,1
+4,1991548,layak,48,petani,belum menikah,hipertensi,normal,145,85,0
+2,3237708,sangat sederhana,34,petani,janda/duda,hipertensi,normal,173,43,0
+1,3244430,tidak layak,64,buruh,janda/duda,tidak ada,kurang gizi,161,67,0
+6,943944,layak,27,pns,menikah,tidak ada,normal,187,41,1
+1,1466646,tidak layak,56,mahasiswa,belum menikah,tbc,kurang gizi,152,91,0
+4,756430,layak,29,karyawan,belum menikah,hipertensi,kurang gizi,173,99,1
+6,984566,layak,41,buruh,menikah,tidak ada,kurang gizi,155,68,0
+2,1204746,semi permanen,57,karyawan,menikah,asma,kurang gizi,152,66,1
+2,4575732,semi permanen,57,mahasiswa,belum menikah,hipertensi,normal,171,87,1
+3,1349617,tidak layak,33,buruh,janda/duda,tbc,lebih,182,62,1
+4,2308700,sangat sederhana,65,pns,belum menikah,tbc,normal,155,43,1
+3,2817680,semi permanen,29,karyawan,janda/duda,hipertensi,kurang gizi,148,79,0
+3,3218675,layak,39,buruh,belum menikah,tbc,kurang gizi,150,40,0
+1,2149393,sangat sederhana,65,mahasiswa,janda/duda,diabetes,kurang gizi,190,78,0
+7,4360063,sangat sederhana,39,karyawan,menikah,asma,normal,165,56,0
+4,2287139,semi permanen,21,karyawan,belum menikah,tidak ada,kurang gizi,180,51,1
+6,4100298,semi permanen,42,mahasiswa,belum menikah,asma,kurang gizi,152,60,1
+7,3600675,layak,23,buruh,belum menikah,diabetes,normal,177,65,0
+5,1554286,layak,21,karyawan,janda/duda,asma,lebih,188,88,1
+2,2236454,semi permanen,21,tidak bekerja,belum menikah,diabetes,normal,150,97,0
+5,4017740,sangat sederhana,47,pns,menikah,asma,lebih,156,65,0
+6,1340393,layak,18,karyawan,menikah,asma,lebih,155,82,0
+1,834650,semi permanen,54,mahasiswa,menikah,hipertensi,lebih,176,51,0
+7,4448561,tidak layak,51,tidak bekerja,janda/duda,diabetes,lebih,183,60,1
+5,2985948,tidak layak,56,pns,menikah,tidak ada,kurang gizi,160,77,1
+7,4615961,layak,54,buruh,janda/duda,diabetes,normal,158,52,1
+5,3312213,layak,31,karyawan,janda/duda,hipertensi,lebih,150,80,0
+6,747671,layak,55,petani,menikah,hipertensi,kurang gizi,164,47,1
+1,2108206,tidak layak,65,tidak bekerja,menikah,diabetes,lebih,177,97,1
+1,1903601,semi permanen,20,pns,menikah,tbc,normal,151,73,0
+7,2569387,tidak layak,40,mahasiswa,belum menikah,hipertensi,normal,184,95,0
+4,4537739,semi permanen,59,karyawan,menikah,tbc,kurang gizi,161,90,1
+4,3344962,tidak layak,50,tidak bekerja,menikah,diabetes,lebih,174,70,1
+2,1936491,layak,63,pns,belum menikah,asma,normal,180,93,1
+1,2825813,semi permanen,24,buruh,belum menikah,tbc,normal,153,99,0
+5,4586092,tidak layak,38,pns,menikah,diabetes,lebih,180,66,0
+4,3615967,semi permanen,41,karyawan,janda/duda,diabetes,kurang gizi,161,69,1
+4,4062170,semi permanen,30,buruh,menikah,tbc,lebih,145,57,0
+1,2579598,semi permanen,62,tidak bekerja,belum menikah,asma,lebih,149,98,0
+1,2429923,sangat sederhana,61,buruh,belum menikah,diabetes,kurang gizi,180,67,0
+6,4162528,sangat sederhana,60,mahasiswa,menikah,asma,normal,163,67,1
+1,4850086,semi permanen,21,buruh,menikah,hipertensi,normal,164,61,0
+6,2962527,sangat sederhana,25,pns,menikah,tidak ada,kurang gizi,152,45,0
+4,2522093,tidak layak,59,buruh,belum menikah,hipertensi,lebih,176,65,1
+3,4441076,semi permanen,56,tidak bekerja,belum menikah,tbc,normal,149,62,0
+3,4298724,tidak layak,41,mahasiswa,janda/duda,asma,normal,166,93,0
+1,4428905,semi permanen,64,karyawan,menikah,tbc,lebih,178,56,0
+2,2916022,sangat sederhana,50,mahasiswa,menikah,tbc,kurang gizi,183,82,1
+6,4120377,sangat sederhana,65,mahasiswa,belum menikah,tidak ada,lebih,162,51,0
+3,4498993,tidak layak,26,petani,menikah,asma,lebih,176,41,1
+6,3217764,tidak layak,59,buruh,belum menikah,asma,normal,164,81,0
+5,4508469,sangat sederhana,27,buruh,menikah,asma,lebih,166,41,1
+3,4155300,semi permanen,24,pns,belum menikah,diabetes,normal,180,50,1
+4,4563445,tidak layak,44,buruh,menikah,tidak ada,lebih,166,65,0
+6,3714440,tidak layak,62,tidak bekerja,menikah,asma,lebih,186,78,1
+4,727876,semi permanen,41,buruh,janda/duda,tidak ada,lebih,148,75,1
+6,3697683,sangat sederhana,35,buruh,menikah,tidak ada,normal,148,85,0
+2,3328930,tidak layak,49,karyawan,belum menikah,tidak ada,lebih,157,45,0
+1,2962742,tidak layak,29,tidak bekerja,janda/duda,tbc,lebih,176,60,0
+2,4833430,layak,24,pns,menikah,asma,normal,181,75,1
+3,2504847,semi permanen,33,buruh,janda/duda,tbc,normal,180,69,0
+4,3819973,tidak layak,36,karyawan,menikah,tbc,normal,182,86,1
+2,732189,semi permanen,34,mahasiswa,belum menikah,hipertensi,normal,146,63,0
+3,2236320,semi permanen,54,petani,menikah,diabetes,kurang gizi,146,62,1
+7,1728604,semi permanen,24,pns,belum menikah,tbc,normal,178,88,1
+4,4566727,sangat sederhana,32,karyawan,janda/duda,tbc,lebih,164,73,1
+6,1323101,sangat sederhana,24,buruh,menikah,tidak ada,lebih,173,64,0
+6,1840432,tidak layak,59,pns,menikah,asma,lebih,171,68,0
+6,1430526,semi permanen,43,pns,menikah,diabetes,kurang gizi,160,55,1
+5,2735552,layak,21,mahasiswa,menikah,tidak ada,lebih,157,50,1
+1,4315330,sangat sederhana,65,buruh,menikah,asma,normal,153,96,1
+1,1797266,sangat sederhana,42,karyawan,menikah,asma,normal,190,75,1
+5,3483824,tidak layak,50,tidak bekerja,menikah,hipertensi,kurang gizi,155,43,0
+3,988265,semi permanen,35,karyawan,menikah,tbc,lebih,153,77,0
+3,2493764,sangat sederhana,22,karyawan,menikah,tbc,lebih,155,56,0
+7,4660337,layak,19,tidak bekerja,menikah,hipertensi,normal,174,70,0
+4,2950826,tidak layak,20,mahasiswa,belum menikah,tbc,lebih,183,69,0
+5,2905849,semi permanen,45,karyawan,janda/duda,tbc,normal,157,40,0
+7,1129775,sangat sederhana,50,karyawan,menikah,tidak ada,kurang gizi,154,48,1
+1,4060508,semi permanen,52,buruh,menikah,tbc,lebih,179,56,1
+1,4240183,sangat sederhana,47,tidak bekerja,menikah,asma,kurang gizi,148,55,0
+3,2692184,semi permanen,51,pns,menikah,hipertensi,kurang gizi,185,80,0
+6,1149694,semi permanen,23,petani,janda/duda,tidak ada,lebih,179,98,0
+2,2305756,semi permanen,26,karyawan,belum menikah,diabetes,lebih,156,79,1
+7,3345217,layak,38,tidak bekerja,janda/duda,hipertensi,normal,157,100,0
+3,1212871,sangat sederhana,33,buruh,belum menikah,asma,lebih,187,77,1
+1,4280685,semi permanen,28,buruh,janda/duda,tidak ada,normal,178,77,0
+4,4810982,semi permanen,46,tidak bekerja,belum menikah,tbc,kurang gizi,187,91,0
+4,1938046,layak,19,pns,menikah,tidak ada,lebih,147,45,0
+5,2989686,semi permanen,61,karyawan,janda/duda,tidak ada,kurang gizi,176,95,1
+5,3899915,sangat sederhana,29,petani,janda/duda,tidak ada,normal,173,76,0
+7,1334040,tidak layak,53,petani,belum menikah,diabetes,normal,176,71,0
+2,3043227,sangat sederhana,43,buruh,janda/duda,tbc,kurang gizi,162,84,0
+2,588171,sangat sederhana,52,karyawan,menikah,hipertensi,lebih,158,78,1
+5,2661828,tidak layak,51,pns,belum menikah,diabetes,kurang gizi,185,60,0
+6,3750156,sangat sederhana,40,karyawan,janda/duda,hipertensi,normal,151,47,1
+4,4670632,semi permanen,63,buruh,menikah,asma,normal,185,55,0
+4,4294936,layak,24,mahasiswa,belum menikah,hipertensi,normal,164,65,0
+1,1197363,semi permanen,28,buruh,menikah,tidak ada,normal,182,93,1
+2,2930873,layak,52,pns,janda/duda,tidak ada,lebih,159,78,1
+2,4607698,tidak layak,49,mahasiswa,janda/duda,hipertensi,lebih,180,80,1
+6,3195867,sangat sederhana,33,mahasiswa,janda/duda,tidak ada,kurang gizi,151,90,0
+2,1794916,sangat sederhana,46,mahasiswa,janda/duda,diabetes,normal,178,47,1
+5,3699232,sangat sederhana,23,buruh,janda/duda,diabetes,lebih,170,40,0
+1,1606277,semi permanen,49,tidak bekerja,janda/duda,diabetes,lebih,172,53,1
+3,574445,sangat sederhana,30,pns,menikah,tbc,kurang gizi,162,60,1
+6,1051294,layak,61,buruh,menikah,tbc,kurang gizi,147,56,0
+3,539461,layak,46,tidak bekerja,menikah,tidak ada,kurang gizi,180,52,1
+1,4750911,tidak layak,26,pns,janda/duda,tidak ada,lebih,147,60,0
+7,944601,sangat sederhana,32,pns,menikah,tbc,kurang gizi,156,44,0
+5,4088325,sangat sederhana,23,tidak bekerja,menikah,asma,lebih,151,93,1
+4,2747249,tidak layak,26,mahasiswa,belum menikah,tidak ada,kurang gizi,186,61,0
+3,1007660,semi permanen,33,mahasiswa,belum menikah,tbc,lebih,162,93,0
+5,1036011,tidak layak,58,buruh,janda/duda,diabetes,kurang gizi,162,61,0
+1,2380922,sangat sederhana,27,petani,menikah,asma,kurang gizi,180,93,0
+7,3044253,sangat sederhana,35,petani,janda/duda,tbc,kurang gizi,183,69,1
+4,2710877,semi permanen,24,petani,janda/duda,tbc,normal,148,60,1
+3,3871387,tidak layak,58,buruh,belum menikah,asma,lebih,176,96,1
+4,2767448,layak,27,mahasiswa,menikah,tidak ada,lebih,153,76,0
+1,2515701,semi permanen,27,pns,menikah,hipertensi,lebih,151,66,1
+3,3412450,semi permanen,19,tidak bekerja,janda/duda,diabetes,normal,172,44,1
+7,4462249,sangat sederhana,52,petani,menikah,hipertensi,normal,173,46,1
+2,3258505,sangat sederhana,21,buruh,belum menikah,hipertensi,lebih,164,61,1
+6,1117142,semi permanen,30,pns,janda/duda,hipertensi,lebih,145,63,1
+4,3874059,semi permanen,56,petani,janda/duda,tidak ada,lebih,163,67,1
+3,3827957,sangat sederhana,30,buruh,belum menikah,tbc,kurang gizi,162,68,1
+5,778451,semi permanen,42,pns,janda/duda,hipertensi,kurang gizi,172,93,0
+7,2827630,sangat sederhana,52,pns,menikah,diabetes,normal,177,40,1
+4,2210940,layak,43,mahasiswa,menikah,hipertensi,lebih,185,89,0
+5,4376767,semi permanen,38,buruh,janda/duda,tbc,lebih,177,41,0
+2,4396090,tidak layak,35,karyawan,menikah,asma,normal,179,95,0
+3,4689444,semi permanen,37,buruh,belum menikah,tidak ada,lebih,153,71,1
+4,3199067,sangat sederhana,60,tidak bekerja,janda/duda,asma,kurang gizi,184,56,0
+2,1387363,tidak layak,38,tidak bekerja,janda/duda,asma,kurang gizi,161,66,0
+2,759162,tidak layak,42,mahasiswa,menikah,diabetes,lebih,187,60,0
+6,832535,semi permanen,55,petani,janda/duda,asma,lebih,168,94,1
+3,1407057,layak,63,mahasiswa,janda/duda,diabetes,normal,152,100,0
+7,3704445,layak,50,buruh,janda/duda,tidak ada,kurang gizi,149,68,1
+2,3914023,semi permanen,61,mahasiswa,janda/duda,hipertensi,kurang gizi,182,90,0
+1,1148529,sangat sederhana,21,pns,belum menikah,diabetes,kurang gizi,147,81,1
+2,4166247,sangat sederhana,39,petani,janda/duda,tbc,lebih,149,42,0
+5,910515,sangat sederhana,42,petani,menikah,tbc,lebih,163,58,0
+4,4653488,layak,39,karyawan,janda/duda,tbc,lebih,149,50,1
+5,4554192,tidak layak,63,tidak bekerja,menikah,diabetes,lebih,175,61,1
+4,2318773,semi permanen,47,buruh,janda/duda,tidak ada,kurang gizi,154,47,0
+5,1900101,tidak layak,58,tidak bekerja,menikah,hipertensi,lebih,176,46,0
+6,2029666,semi permanen,34,buruh,janda/duda,hipertensi,lebih,151,91,0
+6,2957457,tidak layak,29,karyawan,janda/duda,diabetes,kurang gizi,145,73,1
+4,4278000,layak,57,buruh,janda/duda,asma,normal,188,59,1
+7,4034706,sangat sederhana,18,pns,menikah,diabetes,lebih,157,95,0
+5,1221415,layak,56,mahasiswa,janda/duda,hipertensi,normal,177,62,1
+6,2242662,tidak layak,24,petani,janda/duda,tbc,normal,175,62,1
+6,3183823,tidak layak,65,petani,janda/duda,asma,lebih,176,71,1
+7,4315849,semi permanen,44,tidak bekerja,belum menikah,hipertensi,lebih,177,56,0
+7,4317583,layak,63,petani,janda/duda,tidak ada,lebih,182,45,1
+3,1032088,semi permanen,54,petani,belum menikah,hipertensi,normal,148,49,0
+3,3549265,tidak layak,54,buruh,belum menikah,asma,kurang gizi,182,50,1
+7,3931027,sangat sederhana,37,pns,janda/duda,tbc,lebih,149,77,0
+7,1512957,sangat sederhana,37,petani,menikah,hipertensi,lebih,173,58,0
+4,4338955,semi permanen,53,karyawan,belum menikah,diabetes,normal,150,93,0
+6,1610795,layak,20,buruh,janda/duda,asma,kurang gizi,169,68,0
+2,1243243,tidak layak,55,buruh,menikah,asma,kurang gizi,170,65,0
+6,1462358,semi permanen,48,karyawan,belum menikah,tbc,kurang gizi,169,99,1
+6,3986239,tidak layak,35,pns,menikah,tidak ada,lebih,158,91,1
+1,1951551,layak,40,karyawan,belum menikah,tidak ada,lebih,173,98,1
+1,1183512,sangat sederhana,29,petani,janda/duda,asma,kurang gizi,150,86,1
+2,1679599,layak,28,pns,janda/duda,tbc,kurang gizi,170,57,1
+3,1577831,tidak layak,30,petani,belum menikah,diabetes,normal,179,95,1
+2,2222666,sangat sederhana,54,buruh,janda/duda,diabetes,lebih,165,66,1
+5,1838454,sangat sederhana,29,tidak bekerja,menikah,asma,lebih,154,74,1
+1,1501338,tidak layak,28,mahasiswa,janda/duda,asma,kurang gizi,153,65,1
+1,1474777,semi permanen,59,mahasiswa,janda/duda,hipertensi,normal,183,50,1
+7,3200063,semi permanen,56,pns,janda/duda,diabetes,normal,176,63,1
+1,2822379,semi permanen,34,karyawan,janda/duda,hipertensi,lebih,188,50,1
+2,576894,semi permanen,34,pns,janda/duda,asma,kurang gizi,188,85,1
+1,3848213,tidak layak,37,pns,janda/duda,tbc,lebih,155,62,1
+4,2973893,tidak layak,55,tidak bekerja,janda/duda,hipertensi,lebih,165,67,0
+3,942453,layak,59,petani,janda/duda,asma,lebih,161,61,1
+7,731349,layak,47,mahasiswa,belum menikah,tidak ada,lebih,188,44,1
+3,3715723,layak,40,tidak bekerja,janda/duda,tbc,kurang gizi,171,78,0
+1,765302,semi permanen,31,tidak bekerja,menikah,tidak ada,lebih,161,82,0
+4,2193406,sangat sederhana,45,buruh,janda/duda,tidak ada,normal,165,47,0
+3,4776004,sangat sederhana,21,mahasiswa,belum menikah,tidak ada,normal,190,67,1
+6,1662047,semi permanen,36,tidak bekerja,menikah,hipertensi,lebih,182,66,0
+5,4664863,sangat sederhana,55,tidak bekerja,menikah,tbc,kurang gizi,171,78,1
+6,2295130,tidak layak,48,pns,menikah,tidak ada,normal,173,93,0
+2,2771478,layak,56,petani,belum menikah,asma,normal,146,59,1
+2,757387,sangat sederhana,51,mahasiswa,belum menikah,diabetes,kurang gizi,174,100,0
+4,2361769,tidak layak,49,karyawan,belum menikah,tidak ada,kurang gizi,187,58,1
+5,4684708,layak,56,karyawan,menikah,diabetes,lebih,154,85,0
+6,1190325,semi permanen,34,buruh,janda/duda,diabetes,lebih,190,72,0
+2,1952149,semi permanen,36,pns,janda/duda,diabetes,kurang gizi,149,70,1
+7,3635091,semi permanen,35,petani,menikah,asma,kurang gizi,179,48,0
+6,3902755,sangat sederhana,19,karyawan,belum menikah,hipertensi,normal,186,96,1
+2,1410210,semi permanen,18,pns,belum menikah,asma,normal,154,95,1
+1,816445,semi permanen,38,buruh,belum menikah,tbc,kurang gizi,190,80,0
+2,4382963,sangat sederhana,37,petani,belum menikah,hipertensi,kurang gizi,158,40,0
+1,2729826,tidak layak,21,karyawan,menikah,hipertensi,normal,175,71,0
+1,2973791,layak,65,petani,janda/duda,hipertensi,normal,146,42,1
+3,4007092,sangat sederhana,64,pns,janda/duda,tidak ada,kurang gizi,171,52,0
+1,2551269,tidak layak,51,mahasiswa,belum menikah,hipertensi,normal,155,86,0
+2,3558542,sangat sederhana,61,mahasiswa,belum menikah,hipertensi,lebih,170,57,0
+7,1477058,sangat sederhana,33,pns,janda/duda,tbc,normal,177,47,0
+6,3008719,tidak layak,51,mahasiswa,belum menikah,tbc,kurang gizi,153,65,1
+1,4193771,tidak layak,40,buruh,belum menikah,tbc,kurang gizi,172,56,0
+6,2108535,semi permanen,38,mahasiswa,belum menikah,diabetes,kurang gizi,166,64,1
+3,1191550,semi permanen,46,buruh,menikah,asma,lebih,156,43,0
+3,2688169,sangat sederhana,42,buruh,janda/duda,diabetes,lebih,151,52,0
+3,526743,sangat sederhana,45,tidak bekerja,belum menikah,diabetes,normal,154,100,1
+3,2889059,sangat sederhana,32,karyawan,menikah,asma,lebih,164,95,1
+6,2997626,semi permanen,46,tidak bekerja,belum menikah,asma,normal,161,80,1
+6,4890870,layak,20,karyawan,janda/duda,diabetes,normal,186,48,0
+6,4236614,tidak layak,24,buruh,menikah,tbc,lebih,164,60,1
+5,2155504,tidak layak,61,pns,belum menikah,tidak ada,kurang gizi,174,58,0
+6,3245766,sangat sederhana,23,petani,janda/duda,tidak ada,kurang gizi,181,77,0
+5,3550975,layak,50,buruh,menikah,tidak ada,kurang gizi,161,79,0
+7,2360178,sangat sederhana,40,pns,belum menikah,tidak ada,lebih,171,82,1
+4,4111112,sangat sederhana,29,petani,janda/duda,diabetes,normal,166,71,0
+3,3599940,sangat sederhana,57,mahasiswa,janda/duda,diabetes,kurang gizi,190,52,0
+5,1308477,semi permanen,53,pns,menikah,asma,lebih,145,70,0
+2,559404,sangat sederhana,38,tidak bekerja,belum menikah,hipertensi,normal,158,55,1
+1,1863254,sangat sederhana,51,petani,janda/duda,tidak ada,normal,176,45,0
+4,4041374,sangat sederhana,46,petani,janda/duda,diabetes,normal,157,75,1
+4,4310990,sangat sederhana,46,buruh,menikah,tbc,normal,158,86,0
+7,1871454,sangat sederhana,60,petani,janda/duda,tidak ada,lebih,172,85,1
+5,1995934,semi permanen,37,petani,belum menikah,tidak ada,lebih,190,86,1
+3,4616208,layak,46,mahasiswa,menikah,asma,kurang gizi,184,62,1
+3,2664072,semi permanen,56,pns,belum menikah,hipertensi,lebih,173,73,0
+2,1638040,semi permanen,55,petani,belum menikah,tidak ada,kurang gizi,179,56,0
+2,4845242,tidak layak,51,karyawan,belum menikah,hipertensi,kurang gizi,177,93,0
+2,4856282,tidak layak,54,buruh,belum menikah,asma,normal,161,87,0
+2,3655101,sangat sederhana,31,tidak bekerja,janda/duda,asma,lebih,153,48,1
+1,1592557,sangat sederhana,59,buruh,menikah,asma,lebih,163,83,1
+6,3791987,tidak layak,52,karyawan,janda/duda,asma,kurang gizi,179,42,0
+1,1664019,sangat sederhana,62,karyawan,belum menikah,tbc,normal,167,85,0
+3,2952282,sangat sederhana,41,mahasiswa,janda/duda,tidak ada,kurang gizi,176,54,1
+3,854510,layak,26,tidak bekerja,belum menikah,asma,lebih,149,43,0
+3,3323198,sangat sederhana,22,mahasiswa,janda/duda,asma,kurang gizi,176,89,0
+6,3021165,sangat sederhana,38,pns,janda/duda,tidak ada,kurang gizi,156,44,1
+3,3428763,semi permanen,65,tidak bekerja,janda/duda,hipertensi,lebih,189,73,0
+7,4032508,sangat sederhana,39,pns,menikah,hipertensi,normal,151,77,0
+1,1668206,semi permanen,37,pns,menikah,tidak ada,lebih,151,69,0
+7,3837717,sangat sederhana,28,tidak bekerja,janda/duda,tidak ada,kurang gizi,153,75,1
+1,1852574,layak,36,pns,menikah,asma,kurang gizi,186,99,0
+7,3174691,tidak layak,25,petani,menikah,tbc,normal,162,84,1
+7,1917699,tidak layak,34,karyawan,belum menikah,hipertensi,normal,184,74,1
+1,1945645,sangat sederhana,38,tidak bekerja,belum menikah,tidak ada,kurang gizi,158,98,0
+2,1879629,sangat sederhana,63,tidak bekerja,menikah,diabetes,lebih,170,46,1
+7,4551651,tidak layak,33,buruh,menikah,asma,kurang gizi,175,52,0
+1,1013814,semi permanen,44,mahasiswa,janda/duda,hipertensi,lebih,181,48,1
+4,1672577,tidak layak,19,petani,janda/duda,tbc,lebih,180,82,1
+5,3144167,tidak layak,18,karyawan,janda/duda,tbc,lebih,158,91,1
+6,2910393,sangat sederhana,22,petani,belum menikah,asma,lebih,184,89,0
+7,2286752,sangat sederhana,39,buruh,belum menikah,asma,normal,175,59,1
+3,1452068,semi permanen,59,mahasiswa,janda/duda,tbc,lebih,177,74,1
+4,1616690,tidak layak,41,petani,belum menikah,tidak ada,lebih,184,83,1
+4,3880599,sangat sederhana,62,mahasiswa,janda/duda,tidak ada,lebih,189,81,0
+3,3437421,tidak layak,46,tidak bekerja,belum menikah,tbc,kurang gizi,184,82,1
+7,4414074,tidak layak,21,petani,menikah,tbc,kurang gizi,184,100,0
+6,4994281,tidak layak,41,buruh,belum menikah,hipertensi,normal,150,50,1
+7,2561239,sangat sederhana,59,pns,belum menikah,tidak ada,lebih,166,90,1
+2,1242286,layak,60,pns,menikah,hipertensi,lebih,149,99,0
+2,2502797,sangat sederhana,36,mahasiswa,menikah,diabetes,lebih,187,85,1
+4,1841437,layak,25,tidak bekerja,janda/duda,asma,kurang gizi,174,82,0
+6,727436,layak,23,petani,belum menikah,asma,kurang gizi,190,61,0
+3,1366664,semi permanen,47,pns,janda/duda,asma,normal,153,100,0
+4,2485197,tidak layak,62,pns,menikah,asma,kurang gizi,148,67,0
+3,3378876,sangat sederhana,39,mahasiswa,janda/duda,asma,lebih,186,76,0
+3,1115264,tidak layak,20,mahasiswa,belum menikah,tbc,lebih,181,96,1
+3,4815169,sangat sederhana,36,buruh,belum menikah,tbc,kurang gizi,175,71,1
+6,2647481,tidak layak,30,tidak bekerja,belum menikah,hipertensi,lebih,186,99,1
+6,3711162,semi permanen,23,mahasiswa,menikah,tidak ada,normal,148,93,0
+1,1552768,semi permanen,28,tidak bekerja,menikah,hipertensi,kurang gizi,174,65,0
+3,2963110,tidak layak,20,buruh,janda/duda,diabetes,lebih,166,67,0
+1,2553115,sangat sederhana,46,petani,menikah,tidak ada,normal,145,77,0
+3,2821148,tidak layak,54,petani,belum menikah,tbc,normal,166,74,0
+1,4088465,semi permanen,27,tidak bekerja,menikah,tbc,kurang gizi,161,78,0
+4,3639941,semi permanen,20,buruh,menikah,diabetes,normal,175,71,0
+7,740100,layak,46,petani,janda/duda,hipertensi,normal,153,55,0
+3,1005321,tidak layak,42,pns,janda/duda,hipertensi,normal,163,42,1
+1,3169063,layak,52,mahasiswa,janda/duda,tbc,kurang gizi,153,64,0
+7,750760,sangat sederhana,41,mahasiswa,belum menikah,tidak ada,lebih,186,77,1
+5,1339471,layak,42,buruh,menikah,hipertensi,normal,155,74,1
+7,4569588,layak,45,mahasiswa,belum menikah,tbc,normal,177,67,0
+7,1368081,semi permanen,65,petani,menikah,hipertensi,normal,150,55,0
+3,2234172,layak,37,tidak bekerja,menikah,tidak ada,lebih,166,84,1
+5,1792757,sangat sederhana,53,mahasiswa,belum menikah,diabetes,lebih,179,69,1
+5,2762901,tidak layak,40,tidak bekerja,janda/duda,tbc,normal,181,84,0
+5,1787060,semi permanen,50,petani,janda/duda,diabetes,normal,154,96,1
+2,4788200,sangat sederhana,53,petani,menikah,tbc,kurang gizi,177,96,1
+6,4944800,semi permanen,63,tidak bekerja,belum menikah,asma,lebih,188,81,0
+6,2073144,semi permanen,56,pns,menikah,diabetes,kurang gizi,171,75,0
+6,4930219,semi permanen,65,karyawan,janda/duda,tidak ada,normal,170,69,0
+1,4529976,sangat sederhana,38,petani,belum menikah,tbc,kurang gizi,166,60,0
+2,2181539,semi permanen,46,tidak bekerja,menikah,tidak ada,kurang gizi,170,56,1
+4,1734280,tidak layak,42,mahasiswa,belum menikah,tbc,kurang gizi,166,90,1
+1,1373156,tidak layak,36,tidak bekerja,janda/duda,tbc,normal,176,79,0
+5,1575475,semi permanen,40,mahasiswa,menikah,hipertensi,lebih,160,78,1
+2,1110479,semi permanen,33,petani,belum menikah,tidak ada,lebih,170,72,1
+5,1252896,semi permanen,55,petani,menikah,diabetes,normal,180,82,1
+2,4798287,layak,43,petani,janda/duda,tidak ada,kurang gizi,185,83,0
+3,4319907,sangat sederhana,29,karyawan,janda/duda,tbc,lebih,190,52,0
+2,4348926,tidak layak,35,pns,janda/duda,diabetes,lebih,171,84,0
+6,664293,tidak layak,64,mahasiswa,belum menikah,asma,normal,183,94,0
+3,4202912,sangat sederhana,33,tidak bekerja,menikah,hipertensi,lebih,164,66,0
+4,1864920,layak,31,mahasiswa,janda/duda,tidak ada,lebih,172,98,0
+7,1118868,sangat sederhana,38,tidak bekerja,menikah,hipertensi,kurang gizi,175,70,0
+7,4080292,semi permanen,44,mahasiswa,belum menikah,diabetes,kurang gizi,187,53,0
+4,3201332,tidak layak,41,karyawan,menikah,tbc,lebih,174,65,1
+4,3116115,sangat sederhana,56,karyawan,belum menikah,asma,lebih,187,43,0
+4,2670645,sangat sederhana,28,tidak bekerja,belum menikah,tidak ada,kurang gizi,164,54,1
+3,2027439,tidak layak,33,buruh,belum menikah,tbc,normal,164,42,1
+7,4181428,layak,29,mahasiswa,janda/duda,tidak ada,lebih,183,93,1
+4,3841304,tidak layak,61,mahasiswa,janda/duda,hipertensi,lebih,168,88,1
+5,4435268,semi permanen,65,tidak bekerja,belum menikah,tidak ada,normal,160,97,1
+1,4699026,layak,37,pns,menikah,tidak ada,normal,156,86,1
+5,3812897,sangat sederhana,50,tidak bekerja,janda/duda,hipertensi,kurang gizi,175,52,0
+5,2017112,sangat sederhana,47,mahasiswa,janda/duda,asma,kurang gizi,153,89,0
+1,3730316,tidak layak,24,karyawan,janda/duda,diabetes,normal,166,77,0
+3,1362380,sangat sederhana,26,buruh,belum menikah,asma,lebih,168,81,1
+7,1455947,semi permanen,29,mahasiswa,janda/duda,asma,normal,159,86,0
+2,588384,sangat sederhana,36,tidak bekerja,janda/duda,tidak ada,kurang gizi,162,88,1
+1,1126947,tidak layak,28,buruh,belum menikah,tidak ada,lebih,183,44,0
+7,3131625,layak,36,mahasiswa,belum menikah,hipertensi,kurang gizi,173,99,0
+7,3743574,sangat sederhana,47,pns,belum menikah,asma,kurang gizi,168,42,0
+5,4058416,sangat sederhana,46,tidak bekerja,janda/duda,tidak ada,kurang gizi,165,60,1
+4,4559139,sangat sederhana,26,petani,menikah,diabetes,kurang gizi,170,54,1
+3,4911631,sangat sederhana,61,buruh,janda/duda,tidak ada,normal,145,77,0
+2,4210836,layak,42,buruh,menikah,hipertensi,lebih,160,74,0
+5,4061554,tidak layak,29,tidak bekerja,menikah,diabetes,kurang gizi,169,86,0
+4,1242173,semi permanen,57,buruh,menikah,diabetes,kurang gizi,174,91,1
+3,4196882,semi permanen,59,mahasiswa,menikah,diabetes,lebih,151,83,1
+3,2763620,layak,56,tidak bekerja,janda/duda,hipertensi,normal,179,83,0
+1,3689208,sangat sederhana,63,mahasiswa,janda/duda,hipertensi,lebih,150,93,0
+3,4879336,layak,20,tidak bekerja,janda/duda,hipertensi,lebih,171,42,1
+7,2486461,sangat sederhana,18,mahasiswa,menikah,tbc,kurang gizi,153,72,1
+7,3148333,semi permanen,55,pns,janda/duda,tbc,lebih,170,90,1
+6,2716706,sangat sederhana,30,karyawan,menikah,tbc,kurang gizi,169,48,0
+1,4629988,semi permanen,50,tidak bekerja,menikah,diabetes,kurang gizi,175,43,1
+3,3405073,tidak layak,45,pns,menikah,asma,kurang gizi,152,61,0
+1,2025043,layak,59,pns,menikah,asma,normal,156,86,0
+6,3089497,sangat sederhana,24,karyawan,belum menikah,diabetes,normal,161,62,0
+4,2163085,tidak layak,50,tidak bekerja,belum menikah,hipertensi,kurang gizi,161,43,0
+3,1526368,semi permanen,28,tidak bekerja,menikah,diabetes,normal,181,72,0
+1,3012892,tidak layak,40,mahasiswa,janda/duda,diabetes,kurang gizi,186,93,1
+1,1827574,layak,36,karyawan,belum menikah,asma,normal,178,96,1
+4,4720339,sangat sederhana,43,buruh,janda/duda,tbc,lebih,163,78,1
+2,4007705,tidak layak,32,karyawan,belum menikah,tbc,kurang gizi,156,78,0
+6,1215072,layak,55,pns,menikah,tbc,kurang gizi,160,54,1
+6,2668514,semi permanen,37,buruh,belum menikah,hipertensi,lebih,184,79,1
+2,651367,sangat sederhana,19,mahasiswa,janda/duda,diabetes,lebih,152,56,1
+4,1733926,semi permanen,26,mahasiswa,janda/duda,diabetes,lebih,168,51,1
+4,1904815,sangat sederhana,31,buruh,belum menikah,asma,normal,188,51,0
+2,1227141,semi permanen,43,petani,belum menikah,hipertensi,normal,174,69,0
+5,1420709,tidak layak,19,karyawan,belum menikah,diabetes,normal,173,50,1
+5,2126227,layak,45,pns,menikah,asma,normal,148,57,0
+7,1878411,tidak layak,42,petani,belum menikah,asma,normal,174,55,1
+1,4729576,tidak layak,64,tidak bekerja,menikah,tidak ada,normal,154,78,1
+7,3948902,sangat sederhana,32,buruh,belum menikah,diabetes,normal,155,92,0
+4,1550056,tidak layak,36,pns,belum menikah,diabetes,normal,155,85,0
+2,754937,sangat sederhana,40,petani,menikah,hipertensi,normal,145,83,1
+4,2359799,layak,26,karyawan,menikah,tbc,normal,156,49,1
+1,3972193,tidak layak,49,mahasiswa,janda/duda,tidak ada,lebih,189,68,0
+7,4602354,tidak layak,49,mahasiswa,belum menikah,diabetes,normal,152,46,0
+7,4993182,sangat sederhana,27,tidak bekerja,menikah,hipertensi,kurang gizi,154,44,1
+3,2685616,tidak layak,63,petani,menikah,hipertensi,normal,156,52,1
+7,3303290,layak,51,karyawan,janda/duda,tidak ada,kurang gizi,162,59,0
+3,2693113,layak,41,buruh,belum menikah,tidak ada,normal,161,73,1
+1,4249013,semi permanen,56,petani,menikah,asma,normal,172,44,0
+2,1593822,sangat sederhana,35,mahasiswa,belum menikah,asma,lebih,187,87,1
+4,3493311,tidak layak,42,pns,belum menikah,hipertensi,kurang gizi,150,97,1
+6,1834037,sangat sederhana,54,buruh,menikah,tidak ada,kurang gizi,153,47,1
+5,3173950,tidak layak,58,karyawan,janda/duda,hipertensi,lebih,162,76,1
+6,3044513,layak,42,karyawan,janda/duda,asma,lebih,146,61,1
+4,3675433,sangat sederhana,33,petani,belum menikah,tbc,kurang gizi,172,99,1
+2,573639,layak,49,petani,menikah,asma,kurang gizi,172,60,0
+4,4248784,tidak layak,32,karyawan,menikah,hipertensi,normal,165,94,1
+2,4381359,layak,53,mahasiswa,belum menikah,tbc,lebih,163,52,0
+4,4481258,tidak layak,30,buruh,belum menikah,diabetes,kurang gizi,175,73,1
+1,2323600,semi permanen,25,mahasiswa,janda/duda,diabetes,lebih,178,81,0
+2,1814607,sangat sederhana,23,mahasiswa,janda/duda,diabetes,normal,172,40,1
+2,3277729,semi permanen,60,tidak bekerja,menikah,hipertensi,lebih,187,49,1
+3,1731070,semi permanen,40,karyawan,menikah,diabetes,normal,176,54,1
+6,1059983,sangat sederhana,33,tidak bekerja,belum menikah,asma,normal,180,42,1
+6,1974755,layak,38,tidak bekerja,janda/duda,hipertensi,normal,149,55,1
+5,2641347,sangat sederhana,63,tidak bekerja,janda/duda,tbc,lebih,177,60,1
+5,4371169,tidak layak,27,karyawan,janda/duda,diabetes,lebih,171,47,0
+5,2717582,tidak layak,30,karyawan,belum menikah,asma,normal,183,62,0
+4,1078837,layak,34,mahasiswa,belum menikah,tidak ada,lebih,172,80,1
+4,2872082,sangat sederhana,57,pns,menikah,tbc,kurang gizi,174,50,0
+1,845906,semi permanen,33,mahasiswa,janda/duda,tidak ada,kurang gizi,178,55,0
+4,1194242,tidak layak,64,karyawan,menikah,tidak ada,normal,157,84,0
+5,2141876,semi permanen,65,mahasiswa,janda/duda,diabetes,kurang gizi,157,73,1
+4,2369087,semi permanen,38,petani,janda/duda,hipertensi,kurang gizi,160,42,0
+5,1168579,sangat sederhana,26,petani,menikah,tbc,kurang gizi,166,63,1
+1,4784594,semi permanen,48,karyawan,menikah,diabetes,lebih,185,51,0
+4,2796874,layak,29,petani,belum menikah,tbc,normal,183,85,0
+1,4917507,semi permanen,50,mahasiswa,janda/duda,diabetes,normal,162,90,1
+2,3444106,sangat sederhana,48,karyawan,belum menikah,hipertensi,lebih,179,90,1
+1,3358427,tidak layak,35,karyawan,menikah,tidak ada,normal,158,69,0
+3,987506,sangat sederhana,21,buruh,belum menikah,tidak ada,lebih,160,59,1
+7,1703107,semi permanen,30,petani,janda/duda,tidak ada,normal,178,76,1
+4,1240746,semi permanen,54,petani,menikah,hipertensi,lebih,184,95,1
+4,4424249,semi permanen,29,mahasiswa,belum menikah,tidak ada,lebih,156,56,0
+5,1692432,layak,49,petani,menikah,diabetes,lebih,165,41,0
+5,3422529,layak,61,tidak bekerja,belum menikah,asma,normal,177,51,0
+6,4089446,sangat sederhana,58,mahasiswa,belum menikah,diabetes,lebih,188,87,1
+6,4627868,sangat sederhana,49,mahasiswa,menikah,hipertensi,kurang gizi,176,87,0
+3,4556601,layak,27,petani,janda/duda,hipertensi,lebih,145,57,1
+2,1909835,semi permanen,22,tidak bekerja,menikah,tidak ada,kurang gizi,184,79,1
+7,3836318,layak,65,karyawan,janda/duda,hipertensi,lebih,168,91,1
+4,3603022,sangat sederhana,60,pns,belum menikah,hipertensi,kurang gizi,149,98,0
+7,1568364,sangat sederhana,25,tidak bekerja,janda/duda,diabetes,lebih,178,71,1
+7,4237632,layak,22,buruh,menikah,diabetes,kurang gizi,162,56,0
+3,2877994,layak,43,karyawan,belum menikah,tidak ada,lebih,166,92,1
+5,3583851,tidak layak,61,pns,belum menikah,tidak ada,lebih,155,58,0
+3,3903705,tidak layak,36,tidak bekerja,janda/duda,hipertensi,kurang gizi,158,70,0
+1,1584482,layak,58,tidak bekerja,janda/duda,asma,lebih,188,44,0
+5,2615557,semi permanen,39,tidak bekerja,janda/duda,asma,normal,146,57,0
+6,4285350,layak,25,buruh,janda/duda,diabetes,normal,161,80,1
+1,837299,semi permanen,42,pns,menikah,tbc,kurang gizi,183,91,0
+5,3971470,sangat sederhana,39,tidak bekerja,janda/duda,asma,normal,167,54,1
+1,3448921,tidak layak,52,petani,janda/duda,tidak ada,kurang gizi,188,60,1
+5,3500340,layak,59,buruh,janda/duda,hipertensi,normal,163,78,0
+7,2171349,tidak layak,25,tidak bekerja,janda/duda,tbc,normal,174,86,0
+3,3744138,semi permanen,22,buruh,janda/duda,tbc,lebih,152,54,1
+2,4382605,layak,38,tidak bekerja,menikah,tbc,kurang gizi,160,76,0
+6,3127809,layak,51,petani,belum menikah,asma,kurang gizi,145,65,1
+4,3733503,semi permanen,41,tidak bekerja,belum menikah,tidak ada,normal,170,57,1
+7,912862,semi permanen,58,tidak bekerja,janda/duda,hipertensi,lebih,155,74,0
+2,2122383,sangat sederhana,46,mahasiswa,belum menikah,asma,lebih,178,90,0
+6,1831656,tidak layak,28,karyawan,belum menikah,hipertensi,kurang gizi,182,53,0
+4,833436,tidak layak,27,mahasiswa,menikah,hipertensi,kurang gizi,181,47,0
+7,2551897,sangat sederhana,51,petani,menikah,asma,kurang gizi,180,90,1
+2,3060516,sangat sederhana,39,karyawan,menikah,tbc,kurang gizi,147,45,0
+2,1412096,tidak layak,60,mahasiswa,menikah,tidak ada,lebih,162,43,1
+7,3708238,tidak layak,41,buruh,belum menikah,diabetes,normal,169,91,1
+3,4130130,sangat sederhana,51,karyawan,belum menikah,tidak ada,lebih,160,47,0
+6,1369851,semi permanen,63,karyawan,janda/duda,hipertensi,normal,152,99,0
+6,3777431,sangat sederhana,55,karyawan,belum menikah,hipertensi,normal,177,63,0
+6,1921511,tidak layak,38,karyawan,belum menikah,tidak ada,normal,151,96,0
+5,4620794,sangat sederhana,30,petani,belum menikah,hipertensi,normal,161,85,1
+2,778020,layak,23,petani,belum menikah,asma,normal,146,66,0
+4,1663241,sangat sederhana,57,tidak bekerja,menikah,asma,kurang gizi,190,89,0
+4,4751634,tidak layak,28,petani,janda/duda,diabetes,lebih,176,72,1
+1,1880956,layak,26,pns,janda/duda,hipertensi,normal,171,77,1
+1,2688374,sangat sederhana,28,mahasiswa,menikah,asma,normal,147,78,1
+1,2718671,sangat sederhana,55,mahasiswa,belum menikah,tidak ada,kurang gizi,149,60,1
+4,4713466,tidak layak,35,karyawan,belum menikah,diabetes,kurang gizi,158,70,0
+2,645648,sangat sederhana,23,buruh,janda/duda,asma,kurang gizi,175,92,1
+1,3790573,semi permanen,61,mahasiswa,menikah,diabetes,lebih,169,93,1
+5,2982815,layak,62,mahasiswa,janda/duda,tidak ada,normal,164,66,0
+4,966008,sangat sederhana,18,tidak bekerja,janda/duda,asma,normal,171,75,1
+4,4818918,semi permanen,64,pns,janda/duda,asma,kurang gizi,173,46,1
+1,1063775,sangat sederhana,57,mahasiswa,belum menikah,tidak ada,kurang gizi,177,93,0
+4,1575284,semi permanen,39,mahasiswa,belum menikah,asma,lebih,169,45,1
+7,3621892,layak,46,buruh,belum menikah,hipertensi,lebih,166,66,0
+6,3699365,sangat sederhana,54,buruh,janda/duda,asma,kurang gizi,176,64,0
+3,2882833,tidak layak,37,petani,janda/duda,tidak ada,kurang gizi,159,81,1
+1,1631352,semi permanen,43,pns,janda/duda,tidak ada,kurang gizi,186,43,0
+4,592170,semi permanen,29,petani,belum menikah,asma,normal,188,48,1
+7,856506,layak,47,buruh,menikah,diabetes,lebih,182,94,0
+3,2395491,tidak layak,28,buruh,belum menikah,asma,normal,167,85,0
+1,3509278,sangat sederhana,56,pns,menikah,tidak ada,lebih,159,69,1
+3,2003920,layak,18,petani,belum menikah,diabetes,normal,168,57,0
+3,3711544,semi permanen,60,buruh,menikah,asma,lebih,157,59,0
+2,855725,tidak layak,48,tidak bekerja,belum menikah,tidak ada,kurang gizi,180,79,1
+3,3413567,semi permanen,29,tidak bekerja,menikah,hipertensi,normal,155,56,0
+4,4797135,semi permanen,25,pns,menikah,diabetes,normal,158,73,1
+2,1096311,tidak layak,48,mahasiswa,janda/duda,hipertensi,kurang gizi,183,87,1
+7,1167113,tidak layak,22,tidak bekerja,janda/duda,diabetes,normal,164,88,1
+2,1823815,tidak layak,22,mahasiswa,belum menikah,asma,normal,153,75,1
+4,582713,sangat sederhana,35,tidak bekerja,janda/duda,tidak ada,normal,149,70,0
+6,3809471,semi permanen,20,tidak bekerja,belum menikah,tidak ada,lebih,185,78,1
+4,2239871,layak,59,karyawan,belum menikah,diabetes,lebih,177,66,1
+5,3994763,sangat sederhana,59,mahasiswa,menikah,hipertensi,normal,165,86,1
+5,663509,semi permanen,42,mahasiswa,belum menikah,tidak ada,normal,152,54,0
+4,4084343,semi permanen,20,buruh,belum menikah,tbc,kurang gizi,158,100,0
+7,2891237,sangat sederhana,44,tidak bekerja,janda/duda,hipertensi,kurang gizi,188,43,1
+7,3559341,sangat sederhana,61,karyawan,menikah,hipertensi,normal,179,48,0
+5,2576826,layak,26,pns,janda/duda,asma,normal,187,65,0
+5,4302039,layak,23,karyawan,belum menikah,tbc,normal,149,88,0
+1,2005725,semi permanen,19,pns,belum menikah,tidak ada,lebih,156,47,0
+6,4826993,layak,64,buruh,belum menikah,hipertensi,kurang gizi,170,56,0
+1,2315369,sangat sederhana,35,buruh,belum menikah,asma,normal,165,49,0
+5,1599074,layak,39,petani,janda/duda,tidak ada,kurang gizi,169,72,0
+5,2279817,layak,36,buruh,janda/duda,hipertensi,normal,155,76,1
+3,3140624,layak,23,petani,janda/duda,tidak ada,kurang gizi,181,84,1
+3,1289253,sangat sederhana,23,pns,janda/duda,asma,lebih,160,63,0
+1,3858248,layak,29,tidak bekerja,janda/duda,tbc,normal,186,89,1
+5,1392783,layak,63,pns,menikah,asma,lebih,189,41,1
+5,3496012,layak,55,buruh,menikah,tidak ada,normal,153,89,1
+5,827526,layak,41,petani,menikah,diabetes,kurang gizi,187,62,1
+6,3037904,layak,32,pns,belum menikah,tidak ada,kurang gizi,157,49,1
+1,850182,tidak layak,58,petani,janda/duda,hipertensi,lebih,187,80,1
+2,3133234,layak,60,tidak bekerja,janda/duda,asma,kurang gizi,157,42,1
+4,1897222,tidak layak,49,pns,belum menikah,asma,normal,174,61,1
+2,4413646,tidak layak,61,karyawan,belum menikah,tbc,lebih,169,100,1
+4,4145033,layak,50,petani,janda/duda,tidak ada,normal,174,93,1
+1,3120722,layak,24,mahasiswa,janda/duda,asma,normal,156,89,0
+4,3641865,tidak layak,51,karyawan,belum menikah,asma,normal,148,76,1
+7,949462,semi permanen,27,pns,janda/duda,tidak ada,normal,157,60,1
+2,1310896,layak,38,buruh,menikah,hipertensi,lebih,188,95,0
+4,4057672,semi permanen,23,karyawan,menikah,hipertensi,normal,151,70,0
+2,2922804,semi permanen,30,tidak bekerja,belum menikah,hipertensi,normal,166,48,0
+5,3457689,sangat sederhana,48,petani,menikah,tidak ada,lebih,174,46,0
+7,3653431,sangat sederhana,38,mahasiswa,janda/duda,diabetes,kurang gizi,181,78,1
+4,3819743,sangat sederhana,61,mahasiswa,janda/duda,asma,kurang gizi,173,73,1
+5,2498527,semi permanen,34,mahasiswa,janda/duda,tidak ada,kurang gizi,190,69,0
+5,3201418,sangat sederhana,64,tidak bekerja,janda/duda,diabetes,lebih,170,84,1
+4,4757158,semi permanen,58,buruh,janda/duda,hipertensi,normal,165,50,0
+1,4261789,semi permanen,19,pns,menikah,tidak ada,lebih,148,45,0
+5,3847829,sangat sederhana,18,pns,janda/duda,tidak ada,lebih,146,51,1
+7,1678048,sangat sederhana,24,petani,menikah,tbc,normal,174,72,1
+7,4692361,layak,22,mahasiswa,belum menikah,hipertensi,normal,172,85,1
+4,4929055,sangat sederhana,40,karyawan,janda/duda,asma,lebih,157,53,0
+6,1487086,tidak layak,26,buruh,belum menikah,diabetes,kurang gizi,185,49,1
+2,2701556,semi permanen,51,mahasiswa,menikah,hipertensi,normal,179,59,1
+1,2473304,sangat sederhana,40,pns,belum menikah,asma,kurang gizi,175,60,0
+7,3696314,tidak layak,40,karyawan,janda/duda,diabetes,kurang gizi,175,97,1
+7,3245667,sangat sederhana,51,tidak bekerja,belum menikah,diabetes,lebih,158,83,1
+5,3857555,layak,32,tidak bekerja,menikah,asma,kurang gizi,145,100,0
+2,3955823,tidak layak,22,petani,belum menikah,diabetes,kurang gizi,152,53,1
+3,2737189,sangat sederhana,28,pns,janda/duda,hipertensi,kurang gizi,173,71,0
+2,686461,sangat sederhana,64,buruh,menikah,diabetes,kurang gizi,178,94,1
+3,4534473,layak,45,karyawan,belum menikah,hipertensi,normal,162,79,0
+1,2139697,tidak layak,34,petani,belum menikah,hipertensi,lebih,182,91,0
+2,1756390,tidak layak,33,pns,menikah,hipertensi,normal,171,87,0
+7,4808573,sangat sederhana,52,karyawan,janda/duda,hipertensi,kurang gizi,155,53,1
+4,4163950,sangat sederhana,37,pns,janda/duda,diabetes,lebih,163,76,0
+4,4730223,layak,52,tidak bekerja,menikah,diabetes,normal,148,78,1
+6,3388518,tidak layak,43,tidak bekerja,menikah,asma,lebih,187,85,0
+5,2724361,semi permanen,46,buruh,menikah,hipertensi,lebih,184,60,1
+5,745064,layak,20,buruh,belum menikah,tbc,lebih,172,46,1
+3,3681536,semi permanen,41,petani,janda/duda,hipertensi,kurang gizi,186,80,1
+5,2854609,tidak layak,18,karyawan,belum menikah,diabetes,kurang gizi,174,91,0
+6,1961234,layak,45,buruh,janda/duda,asma,kurang gizi,166,44,0
+6,2602835,tidak layak,50,petani,menikah,tidak ada,lebih,150,69,0
+5,2161984,semi permanen,45,tidak bekerja,belum menikah,tbc,normal,147,50,0
+2,2563193,semi permanen,44,petani,menikah,tbc,lebih,170,63,1
+5,4536403,sangat sederhana,53,karyawan,janda/duda,asma,kurang gizi,150,73,0
+6,2165344,tidak layak,42,buruh,janda/duda,asma,kurang gizi,180,55,0
+7,4079544,semi permanen,25,mahasiswa,janda/duda,tbc,lebih,169,59,1
+7,4513779,sangat sederhana,57,mahasiswa,janda/duda,asma,normal,180,81,0
+3,2000885,semi permanen,35,petani,janda/duda,hipertensi,lebih,170,63,1
+1,4182013,layak,19,tidak bekerja,menikah,tidak ada,normal,153,71,0
+5,4367366,sangat sederhana,44,tidak bekerja,belum menikah,tbc,lebih,161,67,1
+3,2368918,sangat sederhana,42,karyawan,janda/duda,diabetes,lebih,154,94,1
+5,507601,semi permanen,30,karyawan,janda/duda,tbc,kurang gizi,169,68,1
+6,1412419,semi permanen,20,tidak bekerja,janda/duda,asma,normal,190,43,0
+7,2922122,semi permanen,48,karyawan,belum menikah,tidak ada,normal,170,77,0
+3,800659,semi permanen,27,pns,belum menikah,asma,normal,182,86,0
+6,3353205,sangat sederhana,52,karyawan,janda/duda,tbc,lebih,189,93,1
+3,2575223,tidak layak,31,tidak bekerja,menikah,asma,lebih,169,94,0
+1,2886764,layak,22,tidak bekerja,janda/duda,tbc,kurang gizi,184,51,0
+1,1521626,semi permanen,35,buruh,menikah,tbc,kurang gizi,145,86,1
+5,3022251,sangat sederhana,43,karyawan,belum menikah,diabetes,normal,145,78,1
+7,4251267,semi permanen,42,petani,belum menikah,asma,kurang gizi,164,75,0
+4,3566532,sangat sederhana,50,petani,menikah,diabetes,lebih,150,45,1
+7,4486540,layak,65,buruh,belum menikah,tbc,lebih,146,74,0
+5,2746079,layak,64,buruh,janda/duda,tidak ada,normal,175,90,0
+7,4141056,tidak layak,26,pns,menikah,hipertensi,lebih,161,61,0
+4,3599097,tidak layak,53,petani,belum menikah,hipertensi,lebih,151,68,1
+5,3822471,sangat sederhana,51,buruh,menikah,tbc,lebih,190,100,0
+3,1857136,tidak layak,47,mahasiswa,belum menikah,tidak ada,lebih,161,42,1
+5,2821055,tidak layak,42,mahasiswa,menikah,asma,normal,159,86,0
+7,1455396,semi permanen,42,buruh,janda/duda,asma,lebih,162,43,1
+3,4520127,tidak layak,48,mahasiswa,belum menikah,hipertensi,lebih,167,43,0
+1,3959564,tidak layak,53,karyawan,janda/duda,tidak ada,kurang gizi,147,41,1
+1,4826684,tidak layak,38,pns,janda/duda,asma,lebih,174,90,0
+1,2758966,semi permanen,27,buruh,menikah,diabetes,kurang gizi,148,56,0
+4,3857115,semi permanen,29,mahasiswa,menikah,diabetes,normal,163,94,1
+5,2438859,tidak layak,21,tidak bekerja,menikah,diabetes,normal,164,87,1
+6,2857732,semi permanen,34,buruh,menikah,asma,kurang gizi,153,52,0
+4,4116356,semi permanen,47,petani,belum menikah,tbc,normal,156,67,0
+2,3086489,tidak layak,57,mahasiswa,janda/duda,diabetes,normal,166,52,1
+1,3877674,layak,25,pns,belum menikah,hipertensi,kurang gizi,149,45,1
+5,4450270,sangat sederhana,42,buruh,janda/duda,asma,lebih,166,41,0
+3,1437534,tidak layak,58,petani,janda/duda,tidak ada,kurang gizi,167,57,1
+3,1306465,layak,40,karyawan,janda/duda,tidak ada,lebih,160,69,1
+5,4428481,semi permanen,31,mahasiswa,belum menikah,diabetes,kurang gizi,171,81,1
+6,1165688,semi permanen,39,buruh,menikah,tbc,normal,171,68,0
+1,4548739,sangat sederhana,40,buruh,menikah,diabetes,normal,186,95,1
+4,1974078,tidak layak,42,karyawan,belum menikah,tidak ada,lebih,160,91,1
+2,4394839,layak,54,karyawan,belum menikah,hipertensi,lebih,190,66,1
+1,3068782,layak,18,mahasiswa,belum menikah,tbc,normal,190,52,1
+6,3931137,layak,46,pns,menikah,tidak ada,lebih,169,77,0
+2,1036604,layak,37,pns,menikah,hipertensi,kurang gizi,182,46,0
+2,3430536,sangat sederhana,59,mahasiswa,janda/duda,tidak ada,lebih,185,76,1
+1,2719179,semi permanen,60,karyawan,menikah,tidak ada,kurang gizi,164,41,1
+2,3447228,sangat sederhana,21,mahasiswa,belum menikah,diabetes,lebih,164,44,1
+5,550036,sangat sederhana,54,buruh,janda/duda,tidak ada,lebih,187,85,0
+3,2179875,semi permanen,43,mahasiswa,janda/duda,asma,kurang gizi,167,62,1
+2,4456878,semi permanen,31,karyawan,janda/duda,diabetes,kurang gizi,154,59,1
+2,1453657,semi permanen,61,buruh,janda/duda,diabetes,kurang gizi,188,91,1
+7,4643263,layak,47,mahasiswa,menikah,tbc,normal,181,52,0
+1,3692919,layak,34,pns,janda/duda,tbc,kurang gizi,183,69,0
+6,4448188,layak,18,petani,janda/duda,diabetes,normal,177,75,1
+3,3903357,tidak layak,57,karyawan,janda/duda,asma,lebih,159,93,0
+6,2220027,tidak layak,28,pns,belum menikah,tidak ada,lebih,154,63,0
+2,3460165,layak,40,pns,menikah,tidak ada,normal,151,55,1
+3,2259152,sangat sederhana,26,petani,menikah,tbc,lebih,165,41,0
+7,4591539,semi permanen,36,pns,janda/duda,hipertensi,lebih,177,91,1
+6,4252549,layak,30,petani,menikah,hipertensi,lebih,171,56,0
+2,1444094,semi permanen,31,petani,menikah,tbc,normal,167,69,1
+7,3127888,tidak layak,53,buruh,janda/duda,hipertensi,kurang gizi,172,68,0
+4,4070816,sangat sederhana,60,karyawan,janda/duda,diabetes,kurang gizi,180,99,0
+2,2604229,semi permanen,51,pns,belum menikah,hipertensi,lebih,186,88,1
+7,3581202,tidak layak,62,mahasiswa,menikah,tidak ada,kurang gizi,176,77,1
+1,2221963,semi permanen,55,karyawan,janda/duda,hipertensi,normal,157,65,1
+7,1262780,tidak layak,47,pns,janda/duda,diabetes,lebih,182,97,0
+3,4408707,semi permanen,59,karyawan,belum menikah,hipertensi,lebih,176,62,0
+3,4145593,sangat sederhana,62,petani,belum menikah,hipertensi,lebih,186,79,1
+4,632246,semi permanen,22,pns,menikah,asma,lebih,154,78,1
+4,4677794,sangat sederhana,42,buruh,belum menikah,tidak ada,normal,179,62,1
+4,1065408,semi permanen,63,pns,belum menikah,tidak ada,lebih,170,99,0
+3,2180896,semi permanen,65,karyawan,janda/duda,tidak ada,kurang gizi,166,40,1
+3,3078254,semi permanen,54,buruh,menikah,asma,lebih,145,53,0
+3,1868980,semi permanen,47,petani,janda/duda,tidak ada,kurang gizi,155,46,0
+4,2881857,layak,33,karyawan,menikah,tbc,kurang gizi,189,42,1
+1,4243356,tidak layak,40,petani,janda/duda,hipertensi,kurang gizi,186,93,1
+7,4478256,semi permanen,36,tidak bekerja,janda/duda,tbc,normal,190,87,0
+4,1626048,sangat sederhana,25,petani,janda/duda,asma,normal,157,79,1
+4,1650863,tidak layak,29,pns,janda/duda,diabetes,normal,165,97,1
+4,3818029,semi permanen,18,karyawan,menikah,hipertensi,kurang gizi,186,87,0
+4,3571304,layak,59,petani,belum menikah,tbc,normal,149,69,0
+4,803173,tidak layak,59,tidak bekerja,belum menikah,tidak ada,normal,151,54,0
+4,1525558,semi permanen,32,mahasiswa,belum menikah,asma,normal,187,84,0
+6,3179139,sangat sederhana,27,mahasiswa,menikah,tbc,lebih,161,77,0
+7,4555421,semi permanen,21,mahasiswa,menikah,tidak ada,lebih,162,79,0
+3,4079324,semi permanen,22,tidak bekerja,janda/duda,diabetes,kurang gizi,148,51,0
+3,1401980,sangat sederhana,59,pns,belum menikah,hipertensi,kurang gizi,172,55,1
+3,3281046,sangat sederhana,62,buruh,menikah,hipertensi,normal,179,53,1
+4,675051,semi permanen,27,karyawan,belum menikah,tbc,lebih,173,46,1
+7,4964268,layak,42,buruh,janda/duda,tidak ada,lebih,151,85,0
+7,4428797,semi permanen,19,mahasiswa,belum menikah,diabetes,kurang gizi,170,91,0
+4,3026205,layak,25,pns,janda/duda,diabetes,lebih,186,60,1
+1,2503856,tidak layak,41,petani,menikah,tbc,kurang gizi,185,44,0
+2,4249727,semi permanen,35,mahasiswa,janda/duda,tbc,lebih,190,58,1
+7,3114651,sangat sederhana,56,karyawan,janda/duda,asma,lebih,163,92,0
+2,581205,semi permanen,47,tidak bekerja,menikah,hipertensi,kurang gizi,146,89,1
+4,1219179,tidak layak,49,tidak bekerja,belum menikah,diabetes,kurang gizi,166,78,1
+7,4139925,sangat sederhana,47,karyawan,janda/duda,diabetes,lebih,182,93,0
+4,1675504,layak,47,mahasiswa,belum menikah,tidak ada,normal,149,76,0
+7,4983443,semi permanen,57,buruh,janda/duda,diabetes,normal,170,91,1
+3,1720660,layak,26,tidak bekerja,belum menikah,hipertensi,normal,183,66,0
+4,1112234,layak,62,karyawan,menikah,asma,normal,187,53,1
+1,4122954,tidak layak,19,karyawan,janda/duda,tbc,kurang gizi,177,91,1
+2,810596,semi permanen,61,petani,menikah,tbc,kurang gizi,175,56,1
+1,2727378,layak,62,tidak bekerja,belum menikah,diabetes,lebih,190,76,1
+6,4949521,layak,45,petani,belum menikah,tbc,kurang gizi,150,100,1
+1,1782376,sangat sederhana,43,karyawan,menikah,tbc,lebih,168,44,1
+3,4506291,sangat sederhana,65,mahasiswa,janda/duda,diabetes,normal,159,65,0
+6,1522150,layak,37,karyawan,janda/duda,tidak ada,lebih,163,68,1
+4,1022527,sangat sederhana,44,mahasiswa,menikah,hipertensi,lebih,145,44,1
+4,2280507,semi permanen,45,pns,belum menikah,tidak ada,lebih,159,88,1
+1,651947,sangat sederhana,37,petani,janda/duda,tidak ada,normal,164,49,1
+4,4255618,layak,51,pns,janda/duda,tidak ada,lebih,152,82,0
+4,906663,semi permanen,41,karyawan,menikah,tbc,normal,150,57,1
+6,515249,sangat sederhana,40,pns,menikah,tidak ada,lebih,153,70,0
+4,3239049,semi permanen,57,karyawan,janda/duda,tbc,normal,151,76,0
+7,1974606,semi permanen,48,mahasiswa,belum menikah,asma,normal,166,78,0
+4,1192166,sangat sederhana,51,tidak bekerja,menikah,diabetes,lebih,163,62,1
+1,1471235,semi permanen,57,buruh,belum menikah,hipertensi,kurang gizi,188,47,1
+2,3939117,layak,65,mahasiswa,janda/duda,tidak ada,lebih,147,81,0
+5,2550945,semi permanen,31,tidak bekerja,menikah,hipertensi,normal,171,55,1
+4,4189132,sangat sederhana,59,tidak bekerja,janda/duda,diabetes,lebih,179,85,1
+1,1484434,semi permanen,62,karyawan,menikah,hipertensi,normal,165,57,0
+6,1981477,layak,41,petani,belum menikah,tbc,kurang gizi,157,89,0
+2,4006658,semi permanen,49,petani,janda/duda,hipertensi,normal,190,53,1
+3,1593308,semi permanen,44,karyawan,belum menikah,tidak ada,normal,174,93,0
+6,4764420,sangat sederhana,36,pns,janda/duda,hipertensi,kurang gizi,154,41,1
+2,3473037,layak,43,petani,menikah,hipertensi,normal,145,88,1
+3,1358839,sangat sederhana,57,tidak bekerja,janda/duda,tbc,lebih,183,81,1
+6,1500243,semi permanen,58,mahasiswa,belum menikah,tidak ada,kurang gizi,155,90,1
+2,2712351,layak,54,mahasiswa,menikah,diabetes,kurang gizi,159,96,1
+6,501837,sangat sederhana,47,buruh,menikah,asma,lebih,164,46,0
+7,2603276,sangat sederhana,40,tidak bekerja,belum menikah,tidak ada,kurang gizi,174,91,1
+7,1647260,tidak layak,49,pns,menikah,tbc,kurang gizi,150,78,0
+7,4829731,tidak layak,52,tidak bekerja,janda/duda,diabetes,kurang gizi,176,83,1
+7,3216911,semi permanen,39,pns,menikah,tbc,lebih,166,63,1
+1,3789807,semi permanen,57,buruh,belum menikah,asma,normal,158,45,1
+3,3020893,sangat sederhana,39,tidak bekerja,janda/duda,tidak ada,normal,173,86,0
+2,3444400,sangat sederhana,40,petani,janda/duda,tbc,lebih,169,52,0
+5,1186634,sangat sederhana,65,karyawan,janda/duda,tidak ada,lebih,170,76,0
+5,3483759,layak,35,tidak bekerja,belum menikah,asma,lebih,160,43,1
+3,1946395,tidak layak,59,pns,menikah,tidak ada,normal,185,49,0
+3,3836556,tidak layak,59,buruh,belum menikah,asma,lebih,153,50,0
+2,3513565,sangat sederhana,53,tidak bekerja,belum menikah,tidak ada,normal,181,84,0
+5,2935658,sangat sederhana,45,buruh,menikah,tbc,lebih,186,87,1
+7,1638180,semi permanen,18,karyawan,belum menikah,tidak ada,lebih,180,99,1
+6,693003,sangat sederhana,21,karyawan,janda/duda,tbc,lebih,185,81,0
+1,4474373,layak,39,tidak bekerja,belum menikah,tbc,lebih,145,76,0
+4,2986994,sangat sederhana,23,karyawan,belum menikah,tbc,kurang gizi,149,61,1
+4,1586034,layak,18,pns,belum menikah,diabetes,normal,168,72,0
+5,2885016,sangat sederhana,42,karyawan,belum menikah,tidak ada,lebih,184,53,0
+7,3937419,layak,31,buruh,janda/duda,tidak ada,kurang gizi,153,42,1
+4,4917892,layak,32,pns,menikah,tbc,normal,175,42,0
+4,997597,tidak layak,28,mahasiswa,menikah,tbc,lebih,146,46,1
+2,3981609,tidak layak,51,karyawan,belum menikah,hipertensi,lebih,158,60,1
+7,578844,tidak layak,27,mahasiswa,menikah,tidak ada,lebih,179,53,1
+4,692763,tidak layak,40,karyawan,menikah,tbc,lebih,175,99,0
+5,3094859,tidak layak,30,petani,belum menikah,asma,kurang gizi,147,54,0
+5,1873795,semi permanen,59,buruh,belum menikah,tidak ada,lebih,187,58,0
+2,4569547,tidak layak,36,tidak bekerja,menikah,asma,normal,153,40,1
+3,597655,tidak layak,30,tidak bekerja,belum menikah,diabetes,lebih,170,53,0
+3,2866754,tidak layak,49,tidak bekerja,belum menikah,asma,lebih,154,44,0
+4,1522998,sangat sederhana,60,tidak bekerja,belum menikah,tidak ada,kurang gizi,180,96,0
+4,1814511,sangat sederhana,26,tidak bekerja,belum menikah,tidak ada,kurang gizi,176,51,1
+4,1129691,sangat sederhana,60,buruh,menikah,diabetes,kurang gizi,169,54,1
+2,3420788,semi permanen,27,mahasiswa,belum menikah,tbc,normal,163,82,1
+6,1701617,sangat sederhana,18,buruh,belum menikah,tidak ada,lebih,148,74,0
+7,1155092,sangat sederhana,33,tidak bekerja,janda/duda,tbc,kurang gizi,174,40,0
+3,1623839,semi permanen,25,karyawan,janda/duda,tbc,lebih,173,86,1
+3,3271098,sangat sederhana,21,tidak bekerja,belum menikah,tidak ada,lebih,186,49,1
+6,1717882,tidak layak,61,pns,janda/duda,asma,lebih,189,43,0
+5,1270695,layak,39,buruh,janda/duda,asma,lebih,166,45,1
+4,584912,tidak layak,37,petani,janda/duda,asma,lebih,187,85,1
+2,842598,sangat sederhana,30,petani,menikah,hipertensi,lebih,157,52,0
+6,2516650,semi permanen,61,buruh,belum menikah,tidak ada,normal,180,95,1
+6,4943321,sangat sederhana,29,mahasiswa,menikah,diabetes,normal,154,58,0
+5,2776079,sangat sederhana,63,karyawan,menikah,asma,kurang gizi,162,100,0
+3,3910681,sangat sederhana,51,pns,janda/duda,diabetes,normal,167,54,0
+6,2843474,tidak layak,48,petani,belum menikah,diabetes,normal,145,66,1
+1,1713806,tidak layak,50,karyawan,menikah,tidak ada,normal,145,92,1
+3,2640119,semi permanen,48,mahasiswa,menikah,tbc,normal,173,69,1
+7,1723305,sangat sederhana,24,pns,menikah,hipertensi,kurang gizi,166,97,1
+3,2957740,sangat sederhana,64,buruh,janda/duda,asma,kurang gizi,174,87,1
+1,2232694,sangat sederhana,56,karyawan,belum menikah,asma,normal,190,95,0
+7,4976725,sangat sederhana,19,mahasiswa,menikah,hipertensi,kurang gizi,181,58,0
+1,3864028,sangat sederhana,49,petani,menikah,diabetes,normal,186,78,1
+7,3489073,semi permanen,18,buruh,janda/duda,tidak ada,normal,166,42,0
+1,4638979,semi permanen,54,mahasiswa,belum menikah,tidak ada,lebih,188,74,0
+7,2070226,layak,62,buruh,belum menikah,tbc,kurang gizi,164,58,1
+1,3543406,semi permanen,27,pns,janda/duda,tidak ada,kurang gizi,176,54,1
+4,4639610,layak,38,buruh,janda/duda,tidak ada,lebih,158,64,1
+4,1293251,tidak layak,54,petani,menikah,hipertensi,lebih,190,79,1
+7,2576142,tidak layak,21,karyawan,menikah,diabetes,kurang gizi,150,93,1
+7,4587938,tidak layak,31,buruh,belum menikah,diabetes,normal,177,46,0
+6,4061354,sangat sederhana,24,buruh,menikah,asma,normal,166,97,1
+1,4796180,tidak layak,41,pns,menikah,diabetes,kurang gizi,173,93,1
+1,4849563,sangat sederhana,48,tidak bekerja,belum menikah,asma,lebih,160,56,0
+7,951558,semi permanen,55,buruh,belum menikah,asma,lebih,157,75,0
+4,1194913,sangat sederhana,49,pns,menikah,tbc,kurang gizi,148,88,1
+1,1978464,sangat sederhana,52,pns,menikah,hipertensi,kurang gizi,172,43,0
+6,3186773,tidak layak,31,pns,janda/duda,tbc,kurang gizi,182,56,1
+3,1099174,tidak layak,42,buruh,janda/duda,hipertensi,normal,179,94,0
+1,3340904,semi permanen,43,mahasiswa,belum menikah,tidak ada,normal,182,57,1
+1,2093551,layak,29,petani,belum menikah,hipertensi,lebih,184,72,1
+1,3954303,sangat sederhana,43,pns,janda/duda,tbc,normal,176,75,0
+5,2198879,sangat sederhana,27,buruh,menikah,tidak ada,normal,149,56,1
+7,2127366,sangat sederhana,65,pns,menikah,hipertensi,normal,150,65,1
+3,2069592,semi permanen,38,mahasiswa,menikah,diabetes,kurang gizi,153,42,0
+5,689525,sangat sederhana,23,mahasiswa,janda/duda,asma,lebih,158,50,1
+3,1674350,sangat sederhana,53,buruh,belum menikah,tidak ada,lebih,177,60,0
+2,4021981,tidak layak,21,pns,menikah,asma,kurang gizi,165,93,0
+5,1025237,layak,28,karyawan,menikah,tidak ada,normal,167,43,1
+7,3937638,tidak layak,25,tidak bekerja,menikah,tbc,lebih,159,83,1
+2,4290009,tidak layak,50,karyawan,janda/duda,asma,kurang gizi,185,42,1
+3,2946803,semi permanen,29,karyawan,belum menikah,tbc,kurang gizi,161,75,0
+3,1432133,sangat sederhana,58,petani,janda/duda,diabetes,normal,145,89,1
+7,1401254,sangat sederhana,59,pns,janda/duda,asma,normal,182,50,1
+1,4085075,sangat sederhana,40,tidak bekerja,janda/duda,tbc,kurang gizi,179,77,0
+2,2851714,tidak layak,46,tidak bekerja,janda/duda,tbc,normal,148,84,1
+4,866011,semi permanen,65,karyawan,janda/duda,hipertensi,lebih,182,84,0
+1,2649481,tidak layak,63,karyawan,belum menikah,tidak ada,lebih,178,74,1
+4,963549,sangat sederhana,31,tidak bekerja,janda/duda,diabetes,lebih,168,52,0
+2,1413214,sangat sederhana,41,karyawan,belum menikah,tbc,normal,147,79,0
+1,1654956,tidak layak,55,pns,janda/duda,tidak ada,normal,176,92,0
+6,2047275,semi permanen,46,mahasiswa,janda/duda,hipertensi,lebih,185,79,0
+5,968161,sangat sederhana,45,mahasiswa,belum menikah,tbc,normal,163,67,0
+3,4916925,semi permanen,48,mahasiswa,belum menikah,tidak ada,lebih,155,77,0
+5,2932614,sangat sederhana,39,buruh,belum menikah,tbc,lebih,155,89,0
+2,3450549,tidak layak,34,tidak bekerja,janda/duda,tbc,normal,175,75,0
+2,2877460,sangat sederhana,41,karyawan,menikah,diabetes,lebih,186,46,0
+2,4985524,sangat sederhana,47,karyawan,belum menikah,hipertensi,kurang gizi,165,78,0
+4,4007470,layak,32,karyawan,menikah,tbc,normal,162,53,0
+3,2223173,sangat sederhana,37,karyawan,belum menikah,asma,normal,168,40,0
+1,2794936,layak,26,pns,janda/duda,diabetes,lebih,179,62,0
+1,1690813,sangat sederhana,65,petani,belum menikah,hipertensi,kurang gizi,164,100,1
+6,1583569,semi permanen,61,mahasiswa,janda/duda,hipertensi,normal,171,62,1
+2,2424545,layak,60,karyawan,belum menikah,asma,lebih,164,52,1
+3,1629088,sangat sederhana,24,mahasiswa,menikah,tbc,normal,169,59,1
+5,4048416,tidak layak,33,petani,janda/duda,diabetes,lebih,178,72,0
+2,4291087,tidak layak,31,karyawan,belum menikah,asma,kurang gizi,190,75,1
+2,4757989,sangat sederhana,64,karyawan,menikah,tidak ada,normal,165,76,1
+4,2948778,semi permanen,30,pns,belum menikah,tbc,lebih,188,96,0
+3,3002256,layak,44,petani,belum menikah,asma,normal,168,56,1
+6,4827281,tidak layak,40,buruh,belum menikah,diabetes,normal,152,86,1
+2,1464458,semi permanen,61,petani,menikah,diabetes,kurang gizi,187,95,1
+6,3374905,tidak layak,28,pns,menikah,hipertensi,kurang gizi,163,54,1
+5,4007959,layak,62,pns,menikah,tbc,normal,185,83,0
+4,4185364,tidak layak,62,mahasiswa,janda/duda,tidak ada,kurang gizi,187,63,1
+1,1939458,layak,39,buruh,belum menikah,tbc,lebih,159,82,1
+7,877829,tidak layak,54,tidak bekerja,janda/duda,diabetes,kurang gizi,151,74,1
+6,743899,tidak layak,27,mahasiswa,menikah,asma,kurang gizi,169,72,0
+1,2782430,layak,62,pns,belum menikah,tbc,kurang gizi,154,75,0
+2,4647611,layak,32,mahasiswa,janda/duda,diabetes,lebih,150,85,1
+4,4998066,sangat sederhana,29,buruh,janda/duda,tidak ada,kurang gizi,146,40,0
+2,4021567,semi permanen,50,karyawan,menikah,hipertensi,normal,179,96,1
+6,4305152,layak,20,tidak bekerja,belum menikah,hipertensi,kurang gizi,149,54,1
+2,4567363,semi permanen,29,mahasiswa,janda/duda,asma,lebih,155,94,1
+1,3052339,semi permanen,23,tidak bekerja,belum menikah,diabetes,normal,161,86,1
+4,956482,tidak layak,19,karyawan,janda/duda,asma,lebih,166,67,1
+2,4678635,layak,32,tidak bekerja,janda/duda,asma,normal,163,49,1
+2,4940657,sangat sederhana,60,buruh,janda/duda,hipertensi,normal,150,95,1
+5,3740846,semi permanen,30,tidak bekerja,janda/duda,hipertensi,lebih,181,78,1
+1,2259222,sangat sederhana,20,pns,menikah,asma,kurang gizi,175,59,1
+2,2743022,layak,28,tidak bekerja,belum menikah,tbc,normal,145,44,1
+5,2792844,layak,41,karyawan,menikah,tidak ada,kurang gizi,182,91,1
+2,2799926,tidak layak,18,petani,janda/duda,hipertensi,normal,154,88,1
+5,3758045,tidak layak,43,pns,belum menikah,asma,lebih,186,75,1
+2,3004802,layak,46,buruh,belum menikah,asma,lebih,156,54,1
+3,2840333,layak,27,buruh,janda/duda,diabetes,lebih,187,59,0
+7,2363014,tidak layak,38,petani,menikah,tbc,kurang gizi,155,64,0
+7,2286110,layak,27,tidak bekerja,menikah,diabetes,normal,186,72,0
+6,4542828,layak,57,buruh,menikah,tbc,lebih,161,58,1
+4,4288664,sangat sederhana,36,petani,belum menikah,hipertensi,lebih,151,53,1
+2,1475301,semi permanen,34,mahasiswa,menikah,tbc,lebih,189,93,1
+6,1440783,tidak layak,53,tidak bekerja,janda/duda,hipertensi,normal,180,60,0
+3,4275217,layak,49,mahasiswa,janda/duda,tbc,lebih,149,49,1
+3,2260875,sangat sederhana,32,mahasiswa,belum menikah,hipertensi,kurang gizi,180,78,1
+6,4385453,tidak layak,31,mahasiswa,janda/duda,hipertensi,lebih,171,53,0
+4,1233061,sangat sederhana,33,buruh,menikah,asma,normal,177,45,0
+6,4737997,sangat sederhana,58,mahasiswa,belum menikah,tbc,lebih,158,85,0
+6,1228985,semi permanen,40,petani,belum menikah,asma,normal,173,86,1
+6,2902116,semi permanen,39,petani,janda/duda,tbc,kurang gizi,172,71,1
+5,3586305,layak,25,petani,belum menikah,diabetes,normal,148,73,1
+1,4377077,tidak layak,54,karyawan,menikah,asma,lebih,188,47,0
+6,3265655,layak,33,buruh,belum menikah,tbc,kurang gizi,175,66,0
+1,4675558,semi permanen,46,buruh,menikah,tbc,kurang gizi,175,55,0
+3,3986158,layak,52,petani,belum menikah,tidak ada,lebih,179,81,0
+6,2213977,tidak layak,56,mahasiswa,janda/duda,diabetes,lebih,170,53,0
+3,849968,layak,58,tidak bekerja,menikah,tidak ada,kurang gizi,183,87,1
+3,2415037,semi permanen,34,petani,belum menikah,diabetes,kurang gizi,170,92,1
+2,2874165,semi permanen,18,mahasiswa,belum menikah,hipertensi,normal,183,54,1
+6,4565991,layak,34,petani,menikah,hipertensi,normal,178,52,0
+4,4799196,semi permanen,27,buruh,janda/duda,hipertensi,normal,150,43,1
+2,1368787,layak,51,karyawan,belum menikah,diabetes,normal,168,92,1
+6,4270458,semi permanen,30,petani,janda/duda,tidak ada,kurang gizi,161,92,0
+3,694386,tidak layak,30,tidak bekerja,janda/duda,tidak ada,kurang gizi,188,58,0
+2,2785075,layak,54,petani,janda/duda,tidak ada,normal,150,98,0
+5,2190844,sangat sederhana,45,buruh,menikah,diabetes,kurang gizi,183,78,1
+7,3699454,sangat sederhana,32,tidak bekerja,menikah,hipertensi,normal,184,80,1
+5,2691641,layak,38,tidak bekerja,menikah,tidak ada,kurang gizi,189,49,0
+5,4070845,semi permanen,23,buruh,menikah,asma,lebih,188,40,1
+7,577827,sangat sederhana,32,petani,janda/duda,hipertensi,lebih,169,83,0
+4,1651314,sangat sederhana,61,tidak bekerja,janda/duda,hipertensi,lebih,165,72,1
+1,2862149,sangat sederhana,61,tidak bekerja,janda/duda,tidak ada,kurang gizi,168,63,1
+2,600977,layak,64,karyawan,belum menikah,asma,normal,180,47,1
+5,906686,tidak layak,47,buruh,janda/duda,asma,normal,181,67,1
+3,2308761,tidak layak,36,mahasiswa,belum menikah,asma,kurang gizi,164,50,0
+3,3291622,sangat sederhana,18,mahasiswa,menikah,asma,kurang gizi,163,80,1
+2,4565839,semi permanen,42,pns,menikah,diabetes,normal,180,51,0
+2,2519550,layak,56,tidak bekerja,janda/duda,tidak ada,kurang gizi,182,77,1
+5,2801512,layak,42,pns,belum menikah,tbc,normal,161,99,0
+7,638377,tidak layak,45,karyawan,menikah,diabetes,kurang gizi,150,77,1
+4,4742164,tidak layak,32,pns,belum menikah,tidak ada,kurang gizi,168,62,1
+3,534052,semi permanen,25,tidak bekerja,belum menikah,tbc,normal,166,46,0
+4,3576178,tidak layak,29,buruh,menikah,tidak ada,lebih,189,100,1
+2,1695011,semi permanen,44,petani,menikah,hipertensi,kurang gizi,161,75,1
+2,2421444,sangat sederhana,50,buruh,janda/duda,tidak ada,normal,187,91,0
+3,793583,tidak layak,24,buruh,belum menikah,tbc,normal,170,70,0
+5,3401419,tidak layak,24,buruh,janda/duda,tidak ada,lebih,165,93,1
+6,2029597,layak,61,mahasiswa,belum menikah,asma,lebih,157,58,0
+5,3432481,layak,33,tidak bekerja,menikah,asma,normal,175,74,1
+5,2624682,tidak layak,44,pns,menikah,diabetes,kurang gizi,146,44,1
+5,4245827,layak,54,petani,janda/duda,hipertensi,lebih,180,100,0
+6,2515439,sangat sederhana,57,pns,belum menikah,tidak ada,lebih,172,82,0
+2,4145231,layak,48,tidak bekerja,belum menikah,tbc,normal,165,73,1
+2,1721051,semi permanen,19,mahasiswa,belum menikah,tidak ada,lebih,151,93,0
+5,2005925,tidak layak,33,buruh,belum menikah,asma,lebih,162,41,0
+7,3354952,tidak layak,45,petani,belum menikah,diabetes,lebih,189,65,0
+6,1267119,layak,32,karyawan,janda/duda,tidak ada,lebih,150,40,0
+2,1998724,tidak layak,43,karyawan,menikah,tidak ada,normal,180,71,1
+7,2462313,semi permanen,19,buruh,janda/duda,asma,lebih,181,79,1
+2,1621043,layak,31,buruh,menikah,tidak ada,normal,172,69,0
+3,4299342,semi permanen,19,tidak bekerja,menikah,diabetes,kurang gizi,186,78,0
+2,4229292,semi permanen,31,buruh,belum menikah,tbc,kurang gizi,154,80,1
+5,1507846,sangat sederhana,20,pns,janda/duda,diabetes,lebih,152,70,0
+6,2219216,semi permanen,49,karyawan,janda/duda,diabetes,lebih,152,88,0
+4,4652406,tidak layak,28,pns,janda/duda,tbc,normal,148,46,1
+2,3269154,sangat sederhana,61,buruh,belum menikah,diabetes,lebih,147,65,1
+7,2980782,layak,64,buruh,menikah,hipertensi,kurang gizi,163,96,1
+6,4117402,layak,44,tidak bekerja,belum menikah,hipertensi,normal,148,45,0
+3,2367206,layak,53,petani,janda/duda,diabetes,kurang gizi,185,67,1
+5,2216772,tidak layak,55,petani,belum menikah,tidak ada,normal,161,41,1
+7,2644457,sangat sederhana,51,buruh,janda/duda,diabetes,normal,182,92,1
+4,3020616,sangat sederhana,47,tidak bekerja,janda/duda,tbc,kurang gizi,171,74,1
+3,1362819,tidak layak,54,tidak bekerja,menikah,hipertensi,normal,152,68,0
+2,3033541,tidak layak,42,karyawan,belum menikah,tidak ada,kurang gizi,157,42,1
+6,967035,layak,27,petani,menikah,tidak ada,lebih,165,49,1
+3,3657907,layak,48,tidak bekerja,belum menikah,hipertensi,lebih,170,72,1
+6,1515269,layak,32,pns,janda/duda,tidak ada,normal,158,76,0
+4,2262395,layak,31,pns,belum menikah,tbc,lebih,172,71,1
+5,2188193,sangat sederhana,27,karyawan,menikah,tidak ada,lebih,186,65,0
+6,2894289,tidak layak,34,tidak bekerja,janda/duda,asma,kurang gizi,168,94,0
+7,2140965,layak,47,petani,menikah,hipertensi,kurang gizi,183,42,0
+7,2172624,sangat sederhana,56,pns,belum menikah,tbc,normal,176,96,1
+6,3693690,layak,33,karyawan,belum menikah,tbc,kurang gizi,186,87,1
+7,2891361,tidak layak,46,buruh,janda/duda,diabetes,normal,151,87,1
+1,3777853,semi permanen,60,buruh,belum menikah,asma,normal,170,89,1
+1,2198152,semi permanen,47,buruh,belum menikah,asma,normal,157,89,0
+1,4009091,semi permanen,52,mahasiswa,belum menikah,tidak ada,kurang gizi,166,100,0
+3,625714,semi permanen,59,petani,menikah,tbc,kurang gizi,179,79,1
+1,1171598,semi permanen,53,tidak bekerja,belum menikah,diabetes,lebih,173,91,0
+6,2850325,tidak layak,32,petani,menikah,tidak ada,normal,173,74,1
+1,4351636,semi permanen,31,tidak bekerja,janda/duda,hipertensi,kurang gizi,178,87,0
+7,3842285,tidak layak,53,petani,belum menikah,tbc,normal,166,80,0
+1,1950173,tidak layak,32,pns,janda/duda,tidak ada,normal,152,62,0
+7,4121531,sangat sederhana,60,karyawan,janda/duda,tbc,kurang gizi,161,75,1
+3,4083559,sangat sederhana,22,tidak bekerja,menikah,diabetes,kurang gizi,178,54,1
+5,4651103,sangat sederhana,19,karyawan,belum menikah,tbc,kurang gizi,155,62,1
+6,1713833,semi permanen,48,buruh,belum menikah,tbc,kurang gizi,148,72,1
+1,2748807,layak,44,petani,menikah,hipertensi,kurang gizi,189,85,1
+1,897077,semi permanen,49,petani,menikah,hipertensi,kurang gizi,162,86,0
+6,1079584,layak,28,mahasiswa,menikah,hipertensi,normal,146,71,0
+7,4945221,layak,57,tidak bekerja,janda/duda,hipertensi,normal,150,99,0
+2,2319194,semi permanen,19,tidak bekerja,janda/duda,tbc,kurang gizi,177,67,0
+5,4852073,layak,58,petani,janda/duda,diabetes,normal,166,79,1
+7,3810238,tidak layak,38,karyawan,menikah,tbc,normal,146,65,1
+5,4394238,layak,42,karyawan,menikah,diabetes,lebih,150,41,1
+2,1034879,semi permanen,32,buruh,janda/duda,diabetes,lebih,145,42,0
+6,2091254,semi permanen,50,tidak bekerja,janda/duda,diabetes,lebih,181,45,0
+1,2939465,layak,34,petani,belum menikah,hipertensi,lebih,149,85,1
+1,3688350,layak,32,karyawan,belum menikah,tidak ada,kurang gizi,177,85,0
+3,2882632,semi permanen,51,tidak bekerja,menikah,diabetes,lebih,175,91,0
+5,737273,sangat sederhana,57,buruh,janda/duda,diabetes,normal,183,55,0
+2,3876896,layak,56,karyawan,menikah,tbc,lebih,164,85,1
+6,2917652,layak,39,petani,menikah,diabetes,kurang gizi,148,60,0
+7,2107267,semi permanen,28,buruh,menikah,asma,lebih,179,80,1
+3,3340736,layak,40,tidak bekerja,belum menikah,asma,kurang gizi,145,45,1
+3,4218989,layak,25,karyawan,belum menikah,tidak ada,lebih,167,84,1
+7,2824229,layak,47,karyawan,janda/duda,hipertensi,kurang gizi,174,85,0
+7,4898601,sangat sederhana,42,petani,menikah,tidak ada,kurang gizi,190,80,1
+4,911529,layak,51,tidak bekerja,menikah,tbc,kurang gizi,157,48,0
+7,3652630,semi permanen,18,buruh,menikah,asma,normal,148,50,0
+2,1573743,semi permanen,21,petani,menikah,hipertensi,normal,177,58,0
+7,758229,semi permanen,23,buruh,menikah,asma,kurang gizi,162,91,0
+2,1806394,semi permanen,21,buruh,menikah,diabetes,kurang gizi,157,72,1
+6,4648955,sangat sederhana,46,karyawan,belum menikah,asma,normal,178,92,1
+1,749944,sangat sederhana,35,karyawan,janda/duda,tidak ada,lebih,180,47,1
+3,4269402,tidak layak,48,karyawan,janda/duda,diabetes,normal,179,80,0
+5,1407693,layak,50,petani,menikah,tbc,lebih,157,88,1
+6,3152885,layak,21,mahasiswa,janda/duda,tbc,normal,184,86,1
+7,1976436,layak,29,mahasiswa,janda/duda,tbc,lebih,176,97,1
+3,2042018,layak,22,pns,janda/duda,tidak ada,lebih,162,75,1
+3,4224447,layak,53,buruh,belum menikah,tidak ada,lebih,157,47,0
+7,1331594,layak,26,petani,belum menikah,hipertensi,normal,170,49,0
+5,3996852,semi permanen,43,buruh,menikah,tbc,lebih,171,75,0
+1,1699314,sangat sederhana,39,tidak bekerja,belum menikah,asma,normal,181,82,1
+4,3192623,tidak layak,50,karyawan,menikah,hipertensi,normal,161,65,0
+3,3600892,layak,63,pns,menikah,asma,normal,175,97,1
+1,1664228,layak,35,petani,janda/duda,tbc,normal,187,97,0
+6,4692678,sangat sederhana,33,karyawan,janda/duda,tidak ada,kurang gizi,147,88,1
+1,3989607,sangat sederhana,45,petani,belum menikah,diabetes,lebih,161,69,1
+5,1443490,sangat sederhana,38,karyawan,janda/duda,tbc,normal,154,99,1
+6,1253348,tidak layak,41,petani,belum menikah,hipertensi,lebih,173,81,0
+5,4997136,tidak layak,54,karyawan,menikah,diabetes,lebih,162,45,1
+1,3666350,semi permanen,41,mahasiswa,belum menikah,hipertensi,normal,175,79,1
+6,4182458,tidak layak,19,petani,belum menikah,tbc,kurang gizi,149,43,0
+1,4607170,layak,47,karyawan,belum menikah,tbc,lebih,169,93,1
+7,3133877,layak,35,karyawan,janda/duda,asma,kurang gizi,149,58,0
+1,3484987,sangat sederhana,65,mahasiswa,belum menikah,diabetes,normal,145,49,0
+5,698099,layak,55,mahasiswa,belum menikah,tbc,lebih,167,66,0
+4,3223209,tidak layak,43,karyawan,belum menikah,tbc,normal,181,64,1
+4,3781927,semi permanen,35,tidak bekerja,janda/duda,tidak ada,lebih,158,54,1
+7,914409,sangat sederhana,31,buruh,menikah,tbc,kurang gizi,162,80,0
+2,4746473,sangat sederhana,45,tidak bekerja,janda/duda,hipertensi,kurang gizi,165,62,1
+2,804316,layak,41,mahasiswa,belum menikah,diabetes,normal,188,80,0
+6,1272800,layak,30,mahasiswa,janda/duda,asma,normal,171,56,1
+2,615461,tidak layak,63,petani,menikah,tbc,normal,185,60,0
+3,3481465,tidak layak,29,karyawan,janda/duda,hipertensi,lebih,155,74,1
+4,4460499,sangat sederhana,35,tidak bekerja,menikah,diabetes,normal,146,53,0
+2,3461919,semi permanen,40,pns,menikah,tbc,lebih,170,92,0
+4,4833171,layak,44,petani,janda/duda,diabetes,lebih,190,89,1
+1,2458297,layak,34,mahasiswa,janda/duda,tidak ada,kurang gizi,151,47,0
+5,1814999,tidak layak,27,karyawan,menikah,hipertensi,lebih,181,88,0
+2,3150021,layak,29,tidak bekerja,menikah,hipertensi,kurang gizi,161,56,0
+2,2357290,tidak layak,63,pns,menikah,tidak ada,normal,171,51,0
+6,4391242,tidak layak,61,buruh,menikah,tbc,normal,171,99,0
+3,2576490,tidak layak,57,tidak bekerja,belum menikah,hipertensi,normal,159,90,1
+5,3519773,sangat sederhana,46,karyawan,belum menikah,diabetes,lebih,187,73,0
+7,3500129,semi permanen,31,tidak bekerja,janda/duda,tidak ada,kurang gizi,151,42,1
+3,1813742,sangat sederhana,40,karyawan,belum menikah,diabetes,lebih,180,97,0
+1,982852,layak,42,pns,belum menikah,asma,kurang gizi,181,49,0
+7,3683032,semi permanen,40,buruh,janda/duda,asma,normal,156,58,0
+4,2690743,sangat sederhana,18,pns,menikah,hipertensi,normal,190,51,1
+7,4953490,layak,63,mahasiswa,janda/duda,diabetes,lebih,165,46,1
+1,4564552,layak,26,mahasiswa,belum menikah,asma,kurang gizi,152,100,1
+2,3461135,tidak layak,20,tidak bekerja,menikah,tidak ada,normal,172,71,1
+2,4545252,tidak layak,26,buruh,janda/duda,asma,lebih,155,48,0
+2,1523500,tidak layak,53,buruh,janda/duda,tidak ada,lebih,157,64,0
+7,3904616,layak,44,tidak bekerja,belum menikah,tbc,normal,189,74,1
+4,3034379,semi permanen,50,buruh,belum menikah,diabetes,normal,174,80,0
+6,1125850,sangat sederhana,21,karyawan,belum menikah,hipertensi,normal,161,43,1
+3,2030090,tidak layak,28,petani,belum menikah,hipertensi,normal,146,57,1
+4,3340687,layak,32,petani,menikah,tbc,kurang gizi,157,59,0
+4,3049214,semi permanen,64,pns,janda/duda,asma,normal,177,41,0
+6,4902277,layak,30,karyawan,belum menikah,asma,normal,155,63,0
+4,2353928,semi permanen,52,pns,belum menikah,hipertensi,lebih,156,44,1
+4,3017037,tidak layak,53,buruh,janda/duda,tbc,kurang gizi,187,89,0
+3,4880788,semi permanen,58,buruh,janda/duda,tidak ada,lebih,148,100,0
+7,536687,semi permanen,41,tidak bekerja,janda/duda,tidak ada,normal,151,64,0
+1,3787456,layak,45,tidak bekerja,janda/duda,asma,kurang gizi,153,88,1
+4,1016167,tidak layak,43,tidak bekerja,menikah,diabetes,kurang gizi,187,84,1
+7,4598323,tidak layak,28,pns,belum menikah,diabetes,lebih,185,100,1
+3,3257880,semi permanen,29,mahasiswa,menikah,hipertensi,kurang gizi,182,76,1
+4,3802886,sangat sederhana,46,tidak bekerja,menikah,tbc,normal,182,83,1
+6,4436981,layak,28,buruh,menikah,asma,lebih,161,86,0
+5,4388409,tidak layak,65,petani,menikah,tbc,lebih,179,72,0
+6,3378033,tidak layak,36,pns,menikah,tbc,lebih,175,97,0
+5,3839727,layak,48,buruh,janda/duda,asma,kurang gizi,167,99,1
+4,2815975,layak,56,buruh,menikah,asma,kurang gizi,189,70,0
+4,1393267,sangat sederhana,23,pns,menikah,diabetes,lebih,149,77,0
+1,659819,sangat sederhana,47,karyawan,belum menikah,diabetes,kurang gizi,166,68,0
+3,1875285,tidak layak,42,mahasiswa,menikah,tidak ada,normal,178,78,1
+4,2603579,tidak layak,56,petani,menikah,tidak ada,kurang gizi,158,59,0
+3,4395100,semi permanen,65,pns,menikah,diabetes,kurang gizi,188,40,1
+6,1246989,layak,22,karyawan,menikah,tidak ada,kurang gizi,167,77,1
+2,1033982,semi permanen,58,mahasiswa,janda/duda,diabetes,lebih,188,86,1
+7,667520,sangat sederhana,46,pns,menikah,diabetes,normal,159,97,1
+1,2735131,tidak layak,20,tidak bekerja,belum menikah,asma,lebih,183,78,1
+2,4024940,sangat sederhana,26,buruh,belum menikah,tbc,lebih,177,84,1
+6,1738784,sangat sederhana,44,pns,menikah,diabetes,lebih,168,91,1
+2,2991640,semi permanen,62,petani,belum menikah,tidak ada,normal,175,89,1
+5,2935598,tidak layak,63,mahasiswa,belum menikah,diabetes,normal,145,90,1
+4,3303574,tidak layak,34,tidak bekerja,janda/duda,tidak ada,lebih,189,40,1
+3,3451698,semi permanen,62,tidak bekerja,janda/duda,asma,kurang gizi,183,95,1
+6,4959716,layak,35,buruh,janda/duda,tidak ada,lebih,170,50,0
+4,3171390,layak,24,karyawan,belum menikah,tbc,lebih,147,96,0
+4,2630542,semi permanen,30,buruh,janda/duda,asma,lebih,150,85,1
+5,1953781,layak,21,tidak bekerja,menikah,diabetes,lebih,176,95,1
+4,1498906,tidak layak,45,karyawan,janda/duda,diabetes,lebih,146,68,1
+5,4588162,layak,42,petani,menikah,diabetes,lebih,157,52,0
+7,3919388,semi permanen,45,mahasiswa,janda/duda,asma,normal,180,46,0
+7,695236,layak,19,petani,belum menikah,hipertensi,kurang gizi,160,48,1
+6,684417,tidak layak,53,tidak bekerja,janda/duda,tidak ada,normal,153,66,1
+1,610994,layak,33,petani,belum menikah,hipertensi,lebih,146,98,1
+5,1363265,sangat sederhana,47,buruh,belum menikah,asma,normal,176,63,0
+3,3957435,sangat sederhana,45,petani,menikah,diabetes,lebih,157,83,1
+5,1501470,semi permanen,18,buruh,belum menikah,diabetes,normal,178,40,1
+3,3486865,sangat sederhana,19,karyawan,belum menikah,tbc,normal,159,91,0
+4,4452707,sangat sederhana,40,mahasiswa,menikah,hipertensi,normal,149,65,1
+7,4285285,semi permanen,50,tidak bekerja,janda/duda,tidak ada,kurang gizi,169,80,0
+6,3835805,sangat sederhana,29,tidak bekerja,belum menikah,hipertensi,normal,179,90,0
+4,3169558,sangat sederhana,31,mahasiswa,menikah,asma,normal,173,92,0
+6,1137069,layak,43,mahasiswa,belum menikah,tidak ada,lebih,165,64,0
+3,2195296,sangat sederhana,22,pns,janda/duda,asma,normal,156,64,0
+4,4992119,semi permanen,30,karyawan,menikah,hipertensi,normal,161,79,0
+6,4176558,semi permanen,47,tidak bekerja,menikah,tbc,kurang gizi,189,82,1
+5,3451717,layak,49,buruh,menikah,tbc,lebih,155,41,0
+2,793707,semi permanen,58,tidak bekerja,belum menikah,tbc,kurang gizi,147,68,0
+5,4926421,semi permanen,61,buruh,menikah,tbc,kurang gizi,153,48,1
+6,4357658,tidak layak,49,karyawan,menikah,diabetes,normal,170,79,0
+1,3916400,layak,56,pns,belum menikah,asma,lebih,172,68,1
+4,1364629,semi permanen,35,tidak bekerja,janda/duda,tidak ada,kurang gizi,173,83,1
+7,1349452,tidak layak,51,mahasiswa,janda/duda,hipertensi,kurang gizi,163,74,1
+2,3260064,semi permanen,25,buruh,menikah,diabetes,lebih,174,69,1
+7,1376640,sangat sederhana,31,petani,belum menikah,diabetes,kurang gizi,154,62,1
+7,3905677,semi permanen,38,karyawan,menikah,tidak ada,lebih,146,54,0
+2,952631,sangat sederhana,45,pns,janda/duda,tidak ada,normal,178,81,0
+4,4046673,tidak layak,53,petani,menikah,diabetes,lebih,168,60,0
+2,4526428,semi permanen,23,buruh,janda/duda,diabetes,kurang gizi,155,80,1
+2,3838461,tidak layak,23,tidak bekerja,menikah,asma,lebih,173,78,1
+4,4483618,sangat sederhana,36,buruh,janda/duda,asma,normal,153,40,1
+3,4113610,tidak layak,64,pns,menikah,hipertensi,lebih,148,68,0
+7,1701379,tidak layak,41,petani,menikah,tbc,lebih,156,51,0
+5,4742563,layak,29,pns,janda/duda,diabetes,lebih,181,82,1
+2,4642509,sangat sederhana,46,buruh,belum menikah,diabetes,normal,190,98,1
+6,3907933,tidak layak,45,buruh,menikah,tidak ada,lebih,166,76,0
+2,2796347,tidak layak,37,pns,belum menikah,tbc,normal,189,51,1
+7,1334051,tidak layak,39,karyawan,menikah,tbc,normal,165,86,0
+2,2790664,semi permanen,32,buruh,janda/duda,hipertensi,normal,174,42,0
+3,1258679,layak,58,petani,belum menikah,hipertensi,kurang gizi,182,46,1
+5,4423871,layak,62,buruh,janda/duda,diabetes,lebih,160,59,1
+4,1308753,layak,50,tidak bekerja,janda/duda,tbc,kurang gizi,175,72,1
+6,3864474,semi permanen,47,buruh,menikah,tbc,lebih,148,73,0
+4,538692,tidak layak,28,mahasiswa,belum menikah,asma,normal,184,97,0
+3,4312716,sangat sederhana,25,buruh,janda/duda,hipertensi,kurang gizi,158,50,1
+7,1047750,semi permanen,46,petani,menikah,tidak ada,lebih,179,56,1
+3,2364329,tidak layak,56,pns,janda/duda,diabetes,kurang gizi,183,86,0
+7,1477399,layak,53,pns,belum menikah,tidak ada,lebih,160,76,0
+5,1572320,sangat sederhana,30,karyawan,belum menikah,diabetes,kurang gizi,153,87,0
+6,515989,semi permanen,65,pns,belum menikah,asma,kurang gizi,157,48,0
+6,2454591,semi permanen,54,karyawan,belum menikah,tidak ada,normal,174,91,1
+4,2946867,tidak layak,32,karyawan,janda/duda,hipertensi,lebih,160,66,1
+6,1773474,sangat sederhana,43,buruh,belum menikah,asma,kurang gizi,182,60,0
+3,1482224,semi permanen,51,karyawan,belum menikah,asma,normal,152,44,0
+5,1154121,semi permanen,26,tidak bekerja,belum menikah,diabetes,normal,151,44,0
+1,3246593,sangat sederhana,39,petani,belum menikah,tbc,lebih,153,54,1
+7,2137448,sangat sederhana,41,buruh,janda/duda,asma,lebih,185,48,1
+4,2744330,semi permanen,29,petani,menikah,diabetes,lebih,167,73,1
+6,1956250,sangat sederhana,31,mahasiswa,belum menikah,tbc,normal,169,61,0
+4,1718891,sangat sederhana,34,mahasiswa,janda/duda,asma,lebih,177,70,0
+5,4566951,layak,24,petani,janda/duda,asma,kurang gizi,167,68,0
+5,4014615,layak,29,petani,janda/duda,tbc,kurang gizi,151,99,1
+7,559710,layak,61,petani,belum menikah,tbc,lebih,187,46,0
+6,4914940,semi permanen,51,petani,belum menikah,tidak ada,kurang gizi,188,84,1
+1,4408060,tidak layak,30,tidak bekerja,menikah,asma,kurang gizi,153,93,1
+3,1855718,layak,25,karyawan,janda/duda,asma,lebih,154,100,0
+1,1477424,tidak layak,41,petani,janda/duda,hipertensi,kurang gizi,163,69,1
+1,797617,layak,55,tidak bekerja,menikah,tidak ada,normal,153,51,0
+3,3637850,sangat sederhana,18,petani,belum menikah,hipertensi,kurang gizi,161,66,1
+4,2799551,semi permanen,33,mahasiswa,menikah,hipertensi,normal,158,60,1
+4,4760595,semi permanen,43,buruh,belum menikah,asma,normal,184,58,1
+5,3821634,sangat sederhana,59,karyawan,menikah,diabetes,lebih,166,79,0
+7,3311378,layak,19,karyawan,janda/duda,asma,lebih,190,91,0
+2,4872554,sangat sederhana,35,karyawan,belum menikah,asma,lebih,176,48,0
+7,816076,tidak layak,21,karyawan,janda/duda,tidak ada,normal,186,80,0
+5,1797237,tidak layak,54,petani,menikah,hipertensi,kurang gizi,159,89,1
+3,3174569,layak,31,petani,janda/duda,tidak ada,lebih,185,53,0
+4,3989686,tidak layak,44,petani,belum menikah,asma,normal,150,47,0
+3,2480175,layak,35,pns,belum menikah,asma,normal,165,82,0
+1,3082016,semi permanen,25,mahasiswa,belum menikah,tbc,lebih,187,46,0
+4,3612837,semi permanen,62,buruh,belum menikah,tidak ada,kurang gizi,151,92,1
+6,4510729,layak,55,pns,menikah,diabetes,normal,161,81,0
+2,648155,sangat sederhana,62,pns,belum menikah,tidak ada,normal,159,60,0
+6,2594894,layak,45,buruh,janda/duda,asma,normal,162,78,0
+2,4608360,sangat sederhana,23,mahasiswa,belum menikah,tidak ada,lebih,189,96,1
+3,4892211,semi permanen,43,mahasiswa,menikah,tbc,normal,167,75,1
+7,4884848,layak,23,buruh,belum menikah,asma,lebih,172,54,1
+4,1917621,semi permanen,27,tidak bekerja,janda/duda,diabetes,normal,163,51,0
+5,2112777,tidak layak,52,buruh,belum menikah,hipertensi,normal,156,50,1
+1,560145,tidak layak,18,tidak bekerja,janda/duda,asma,kurang gizi,168,57,1
+4,3719382,layak,18,pns,janda/duda,tbc,normal,152,68,1
+1,1771834,tidak layak,44,karyawan,belum menikah,asma,lebih,146,74,1
+2,2894826,layak,40,mahasiswa,janda/duda,tbc,kurang gizi,179,90,0
+3,4650104,sangat sederhana,58,petani,belum menikah,asma,kurang gizi,162,83,0
+6,4475319,sangat sederhana,18,mahasiswa,menikah,tbc,kurang gizi,181,48,1
+7,2376994,semi permanen,56,petani,belum menikah,hipertensi,lebih,166,56,1
+2,2355408,sangat sederhana,36,pns,janda/duda,tidak ada,kurang gizi,174,91,1
+2,1434206,sangat sederhana,55,karyawan,menikah,diabetes,kurang gizi,174,92,1
+3,2710274,tidak layak,40,petani,menikah,hipertensi,normal,178,64,0
+2,2458656,semi permanen,19,mahasiswa,menikah,hipertensi,kurang gizi,190,85,0
+7,4941063,layak,51,buruh,belum menikah,tbc,lebih,179,94,0
+6,4956349,semi permanen,19,karyawan,menikah,diabetes,lebih,181,81,1
+4,2020840,semi permanen,21,karyawan,belum menikah,diabetes,lebih,176,42,1
+3,4934183,sangat sederhana,47,tidak bekerja,menikah,tbc,normal,188,76,1
+3,4701793,sangat sederhana,18,pns,belum menikah,tidak ada,lebih,154,48,1
+2,4522716,semi permanen,23,buruh,janda/duda,tbc,lebih,176,48,1
+1,4443324,tidak layak,65,pns,menikah,asma,normal,171,78,1
+4,2246409,tidak layak,20,pns,menikah,asma,kurang gizi,154,78,0
+4,3329757,layak,40,tidak bekerja,menikah,tidak ada,lebih,145,59,1
+3,1744808,semi permanen,47,karyawan,menikah,hipertensi,kurang gizi,185,59,0
+7,2245703,sangat sederhana,32,tidak bekerja,belum menikah,tidak ada,lebih,165,65,0
+6,4582484,sangat sederhana,27,tidak bekerja,menikah,tidak ada,kurang gizi,147,78,0
+1,4969443,sangat sederhana,49,karyawan,menikah,hipertensi,lebih,171,73,1
+2,2862140,semi permanen,62,karyawan,janda/duda,diabetes,kurang gizi,187,86,0
+5,1923584,layak,55,petani,menikah,diabetes,lebih,153,58,0
+1,3246751,tidak layak,65,buruh,menikah,asma,lebih,148,76,0
+1,4952186,tidak layak,18,karyawan,belum menikah,tidak ada,normal,170,45,0
+7,1926652,sangat sederhana,47,buruh,janda/duda,tbc,normal,154,86,0
+4,2162983,sangat sederhana,23,petani,belum menikah,diabetes,normal,190,93,0
+3,3795930,semi permanen,40,buruh,belum menikah,tidak ada,kurang gizi,178,77,1
+5,2804809,layak,18,mahasiswa,menikah,diabetes,kurang gizi,148,64,0
+3,2126432,sangat sederhana,51,mahasiswa,janda/duda,asma,kurang gizi,169,46,0
+1,728770,sangat sederhana,27,petani,janda/duda,asma,lebih,182,64,0
+5,1073064,layak,51,tidak bekerja,belum menikah,asma,lebih,151,94,1
+7,3809206,sangat sederhana,28,petani,belum menikah,hipertensi,kurang gizi,167,66,0
+5,2576246,semi permanen,21,karyawan,janda/duda,asma,normal,155,59,1
+7,4271099,layak,40,mahasiswa,janda/duda,diabetes,lebih,185,42,0
+4,703093,semi permanen,40,petani,menikah,hipertensi,lebih,152,97,1
+5,3777276,sangat sederhana,23,mahasiswa,menikah,hipertensi,lebih,177,99,1
+3,3447993,semi permanen,25,mahasiswa,belum menikah,tbc,normal,177,59,1
+1,1299743,sangat sederhana,54,petani,janda/duda,hipertensi,normal,174,53,1
+2,4649159,tidak layak,18,karyawan,belum menikah,hipertensi,kurang gizi,180,85,0
+5,951069,tidak layak,34,pns,janda/duda,hipertensi,lebih,177,46,0
+1,2336304,layak,37,petani,janda/duda,tbc,normal,188,57,0
+3,3047974,sangat sederhana,42,karyawan,belum menikah,diabetes,lebih,172,100,0
+5,3534896,semi permanen,47,pns,menikah,tidak ada,normal,188,52,0
+1,2477615,tidak layak,56,petani,menikah,asma,kurang gizi,177,54,0
+6,3352462,tidak layak,64,tidak bekerja,menikah,asma,lebih,150,57,1
+2,2603402,semi permanen,34,buruh,belum menikah,asma,normal,173,40,1
+1,1727394,sangat sederhana,32,buruh,menikah,diabetes,kurang gizi,159,100,0
+5,4713081,layak,31,karyawan,belum menikah,diabetes,kurang gizi,185,44,1
+3,1834755,tidak layak,44,buruh,belum menikah,hipertensi,normal,174,96,1
+4,4786935,semi permanen,33,petani,janda/duda,hipertensi,normal,188,95,1
+2,1811204,layak,36,petani,menikah,tidak ada,kurang gizi,178,60,0
+3,4171851,sangat sederhana,44,karyawan,janda/duda,tbc,kurang gizi,186,69,1
+2,795748,sangat sederhana,31,tidak bekerja,menikah,asma,lebih,188,85,1
+6,2470326,sangat sederhana,65,karyawan,janda/duda,asma,lebih,178,72,0
+4,2165226,semi permanen,40,pns,belum menikah,tidak ada,normal,149,80,1
+2,1879654,tidak layak,52,buruh,belum menikah,asma,kurang gizi,161,46,0
+4,4784778,sangat sederhana,20,buruh,janda/duda,diabetes,lebih,148,80,0
+5,1291572,layak,57,petani,menikah,tidak ada,normal,161,65,0
+1,2855090,layak,47,tidak bekerja,menikah,diabetes,normal,156,63,1
+1,2491420,sangat sederhana,36,pns,belum menikah,asma,normal,160,87,1
+7,3658832,layak,61,mahasiswa,belum menikah,hipertensi,normal,169,43,0
+3,1556198,tidak layak,27,mahasiswa,menikah,asma,lebih,151,96,1
+7,2956701,semi permanen,56,karyawan,janda/duda,hipertensi,lebih,172,61,0
+1,4858197,semi permanen,50,karyawan,belum menikah,asma,lebih,172,60,1
+4,3171198,tidak layak,36,tidak bekerja,menikah,diabetes,normal,184,94,0
+1,4484706,tidak layak,46,buruh,belum menikah,tbc,lebih,172,89,0
+6,1355870,tidak layak,28,pns,janda/duda,asma,kurang gizi,175,77,1
+1,1873867,sangat sederhana,28,petani,janda/duda,tbc,normal,161,61,0
+7,4750426,tidak layak,53,karyawan,janda/duda,diabetes,normal,146,58,1
+2,619992,sangat sederhana,24,tidak bekerja,janda/duda,tidak ada,kurang gizi,147,42,1
+4,2156284,tidak layak,18,mahasiswa,menikah,asma,lebih,149,54,0
+3,2170887,layak,32,petani,belum menikah,tbc,lebih,177,45,0
+2,4503232,tidak layak,24,buruh,belum menikah,diabetes,kurang gizi,163,50,0
+7,4681570,tidak layak,48,buruh,belum menikah,diabetes,kurang gizi,174,71,1
+3,2908542,layak,42,mahasiswa,janda/duda,asma,lebih,181,99,1
+6,1803974,tidak layak,53,petani,janda/duda,diabetes,normal,151,65,1
+2,1011148,tidak layak,30,pns,belum menikah,tidak ada,kurang gizi,151,58,0
+7,2205851,semi permanen,42,petani,belum menikah,hipertensi,lebih,171,92,1
+4,3435793,layak,18,buruh,menikah,asma,normal,162,83,0
+4,4591474,semi permanen,36,petani,janda/duda,tidak ada,kurang gizi,160,52,1
+6,3320825,tidak layak,47,tidak bekerja,janda/duda,asma,normal,169,87,0
+1,4103834,sangat sederhana,46,buruh,belum menikah,diabetes,normal,178,94,1
+3,1430418,tidak layak,43,tidak bekerja,janda/duda,hipertensi,kurang gizi,149,74,1
+2,3979697,sangat sederhana,44,pns,belum menikah,tbc,lebih,187,43,1
+2,4968567,semi permanen,38,pns,menikah,tidak ada,normal,175,76,1
+1,3106668,sangat sederhana,64,karyawan,belum menikah,asma,normal,189,75,0
+6,1078495,tidak layak,25,buruh,belum menikah,tbc,kurang gizi,162,68,0
+4,3819399,layak,59,karyawan,menikah,diabetes,normal,167,42,1
+1,1428895,semi permanen,49,tidak bekerja,janda/duda,tidak ada,lebih,145,60,0
+2,4241238,tidak layak,41,mahasiswa,belum menikah,tbc,normal,182,99,0
+1,4620045,sangat sederhana,52,karyawan,menikah,diabetes,lebih,163,74,1
+5,4177128,semi permanen,45,petani,janda/duda,tidak ada,normal,185,41,0
+5,1330668,semi permanen,41,karyawan,janda/duda,diabetes,kurang gizi,186,66,0
+4,3905763,sangat sederhana,39,karyawan,belum menikah,asma,kurang gizi,172,99,1
+2,1352290,semi permanen,65,tidak bekerja,janda/duda,tbc,lebih,156,75,1
+2,1142802,layak,21,buruh,menikah,asma,normal,152,70,0
+2,896421,sangat sederhana,51,pns,janda/duda,diabetes,kurang gizi,168,97,0
+3,3349287,semi permanen,62,pns,janda/duda,hipertensi,lebih,160,63,0
+7,1076643,semi permanen,22,tidak bekerja,janda/duda,tbc,kurang gizi,185,52,0
+6,3544807,sangat sederhana,28,mahasiswa,menikah,tidak ada,lebih,152,57,1
+6,2657679,semi permanen,43,karyawan,menikah,diabetes,kurang gizi,154,55,1
+5,950735,tidak layak,32,buruh,janda/duda,asma,kurang gizi,156,58,0
+3,1223938,tidak layak,46,mahasiswa,menikah,tbc,lebih,167,50,1
+3,1093934,tidak layak,26,petani,menikah,asma,normal,177,72,0
+6,3536204,sangat sederhana,26,petani,belum menikah,hipertensi,normal,178,42,1
+4,4920505,layak,31,buruh,menikah,tidak ada,normal,179,79,0
+3,4023624,semi permanen,54,petani,janda/duda,hipertensi,normal,158,44,0
+4,4188561,layak,35,petani,janda/duda,tidak ada,lebih,165,59,1
+6,905344,tidak layak,46,petani,menikah,tbc,lebih,160,70,0
+7,2439028,tidak layak,56,tidak bekerja,menikah,diabetes,normal,181,47,1
+6,2207734,tidak layak,23,tidak bekerja,menikah,hipertensi,lebih,170,64,1
+3,3538578,sangat sederhana,55,buruh,janda/duda,tidak ada,normal,183,95,0
+4,2514981,semi permanen,40,buruh,belum menikah,asma,lebih,169,100,1
+5,1871463,tidak layak,57,pns,belum menikah,tidak ada,kurang gizi,188,80,0
+4,1091065,semi permanen,49,karyawan,menikah,diabetes,kurang gizi,167,76,1
+1,643333,layak,41,pns,menikah,hipertensi,lebih,188,83,1
+4,2747995,sangat sederhana,65,karyawan,menikah,hipertensi,normal,168,98,1
+4,2997448,tidak layak,49,tidak bekerja,janda/duda,tbc,normal,184,71,0
+5,4901660,layak,62,karyawan,menikah,tidak ada,normal,153,43,1
+4,3401020,sangat sederhana,42,tidak bekerja,menikah,diabetes,lebih,169,90,0
+6,1524324,tidak layak,20,petani,menikah,asma,kurang gizi,164,52,0
+1,1721391,sangat sederhana,48,mahasiswa,menikah,tbc,lebih,169,58,1
+7,3909187,tidak layak,19,pns,menikah,asma,lebih,160,61,1
+6,2292893,layak,50,tidak bekerja,menikah,asma,normal,181,63,1
+7,2024748,sangat sederhana,24,buruh,janda/duda,tbc,normal,150,85,0
+1,2149115,semi permanen,35,buruh,belum menikah,diabetes,kurang gizi,169,55,0
+7,2138700,semi permanen,50,mahasiswa,menikah,tidak ada,kurang gizi,167,50,1
+7,1904752,semi permanen,56,tidak bekerja,belum menikah,asma,kurang gizi,168,54,0
+6,3436934,semi permanen,65,karyawan,janda/duda,tidak ada,lebih,150,81,0
+5,1804094,semi permanen,49,pns,menikah,diabetes,normal,186,85,0
+4,1272731,semi permanen,53,tidak bekerja,menikah,tbc,lebih,173,87,0
+4,3742430,layak,21,pns,menikah,hipertensi,normal,165,93,1
+6,2329024,layak,47,karyawan,belum menikah,tbc,normal,147,85,1
+5,4489156,semi permanen,49,mahasiswa,janda/duda,asma,normal,151,54,0
+4,2058412,layak,47,buruh,belum menikah,tidak ada,normal,182,54,0
+5,3393084,tidak layak,41,petani,belum menikah,asma,normal,177,83,1
+6,975773,sangat sederhana,63,petani,menikah,diabetes,kurang gizi,188,68,1
+5,799217,tidak layak,26,pns,janda/duda,tidak ada,kurang gizi,189,81,0
+5,1995567,layak,64,petani,belum menikah,tbc,kurang gizi,181,66,0
+7,3425118,tidak layak,58,pns,belum menikah,diabetes,kurang gizi,189,92,1
+6,2830260,tidak layak,27,buruh,menikah,diabetes,normal,181,68,0
+1,2864913,tidak layak,47,petani,menikah,diabetes,lebih,186,42,0
+1,4552682,sangat sederhana,54,tidak bekerja,belum menikah,hipertensi,kurang gizi,174,51,1
+2,3593897,sangat sederhana,59,pns,menikah,diabetes,kurang gizi,187,70,1
+1,1282870,layak,25,petani,belum menikah,diabetes,normal,184,71,1
+2,2888926,layak,56,mahasiswa,janda/duda,tidak ada,lebih,187,54,1
+2,3084337,tidak layak,30,buruh,belum menikah,tbc,lebih,182,47,1
+5,4495451,sangat sederhana,55,buruh,belum menikah,asma,kurang gizi,162,50,0
+5,2756035,tidak layak,58,mahasiswa,belum menikah,asma,lebih,167,73,1
+4,3476241,semi permanen,33,karyawan,belum menikah,tidak ada,lebih,185,95,1
+3,1280003,tidak layak,23,buruh,janda/duda,tbc,normal,150,57,1
+7,3008701,sangat sederhana,53,pns,menikah,diabetes,lebih,171,45,0
+3,1222314,tidak layak,48,karyawan,janda/duda,tbc,normal,172,44,0
+5,1358152,semi permanen,59,buruh,janda/duda,diabetes,lebih,187,87,1
+2,4286261,tidak layak,32,petani,janda/duda,diabetes,kurang gizi,183,89,1
+3,3318614,layak,47,pns,janda/duda,asma,kurang gizi,188,97,0
+7,2291075,tidak layak,49,buruh,menikah,diabetes,normal,161,57,1
+2,2829293,tidak layak,63,karyawan,janda/duda,tbc,lebih,174,78,1
