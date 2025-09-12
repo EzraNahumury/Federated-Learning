@@ -1,0 +1,1501 @@
+riwayat_penyakit,status_gizi,tinggi_cm,berat_kg
+hipertensi,baik,151,92
+diabetes,gizi buruk,144,78
+asma,gizi buruk,177,71
+kronis,stunting,161,54
+diabetes,kurang,148,76
+diabetes,gizi buruk,163,68
+sehat,stunting,185,45
+hipertensi,baik,155,41
+diabetes,kurang,165,99
+jantung,stunting,185,93
+sehat,gizi buruk,176,55
+disabilitas,kurang,169,45
+asma,kurang,156,67
+diabetes,baik,176,76
+diabetes,stunting,187,43
+diabetes,stunting,167,58
+disabilitas,stunting,174,91
+kronis,gizi buruk,163,63
+kronis,gizi buruk,179,65
+hipertensi,stunting,152,46
+kronis,gizi buruk,147,69
+asma,baik,158,64
+asma,gizi buruk,186,69
+disabilitas,gizi buruk,161,53
+sehat,gizi buruk,156,58
+hipertensi,gizi buruk,183,92
+kronis,stunting,164,67
+kronis,gizi buruk,161,74
+diabetes,kurang,186,73
+sehat,stunting,179,78
+jantung,stunting,165,64
+hipertensi,stunting,188,87
+asma,kurang,164,63
+jantung,gizi buruk,174,86
+sehat,baik,143,82
+kronis,stunting,189,49
+kronis,gizi buruk,147,71
+sehat,gizi buruk,169,53
+jantung,gizi buruk,155,51
+disabilitas,kurang,164,58
+jantung,kurang,159,88
+jantung,kurang,186,76
+sehat,kurang,146,90
+diabetes,baik,150,58
+hipertensi,baik,182,86
+sehat,gizi buruk,150,49
+diabetes,gizi buruk,152,37
+jantung,baik,154,50
+jantung,gizi buruk,144,68
+hipertensi,baik,153,70
+kronis,baik,162,59
+asma,gizi buruk,167,96
+hipertensi,stunting,172,67
+jantung,kurang,180,95
+diabetes,kurang,186,80
+kronis,stunting,164,87
+jantung,kurang,150,36
+asma,baik,147,49
+sehat,baik,148,71
+asma,baik,157,97
+sehat,baik,182,47
+asma,kurang,153,58
+hipertensi,baik,148,86
+jantung,stunting,182,97
+jantung,gizi buruk,175,84
+diabetes,baik,172,97
+hipertensi,gizi buruk,147,90
+disabilitas,stunting,187,49
+kronis,stunting,181,71
+hipertensi,baik,177,90
+kronis,stunting,179,90
+kronis,stunting,187,58
+diabetes,stunting,154,87
+disabilitas,baik,142,99
+jantung,baik,158,78
+kronis,kurang,147,35
+diabetes,baik,142,36
+kronis,stunting,168,65
+asma,gizi buruk,178,79
+diabetes,baik,179,39
+diabetes,gizi buruk,148,90
+hipertensi,baik,164,85
+sehat,gizi buruk,177,65
+asma,stunting,167,54
+kronis,gizi buruk,180,86
+asma,baik,144,97
+sehat,baik,153,41
+jantung,baik,187,64
+sehat,baik,172,62
+asma,stunting,148,48
+diabetes,baik,171,35
+disabilitas,kurang,176,54
+kronis,baik,178,58
+asma,kurang,175,67
+kronis,gizi buruk,183,98
+sehat,stunting,151,72
+sehat,kurang,175,85
+jantung,kurang,188,81
+sehat,stunting,151,69
+hipertensi,gizi buruk,171,37
+disabilitas,kurang,163,35
+jantung,gizi buruk,186,81
+asma,baik,170,81
+disabilitas,gizi buruk,170,75
+disabilitas,stunting,159,60
+kronis,stunting,178,36
+disabilitas,baik,186,39
+jantung,baik,161,57
+kronis,kurang,142,81
+sehat,baik,150,84
+hipertensi,baik,142,95
+jantung,stunting,179,98
+diabetes,kurang,179,66
+sehat,gizi buruk,169,79
+kronis,gizi buruk,176,39
+diabetes,gizi buruk,145,98
+sehat,stunting,160,83
+hipertensi,gizi buruk,142,74
+jantung,baik,186,63
+hipertensi,stunting,169,71
+sehat,stunting,161,99
+jantung,gizi buruk,188,42
+asma,gizi buruk,188,68
+asma,kurang,181,94
+jantung,gizi buruk,179,57
+jantung,kurang,146,77
+hipertensi,gizi buruk,172,86
+disabilitas,kurang,148,38
+disabilitas,baik,183,51
+hipertensi,gizi buruk,159,60
+disabilitas,stunting,148,52
+asma,baik,144,36
+diabetes,stunting,168,35
+diabetes,baik,150,46
+diabetes,kurang,172,76
+jantung,baik,186,75
+hipertensi,kurang,168,75
+disabilitas,kurang,179,97
+kronis,kurang,169,94
+asma,kurang,165,81
+jantung,stunting,183,35
+kronis,kurang,170,74
+disabilitas,gizi buruk,175,96
+kronis,baik,175,94
+hipertensi,gizi buruk,171,43
+disabilitas,kurang,185,84
+jantung,kurang,186,55
+sehat,gizi buruk,154,47
+sehat,baik,153,59
+sehat,stunting,187,76
+kronis,kurang,174,75
+kronis,stunting,170,44
+hipertensi,baik,188,92
+diabetes,baik,183,91
+asma,kurang,176,93
+diabetes,baik,176,98
+asma,gizi buruk,175,70
+asma,gizi buruk,143,97
+asma,baik,178,68
+hipertensi,stunting,168,43
+diabetes,stunting,167,81
+sehat,gizi buruk,162,45
+jantung,gizi buruk,181,41
+sehat,gizi buruk,148,52
+disabilitas,kurang,173,45
+asma,gizi buruk,162,96
+disabilitas,stunting,154,73
+jantung,kurang,170,62
+hipertensi,kurang,184,53
+sehat,gizi buruk,173,45
+kronis,kurang,165,59
+hipertensi,stunting,181,99
+jantung,baik,147,60
+hipertensi,baik,168,61
+asma,baik,153,97
+jantung,stunting,171,98
+diabetes,gizi buruk,147,38
+disabilitas,baik,188,51
+sehat,baik,173,35
+sehat,gizi buruk,169,40
+disabilitas,stunting,142,59
+jantung,gizi buruk,171,74
+asma,kurang,189,44
+jantung,gizi buruk,146,54
+diabetes,gizi buruk,167,47
+disabilitas,kurang,145,55
+diabetes,baik,144,58
+sehat,gizi buruk,178,60
+diabetes,baik,156,47
+sehat,stunting,182,35
+jantung,baik,147,84
+kronis,baik,164,78
+asma,kurang,189,79
+hipertensi,stunting,155,71
+jantung,stunting,161,52
+kronis,stunting,184,91
+diabetes,stunting,173,38
+hipertensi,baik,150,86
+disabilitas,gizi buruk,150,38
+sehat,kurang,163,55
+sehat,baik,165,38
+asma,baik,142,65
+jantung,baik,179,84
+hipertensi,gizi buruk,149,76
+diabetes,gizi buruk,161,54
+asma,stunting,165,99
+jantung,baik,161,41
+sehat,kurang,173,95
+disabilitas,kurang,169,61
+disabilitas,baik,175,95
+hipertensi,gizi buruk,177,45
+kronis,gizi buruk,169,82
+jantung,stunting,189,94
+jantung,kurang,162,64
+hipertensi,baik,157,94
+disabilitas,stunting,189,92
+asma,baik,146,99
+hipertensi,gizi buruk,181,52
+jantung,kurang,181,60
+asma,kurang,180,54
+jantung,baik,166,82
+hipertensi,baik,163,63
+sehat,kurang,160,89
+sehat,baik,150,47
+disabilitas,gizi buruk,143,85
+jantung,baik,172,71
+asma,gizi buruk,177,53
+hipertensi,stunting,175,42
+sehat,baik,179,99
+jantung,gizi buruk,175,67
+sehat,gizi buruk,151,80
+diabetes,gizi buruk,168,93
+disabilitas,baik,167,64
+kronis,kurang,173,37
+hipertensi,baik,149,40
+kronis,stunting,160,75
+hipertensi,stunting,148,49
+diabetes,gizi buruk,185,58
+diabetes,baik,167,85
+sehat,stunting,151,55
+kronis,gizi buruk,172,54
+diabetes,kurang,149,88
+asma,gizi buruk,178,86
+disabilitas,baik,141,40
+asma,stunting,155,95
+jantung,gizi buruk,168,72
+asma,baik,145,89
+asma,kurang,162,92
+asma,baik,153,58
+kronis,baik,154,94
+disabilitas,stunting,171,81
+jantung,kurang,162,72
+asma,gizi buruk,151,60
+kronis,stunting,142,81
+diabetes,kurang,161,36
+kronis,gizi buruk,161,50
+asma,gizi buruk,185,70
+diabetes,kurang,172,51
+disabilitas,baik,143,94
+kronis,baik,147,35
+sehat,stunting,155,43
+sehat,stunting,156,58
+jantung,stunting,154,70
+kronis,baik,165,68
+hipertensi,gizi buruk,141,81
+diabetes,stunting,166,83
+hipertensi,gizi buruk,169,48
+sehat,kurang,170,71
+kronis,kurang,142,62
+sehat,baik,169,66
+disabilitas,stunting,141,82
+sehat,stunting,169,52
+sehat,kurang,159,67
+kronis,kurang,160,38
+asma,gizi buruk,183,83
+asma,baik,172,61
+sehat,baik,160,98
+asma,kurang,141,68
+kronis,baik,168,69
+disabilitas,gizi buruk,161,51
+diabetes,gizi buruk,186,59
+diabetes,stunting,179,41
+kronis,kurang,166,58
+sehat,gizi buruk,189,38
+hipertensi,stunting,161,71
+sehat,gizi buruk,152,74
+sehat,baik,145,63
+jantung,stunting,182,87
+disabilitas,kurang,179,93
+jantung,stunting,175,90
+sehat,gizi buruk,151,93
+sehat,gizi buruk,173,65
+diabetes,baik,183,80
+disabilitas,gizi buruk,157,67
+asma,kurang,170,53
+kronis,gizi buruk,186,43
+jantung,kurang,171,72
+asma,stunting,168,65
+kronis,kurang,145,88
+sehat,baik,147,73
+jantung,stunting,156,56
+asma,stunting,146,57
+hipertensi,gizi buruk,160,77
+disabilitas,kurang,174,59
+jantung,baik,157,74
+diabetes,gizi buruk,183,78
+sehat,gizi buruk,176,74
+jantung,baik,157,69
+sehat,baik,170,70
+diabetes,stunting,172,94
+asma,gizi buruk,181,95
+sehat,baik,151,88
+hipertensi,kurang,163,63
+asma,stunting,157,96
+sehat,stunting,183,66
+kronis,baik,181,98
+sehat,stunting,172,87
+diabetes,baik,185,84
+jantung,gizi buruk,187,71
+sehat,stunting,174,42
+disabilitas,stunting,140,51
+diabetes,stunting,156,97
+disabilitas,gizi buruk,141,97
+asma,kurang,156,38
+hipertensi,gizi buruk,166,37
+jantung,gizi buruk,140,84
+kronis,gizi buruk,142,80
+diabetes,baik,143,84
+asma,kurang,162,44
+disabilitas,stunting,177,62
+kronis,gizi buruk,140,42
+asma,baik,157,35
+diabetes,gizi buruk,147,89
+diabetes,baik,172,70
+sehat,kurang,147,44
+disabilitas,gizi buruk,144,74
+jantung,gizi buruk,162,84
+sehat,stunting,142,57
+disabilitas,kurang,142,90
+kronis,baik,186,55
+asma,gizi buruk,170,65
+disabilitas,kurang,185,73
+sehat,baik,151,80
+asma,gizi buruk,184,39
+sehat,gizi buruk,146,96
+kronis,baik,162,85
+kronis,gizi buruk,155,45
+kronis,baik,147,43
+diabetes,stunting,144,84
+jantung,baik,180,40
+diabetes,gizi buruk,184,97
+kronis,gizi buruk,144,84
+diabetes,stunting,155,47
+sehat,gizi buruk,168,40
+diabetes,baik,177,50
+jantung,baik,149,61
+sehat,baik,168,57
+jantung,kurang,151,78
+asma,gizi buruk,179,82
+diabetes,kurang,186,41
+disabilitas,stunting,159,41
+asma,kurang,152,63
+disabilitas,stunting,171,80
+sehat,stunting,184,99
+jantung,baik,188,60
+asma,kurang,178,98
+kronis,gizi buruk,177,85
+diabetes,baik,170,54
+jantung,kurang,178,62
+kronis,baik,187,58
+sehat,stunting,187,65
+disabilitas,kurang,153,71
+kronis,gizi buruk,187,82
+hipertensi,gizi buruk,159,59
+disabilitas,stunting,154,90
+asma,gizi buruk,150,46
+hipertensi,gizi buruk,171,76
+hipertensi,baik,163,36
+kronis,gizi buruk,189,51
+kronis,kurang,148,86
+jantung,stunting,188,65
+diabetes,gizi buruk,158,88
+hipertensi,gizi buruk,144,89
+disabilitas,baik,186,38
+diabetes,baik,167,69
+sehat,gizi buruk,173,65
+hipertensi,stunting,171,46
+jantung,gizi buruk,160,93
+diabetes,stunting,146,61
+jantung,stunting,159,47
+hipertensi,baik,177,56
+disabilitas,baik,181,35
+jantung,baik,170,67
+asma,baik,162,79
+hipertensi,baik,156,40
+asma,gizi buruk,168,41
+diabetes,baik,154,89
+asma,kurang,188,61
+diabetes,baik,181,82
+kronis,kurang,142,68
+disabilitas,baik,168,69
+asma,kurang,184,44
+jantung,kurang,158,43
+hipertensi,gizi buruk,161,67
+kronis,kurang,150,94
+asma,kurang,170,53
+disabilitas,baik,147,74
+asma,kurang,141,56
+diabetes,baik,150,37
+disabilitas,kurang,179,43
+asma,stunting,180,95
+hipertensi,kurang,188,81
+kronis,baik,149,51
+sehat,baik,157,61
+kronis,gizi buruk,148,60
+asma,stunting,150,78
+sehat,stunting,148,78
+sehat,gizi buruk,164,72
+asma,baik,183,55
+disabilitas,kurang,146,65
+sehat,kurang,173,86
+diabetes,stunting,167,39
+sehat,gizi buruk,187,54
+hipertensi,kurang,168,81
+jantung,gizi buruk,182,55
+disabilitas,kurang,142,88
+diabetes,stunting,154,63
+hipertensi,kurang,182,62
+kronis,stunting,155,68
+sehat,stunting,182,80
+kronis,baik,164,94
+disabilitas,stunting,153,62
+diabetes,baik,183,58
+jantung,gizi buruk,169,50
+kronis,baik,158,59
+kronis,baik,165,35
+jantung,baik,182,70
+disabilitas,kurang,159,72
+asma,kurang,147,96
+diabetes,baik,147,65
+hipertensi,kurang,143,62
+kronis,gizi buruk,158,77
+disabilitas,gizi buruk,175,78
+diabetes,baik,181,58
+diabetes,stunting,151,81
+jantung,gizi buruk,162,52
+kronis,stunting,186,47
+jantung,kurang,161,53
+sehat,gizi buruk,145,71
+hipertensi,gizi buruk,158,91
+jantung,gizi buruk,171,40
+hipertensi,stunting,157,43
+jantung,kurang,189,67
+sehat,baik,174,49
+jantung,baik,145,50
+diabetes,gizi buruk,161,59
+disabilitas,baik,149,60
+hipertensi,baik,169,39
+sehat,gizi buruk,181,78
+sehat,kurang,176,82
+diabetes,kurang,171,84
+hipertensi,gizi buruk,153,48
+disabilitas,gizi buruk,177,52
+disabilitas,stunting,170,46
+asma,stunting,175,71
+sehat,gizi buruk,160,41
+sehat,baik,186,75
+asma,kurang,180,84
+asma,baik,155,94
+asma,gizi buruk,179,57
+sehat,kurang,147,99
+asma,kurang,148,49
+jantung,stunting,146,82
+asma,baik,178,68
+jantung,kurang,143,72
+disabilitas,gizi buruk,160,53
+asma,baik,155,52
+jantung,baik,175,60
+kronis,gizi buruk,161,80
+kronis,stunting,148,52
+diabetes,stunting,189,85
+diabetes,gizi buruk,158,89
+diabetes,kurang,172,64
+sehat,kurang,158,74
+diabetes,baik,167,70
+jantung,kurang,181,56
+jantung,kurang,156,83
+asma,kurang,143,58
+disabilitas,stunting,141,61
+kronis,gizi buruk,154,43
+jantung,gizi buruk,147,57
+kronis,baik,162,50
+hipertensi,stunting,183,67
+hipertensi,stunting,148,68
+kronis,kurang,154,74
+disabilitas,baik,163,56
+jantung,stunting,177,97
+diabetes,kurang,175,64
+hipertensi,stunting,148,79
+asma,gizi buruk,183,47
+disabilitas,stunting,161,50
+asma,kurang,177,54
+diabetes,baik,189,95
+jantung,stunting,177,75
+asma,kurang,180,90
+kronis,gizi buruk,159,75
+sehat,baik,174,93
+asma,stunting,184,87
+hipertensi,gizi buruk,180,60
+sehat,kurang,152,84
+hipertensi,baik,176,91
+asma,kurang,186,89
+kronis,kurang,189,76
+jantung,gizi buruk,182,55
+disabilitas,baik,145,63
+kronis,gizi buruk,183,78
+asma,kurang,188,42
+sehat,kurang,155,82
+asma,gizi buruk,182,81
+asma,stunting,179,95
+hipertensi,stunting,149,75
+diabetes,kurang,154,65
+disabilitas,baik,173,73
+hipertensi,baik,177,51
+diabetes,baik,181,76
+hipertensi,kurang,156,65
+hipertensi,stunting,143,37
+diabetes,kurang,170,40
+asma,gizi buruk,173,41
+sehat,gizi buruk,172,42
+disabilitas,gizi buruk,180,74
+diabetes,stunting,149,97
+disabilitas,gizi buruk,188,86
+diabetes,baik,166,48
+jantung,gizi buruk,170,37
+sehat,gizi buruk,168,92
+sehat,kurang,151,96
+jantung,baik,150,61
+asma,kurang,156,82
+sehat,gizi buruk,184,80
+asma,baik,155,45
+jantung,stunting,145,76
+diabetes,kurang,178,35
+sehat,stunting,167,89
+hipertensi,stunting,187,43
+sehat,stunting,174,47
+disabilitas,gizi buruk,176,68
+disabilitas,stunting,178,59
+sehat,stunting,154,38
+hipertensi,gizi buruk,144,41
+diabetes,stunting,171,68
+hipertensi,stunting,147,89
+kronis,kurang,176,75
+hipertensi,kurang,153,36
+kronis,stunting,178,91
+disabilitas,kurang,179,85
+hipertensi,stunting,178,43
+hipertensi,baik,147,60
+hipertensi,baik,142,79
+hipertensi,gizi buruk,187,48
+disabilitas,kurang,175,99
+kronis,gizi buruk,171,48
+hipertensi,kurang,175,65
+disabilitas,stunting,170,42
+diabetes,stunting,169,74
+kronis,gizi buruk,142,47
+disabilitas,stunting,145,71
+jantung,gizi buruk,156,77
+jantung,stunting,142,54
+disabilitas,baik,156,45
+asma,gizi buruk,172,68
+sehat,gizi buruk,168,75
+sehat,stunting,148,92
+hipertensi,gizi buruk,186,95
+hipertensi,gizi buruk,184,89
+sehat,stunting,154,38
+asma,kurang,170,72
+kronis,baik,188,54
+asma,baik,155,82
+asma,kurang,161,46
+jantung,baik,177,52
+asma,baik,155,45
+sehat,baik,163,76
+asma,kurang,154,63
+asma,stunting,169,70
+jantung,baik,147,44
+asma,gizi buruk,184,49
+kronis,kurang,172,40
+hipertensi,kurang,178,83
+sehat,gizi buruk,163,98
+diabetes,baik,148,91
+kronis,baik,166,65
+kronis,stunting,177,99
+diabetes,stunting,177,75
+diabetes,gizi buruk,174,42
+asma,kurang,187,92
+sehat,kurang,189,83
+jantung,stunting,162,95
+sehat,baik,187,49
+asma,baik,147,51
+hipertensi,baik,164,69
+disabilitas,kurang,187,73
+sehat,kurang,177,95
+disabilitas,kurang,152,46
+kronis,gizi buruk,158,70
+hipertensi,kurang,170,47
+kronis,gizi buruk,145,97
+disabilitas,stunting,182,41
+kronis,stunting,176,48
+sehat,gizi buruk,166,93
+sehat,baik,145,39
+hipertensi,kurang,171,36
+asma,baik,142,60
+sehat,gizi buruk,179,70
+disabilitas,gizi buruk,141,44
+sehat,kurang,146,96
+sehat,gizi buruk,177,73
+disabilitas,kurang,155,98
+kronis,kurang,142,90
+sehat,baik,185,39
+disabilitas,stunting,182,41
+jantung,kurang,181,37
+hipertensi,stunting,154,40
+hipertensi,baik,177,36
+disabilitas,baik,143,74
+hipertensi,baik,151,38
+kronis,kurang,178,57
+sehat,kurang,182,38
+sehat,stunting,178,73
+diabetes,baik,188,40
+kronis,gizi buruk,155,61
+disabilitas,gizi buruk,166,74
+diabetes,stunting,157,87
+asma,baik,148,79
+jantung,baik,171,81
+jantung,gizi buruk,169,51
+diabetes,gizi buruk,178,81
+kronis,gizi buruk,188,59
+asma,kurang,172,36
+jantung,gizi buruk,172,80
+jantung,baik,158,78
+kronis,gizi buruk,186,89
+diabetes,baik,176,79
+sehat,kurang,150,97
+kronis,kurang,148,83
+diabetes,stunting,166,99
+jantung,stunting,186,53
+jantung,baik,159,84
+asma,kurang,172,76
+sehat,baik,170,39
+disabilitas,baik,146,61
+jantung,kurang,156,58
+disabilitas,stunting,162,59
+jantung,baik,178,54
+hipertensi,gizi buruk,144,71
+hipertensi,stunting,158,97
+asma,gizi buruk,170,40
+kronis,baik,189,70
+kronis,gizi buruk,151,96
+asma,stunting,187,81
+sehat,stunting,159,92
+asma,gizi buruk,157,71
+diabetes,baik,180,88
+kronis,gizi buruk,140,98
+sehat,baik,160,90
+diabetes,stunting,172,36
+kronis,baik,152,92
+kronis,stunting,177,80
+disabilitas,gizi buruk,156,57
+hipertensi,baik,163,92
+disabilitas,gizi buruk,146,80
+kronis,kurang,146,40
+diabetes,kurang,176,74
+asma,stunting,181,77
+sehat,baik,175,87
+jantung,stunting,161,54
+jantung,kurang,172,90
+sehat,kurang,146,37
+jantung,baik,154,79
+kronis,kurang,146,53
+sehat,baik,155,94
+hipertensi,baik,160,96
+sehat,baik,162,45
+disabilitas,baik,143,61
+diabetes,stunting,183,89
+sehat,kurang,168,83
+diabetes,kurang,187,64
+jantung,stunting,180,57
+sehat,stunting,140,56
+kronis,stunting,142,57
+diabetes,kurang,186,92
+disabilitas,baik,168,90
+kronis,baik,146,43
+jantung,kurang,155,52
+asma,baik,157,97
+disabilitas,gizi buruk,172,78
+disabilitas,stunting,183,95
+disabilitas,kurang,185,80
+kronis,kurang,170,38
+sehat,baik,147,84
+hipertensi,baik,173,88
+jantung,stunting,164,82
+sehat,gizi buruk,154,98
+diabetes,kurang,141,66
+asma,baik,156,71
+kronis,kurang,188,47
+kronis,gizi buruk,145,53
+jantung,baik,188,82
+asma,gizi buruk,181,50
+kronis,kurang,145,84
+asma,kurang,154,82
+hipertensi,baik,176,64
+sehat,gizi buruk,152,72
+kronis,stunting,142,36
+hipertensi,kurang,147,64
+disabilitas,gizi buruk,159,55
+sehat,stunting,158,89
+kronis,baik,188,66
+jantung,baik,157,65
+sehat,gizi buruk,146,75
+jantung,gizi buruk,150,85
+asma,baik,173,65
+asma,kurang,161,76
+jantung,gizi buruk,174,74
+kronis,baik,159,96
+hipertensi,baik,171,36
+sehat,stunting,185,91
+hipertensi,stunting,171,68
+jantung,gizi buruk,175,55
+jantung,stunting,172,69
+kronis,baik,179,70
+kronis,gizi buruk,141,67
+jantung,gizi buruk,188,93
+disabilitas,baik,189,35
+kronis,gizi buruk,141,42
+kronis,stunting,147,58
+disabilitas,stunting,157,45
+jantung,kurang,178,81
+hipertensi,baik,184,80
+jantung,stunting,149,43
+diabetes,baik,150,74
+jantung,kurang,176,79
+asma,kurang,163,38
+disabilitas,baik,170,35
+kronis,kurang,146,55
+asma,gizi buruk,143,89
+hipertensi,baik,157,85
+asma,gizi buruk,167,64
+asma,stunting,178,98
+diabetes,baik,142,52
+hipertensi,gizi buruk,147,63
+asma,baik,170,87
+kronis,gizi buruk,165,87
+kronis,stunting,143,40
+diabetes,baik,162,73
+asma,baik,156,85
+jantung,baik,156,84
+asma,stunting,141,66
+jantung,gizi buruk,167,54
+asma,kurang,150,65
+diabetes,stunting,161,76
+hipertensi,baik,156,47
+hipertensi,stunting,180,61
+asma,kurang,160,53
+hipertensi,baik,142,66
+diabetes,baik,162,91
+diabetes,gizi buruk,185,96
+kronis,kurang,176,69
+jantung,gizi buruk,163,83
+sehat,gizi buruk,158,59
+asma,stunting,144,40
+sehat,gizi buruk,147,40
+hipertensi,stunting,162,77
+jantung,baik,176,41
+disabilitas,stunting,140,42
+disabilitas,stunting,147,57
+asma,baik,142,54
+diabetes,gizi buruk,167,40
+diabetes,baik,155,81
+disabilitas,gizi buruk,162,45
+jantung,gizi buruk,146,66
+disabilitas,kurang,170,82
+asma,stunting,183,85
+diabetes,kurang,166,69
+jantung,stunting,152,74
+jantung,baik,150,73
+asma,baik,146,58
+diabetes,kurang,162,97
+diabetes,gizi buruk,185,81
+asma,stunting,164,69
+sehat,kurang,154,80
+sehat,stunting,175,47
+disabilitas,baik,175,45
+kronis,kurang,174,51
+sehat,gizi buruk,173,86
+diabetes,kurang,160,66
+jantung,baik,163,79
+diabetes,baik,182,39
+disabilitas,gizi buruk,175,88
+jantung,baik,160,87
+hipertensi,kurang,153,63
+jantung,gizi buruk,164,57
+kronis,kurang,144,71
+asma,baik,177,50
+jantung,baik,183,85
+kronis,baik,172,81
+jantung,stunting,151,43
+hipertensi,stunting,157,63
+diabetes,kurang,186,93
+jantung,kurang,185,35
+hipertensi,gizi buruk,159,66
+sehat,kurang,170,69
+hipertensi,baik,150,53
+kronis,kurang,160,40
+diabetes,kurang,155,67
+kronis,kurang,159,52
+hipertensi,baik,173,87
+asma,baik,158,91
+diabetes,kurang,167,79
+disabilitas,baik,156,51
+asma,stunting,145,87
+kronis,baik,158,64
+sehat,kurang,146,71
+jantung,kurang,144,99
+diabetes,baik,181,82
+kronis,baik,140,54
+disabilitas,gizi buruk,140,41
+asma,gizi buruk,152,48
+asma,baik,189,66
+sehat,baik,168,58
+diabetes,kurang,152,71
+kronis,baik,147,82
+jantung,kurang,148,42
+sehat,kurang,158,86
+sehat,gizi buruk,151,40
+hipertensi,baik,168,49
+sehat,kurang,171,88
+sehat,kurang,174,94
+hipertensi,stunting,187,36
+hipertensi,baik,147,57
+hipertensi,kurang,147,48
+jantung,baik,160,56
+diabetes,gizi buruk,161,72
+diabetes,baik,173,44
+jantung,baik,153,74
+kronis,kurang,168,43
+kronis,kurang,181,73
+sehat,baik,163,43
+jantung,stunting,149,45
+asma,baik,147,88
+hipertensi,stunting,172,82
+diabetes,stunting,155,39
+hipertensi,gizi buruk,151,36
+jantung,gizi buruk,159,66
+kronis,kurang,149,78
+jantung,gizi buruk,182,69
+kronis,gizi buruk,159,71
+jantung,kurang,161,80
+jantung,baik,188,47
+hipertensi,baik,146,44
+hipertensi,kurang,180,95
+asma,kurang,143,62
+asma,kurang,185,75
+diabetes,baik,151,59
+sehat,baik,173,69
+hipertensi,baik,170,49
+jantung,gizi buruk,146,70
+hipertensi,kurang,156,35
+hipertensi,gizi buruk,153,81
+jantung,gizi buruk,152,45
+diabetes,kurang,145,60
+sehat,stunting,149,59
+asma,kurang,153,87
+jantung,baik,170,72
+kronis,kurang,143,51
+sehat,gizi buruk,174,98
+disabilitas,stunting,164,79
+hipertensi,stunting,147,80
+asma,gizi buruk,149,74
+jantung,baik,183,78
+kronis,baik,187,56
+kronis,kurang,173,94
+hipertensi,stunting,147,42
+disabilitas,gizi buruk,166,40
+diabetes,baik,151,75
+jantung,kurang,183,91
+diabetes,stunting,142,79
+disabilitas,kurang,159,81
+kronis,stunting,154,40
+asma,stunting,170,64
+asma,stunting,140,80
+kronis,stunting,166,68
+jantung,stunting,178,53
+disabilitas,kurang,167,51
+disabilitas,kurang,180,54
+jantung,stunting,185,80
+disabilitas,kurang,143,99
+kronis,gizi buruk,157,90
+kronis,gizi buruk,168,73
+kronis,baik,144,95
+diabetes,baik,176,93
+asma,kurang,144,47
+diabetes,kurang,150,88
+diabetes,baik,142,48
+jantung,baik,152,39
+diabetes,gizi buruk,146,53
+kronis,kurang,169,58
+jantung,kurang,148,91
+jantung,baik,152,94
+kronis,kurang,159,74
+jantung,kurang,189,64
+disabilitas,gizi buruk,142,50
+hipertensi,baik,187,72
+disabilitas,gizi buruk,166,80
+jantung,gizi buruk,182,36
+hipertensi,gizi buruk,187,49
+asma,gizi buruk,152,84
+disabilitas,kurang,170,69
+hipertensi,baik,154,61
+jantung,gizi buruk,180,42
+kronis,kurang,146,75
+sehat,gizi buruk,180,51
+diabetes,baik,145,79
+asma,baik,159,51
+disabilitas,gizi buruk,154,69
+jantung,kurang,143,89
+disabilitas,baik,189,73
+sehat,baik,182,74
+diabetes,kurang,171,45
+sehat,gizi buruk,171,41
+diabetes,kurang,159,73
+disabilitas,stunting,187,70
+asma,baik,163,37
+jantung,kurang,172,54
+hipertensi,kurang,163,41
+diabetes,stunting,155,38
+diabetes,stunting,153,90
+diabetes,stunting,149,36
+asma,gizi buruk,147,51
+disabilitas,kurang,176,35
+jantung,stunting,142,96
+hipertensi,gizi buruk,162,88
+diabetes,gizi buruk,176,78
+diabetes,kurang,142,99
+jantung,kurang,179,93
+disabilitas,kurang,151,64
+jantung,baik,154,66
+sehat,baik,171,61
+kronis,kurang,145,91
+hipertensi,gizi buruk,142,85
+disabilitas,gizi buruk,144,70
+kronis,kurang,164,60
+jantung,gizi buruk,160,36
+sehat,kurang,148,39
+jantung,kurang,155,91
+kronis,kurang,151,53
+diabetes,baik,169,61
+sehat,gizi buruk,164,54
+disabilitas,gizi buruk,178,86
+kronis,baik,151,98
+diabetes,kurang,155,66
+jantung,kurang,144,62
+asma,baik,167,70
+asma,gizi buruk,175,75
+jantung,gizi buruk,182,73
+hipertensi,gizi buruk,187,62
+disabilitas,baik,143,86
+asma,stunting,189,91
+kronis,baik,174,60
+jantung,kurang,151,71
+disabilitas,stunting,186,57
+sehat,baik,157,71
+diabetes,stunting,176,73
+sehat,gizi buruk,146,96
+jantung,gizi buruk,160,35
+disabilitas,stunting,148,79
+sehat,kurang,188,58
+diabetes,kurang,181,55
+jantung,stunting,165,73
+sehat,kurang,159,62
+diabetes,baik,150,89
+jantung,stunting,175,89
+jantung,stunting,156,44
+jantung,stunting,140,67
+diabetes,gizi buruk,183,70
+disabilitas,kurang,180,58
+kronis,gizi buruk,163,58
+disabilitas,gizi buruk,181,72
+disabilitas,baik,186,95
+jantung,baik,185,74
+sehat,baik,161,71
+kronis,gizi buruk,171,39
+kronis,gizi buruk,154,39
+hipertensi,kurang,167,55
+diabetes,gizi buruk,158,60
+jantung,baik,150,46
+kronis,gizi buruk,161,74
+hipertensi,kurang,180,49
+kronis,baik,141,49
+sehat,kurang,167,58
+disabilitas,baik,140,46
+jantung,stunting,179,63
+jantung,baik,157,47
+sehat,gizi buruk,171,59
+hipertensi,stunting,150,68
+hipertensi,baik,150,57
+diabetes,gizi buruk,184,41
+asma,stunting,157,37
+hipertensi,kurang,143,41
+asma,baik,158,98
+asma,baik,155,65
+diabetes,stunting,165,79
+sehat,gizi buruk,158,66
+diabetes,kurang,180,47
+asma,kurang,167,50
+asma,stunting,143,74
+asma,gizi buruk,147,87
+jantung,stunting,187,87
+sehat,kurang,165,62
+jantung,kurang,160,74
+disabilitas,baik,149,76
+hipertensi,kurang,160,65
+hipertensi,baik,150,98
+asma,kurang,182,57
+asma,stunting,157,86
+kronis,stunting,188,67
+sehat,kurang,165,62
+asma,gizi buruk,153,63
+kronis,baik,182,76
+asma,stunting,170,53
+jantung,baik,175,57
+diabetes,stunting,171,59
+sehat,baik,165,97
+sehat,baik,171,71
+asma,baik,165,61
+diabetes,baik,179,74
+sehat,gizi buruk,172,98
+disabilitas,stunting,184,93
+asma,gizi buruk,148,66
+sehat,kurang,152,98
+hipertensi,gizi buruk,180,64
+hipertensi,gizi buruk,165,97
+kronis,stunting,144,76
+asma,gizi buruk,168,67
+sehat,baik,142,51
+disabilitas,kurang,168,97
+disabilitas,stunting,174,94
+asma,kurang,158,96
+sehat,gizi buruk,171,67
+asma,gizi buruk,171,90
+jantung,baik,162,56
+jantung,baik,184,38
+kronis,baik,143,81
+sehat,gizi buruk,158,93
+kronis,kurang,149,78
+sehat,kurang,173,35
+sehat,gizi buruk,169,57
+jantung,gizi buruk,186,67
+jantung,gizi buruk,156,92
+sehat,gizi buruk,140,88
+diabetes,kurang,151,66
+kronis,kurang,151,64
+kronis,kurang,171,68
+jantung,baik,180,99
+kronis,stunting,188,80
+kronis,stunting,143,41
+hipertensi,gizi buruk,179,57
+diabetes,gizi buruk,141,75
+jantung,stunting,155,48
+disabilitas,stunting,165,59
+jantung,baik,149,99
+hipertensi,baik,150,73
+diabetes,stunting,178,69
+hipertensi,gizi buruk,149,49
+asma,baik,176,69
+kronis,baik,164,60
+kronis,baik,189,76
+hipertensi,baik,173,39
+disabilitas,kurang,141,64
+jantung,baik,147,74
+disabilitas,kurang,153,59
+hipertensi,baik,181,52
+kronis,stunting,172,36
+diabetes,kurang,183,46
+disabilitas,gizi buruk,176,49
+kronis,kurang,188,55
+disabilitas,stunting,165,89
+kronis,gizi buruk,168,73
+kronis,stunting,186,76
+disabilitas,stunting,172,36
+jantung,baik,158,81
+jantung,stunting,156,63
+hipertensi,baik,170,52
+disabilitas,baik,181,36
+jantung,gizi buruk,149,95
+hipertensi,gizi buruk,175,50
+jantung,baik,163,39
+kronis,baik,157,59
+disabilitas,baik,168,49
+hipertensi,stunting,151,93
+kronis,kurang,185,59
+disabilitas,kurang,172,83
+disabilitas,gizi buruk,147,92
+asma,baik,180,40
+kronis,baik,141,36
+sehat,baik,146,69
+disabilitas,stunting,174,80
+diabetes,baik,180,96
+asma,stunting,153,46
+diabetes,gizi buruk,166,67
+diabetes,kurang,157,88
+kronis,stunting,162,98
+disabilitas,gizi buruk,160,99
+diabetes,gizi buruk,152,78
+diabetes,stunting,178,90
+diabetes,gizi buruk,145,89
+asma,kurang,188,94
+sehat,stunting,159,63
+diabetes,stunting,145,44
+hipertensi,kurang,179,92
+jantung,baik,163,93
+kronis,baik,155,86
+diabetes,baik,146,82
+sehat,kurang,168,84
+kronis,stunting,149,70
+kronis,stunting,174,68
+jantung,stunting,183,82
+asma,stunting,175,54
+jantung,kurang,160,55
+disabilitas,kurang,144,52
+kronis,gizi buruk,180,67
+jantung,baik,163,60
+hipertensi,baik,144,51
+jantung,baik,175,96
+asma,kurang,172,43
+asma,stunting,172,65
+jantung,gizi buruk,145,42
+sehat,stunting,182,55
+jantung,baik,168,47
+jantung,stunting,176,65
+hipertensi,gizi buruk,169,43
+jantung,gizi buruk,141,52
+asma,gizi buruk,175,79
+jantung,kurang,170,37
+hipertensi,gizi buruk,146,54
+sehat,stunting,179,51
+disabilitas,stunting,162,75
+disabilitas,gizi buruk,164,39
+diabetes,baik,143,61
+hipertensi,kurang,140,89
+diabetes,kurang,173,74
+jantung,kurang,181,64
+hipertensi,gizi buruk,176,66
+sehat,gizi buruk,169,71
+kronis,baik,168,89
+asma,kurang,183,52
+kronis,gizi buruk,181,39
+hipertensi,stunting,180,41
+asma,baik,163,80
+hipertensi,stunting,162,58
+disabilitas,gizi buruk,175,51
+disabilitas,gizi buruk,189,53
+hipertensi,stunting,173,53
+jantung,gizi buruk,188,73
+hipertensi,stunting,181,54
+hipertensi,kurang,150,52
+jantung,gizi buruk,157,54
+kronis,baik,167,70
+diabetes,kurang,179,87
+diabetes,stunting,177,42
+jantung,gizi buruk,157,69
+diabetes,kurang,161,96
+kronis,baik,183,70
+disabilitas,kurang,141,39
+sehat,stunting,178,46
+asma,gizi buruk,158,83
+kronis,baik,182,95
+sehat,kurang,157,68
+jantung,gizi buruk,140,46
+diabetes,baik,181,75
+diabetes,baik,168,75
+sehat,gizi buruk,157,41
+jantung,kurang,174,99
+diabetes,baik,159,90
+disabilitas,stunting,163,56
+asma,kurang,159,38
+hipertensi,stunting,163,71
+hipertensi,gizi buruk,143,60
+kronis,gizi buruk,154,84
+sehat,stunting,157,86
+disabilitas,stunting,140,66
+sehat,stunting,164,88
+hipertensi,gizi buruk,166,39
+disabilitas,baik,171,78
+jantung,stunting,183,81
+asma,gizi buruk,155,49
+kronis,gizi buruk,166,83
+diabetes,kurang,148,47
+diabetes,stunting,158,47
+jantung,stunting,168,44
+kronis,gizi buruk,171,75
+jantung,gizi buruk,164,90
+hipertensi,baik,164,35
+jantung,stunting,164,53
+hipertensi,kurang,144,44
+sehat,kurang,188,67
+disabilitas,kurang,165,74
+disabilitas,kurang,169,96
+disabilitas,kurang,152,99
+hipertensi,stunting,145,36
+disabilitas,kurang,154,67
+diabetes,stunting,170,45
+disabilitas,baik,170,85
+kronis,stunting,152,75
+hipertensi,stunting,171,94
+disabilitas,baik,146,75
+asma,kurang,180,53
+jantung,stunting,179,54
+asma,gizi buruk,148,82
+jantung,kurang,158,64
+hipertensi,gizi buruk,162,99
+sehat,kurang,146,91
+jantung,gizi buruk,175,53
+disabilitas,stunting,171,95
+diabetes,kurang,163,79
+diabetes,kurang,184,63
+kronis,kurang,185,63
+hipertensi,kurang,182,88
+diabetes,kurang,152,43
+diabetes,gizi buruk,150,96
+sehat,kurang,154,89
+hipertensi,stunting,188,51
+diabetes,baik,148,71
+disabilitas,kurang,183,96
+kronis,baik,161,47
+hipertensi,stunting,164,96
+sehat,baik,182,42
+disabilitas,baik,160,35
+jantung,baik,181,42
+hipertensi,stunting,172,41
+jantung,gizi buruk,141,56
+hipertensi,kurang,164,98
+kronis,kurang,166,46
+diabetes,stunting,157,93
+diabetes,baik,161,46
+disabilitas,gizi buruk,167,40
+jantung,baik,168,63
+kronis,kurang,181,71
+jantung,baik,172,41
+hipertensi,gizi buruk,153,89
+disabilitas,kurang,185,60
+diabetes,stunting,177,78
+diabetes,kurang,141,98
+sehat,baik,167,59
+hipertensi,gizi buruk,186,50
+jantung,stunting,155,49
+disabilitas,gizi buruk,186,62
+hipertensi,kurang,173,45
+diabetes,baik,149,86
+sehat,stunting,164,38
+jantung,baik,169,93
+diabetes,baik,160,49
+kronis,gizi buruk,188,60
+asma,kurang,149,90
+disabilitas,baik,140,96
+asma,baik,154,61
+kronis,stunting,172,99
+diabetes,stunting,169,53
+sehat,gizi buruk,143,75
+jantung,baik,158,51
+disabilitas,kurang,166,35
+sehat,kurang,181,41
+diabetes,kurang,172,88
+sehat,baik,186,57
+asma,baik,141,95
+kronis,gizi buruk,164,58
+hipertensi,gizi buruk,157,47
+sehat,kurang,182,45
+hipertensi,kurang,153,74
+diabetes,baik,165,75
+hipertensi,gizi buruk,143,35
+hipertensi,stunting,171,78
+hipertensi,baik,147,36
+sehat,kurang,158,85
+diabetes,kurang,186,89
+disabilitas,baik,152,81
+sehat,gizi buruk,185,42
+kronis,stunting,174,85
+kronis,kurang,156,69
+disabilitas,stunting,169,65
+jantung,baik,143,68
+diabetes,baik,182,77
+jantung,baik,167,68
+sehat,gizi buruk,144,77
+sehat,gizi buruk,144,79
+asma,stunting,189,54
+disabilitas,stunting,173,47
+disabilitas,baik,146,89
+sehat,gizi buruk,184,37
+jantung,baik,183,43
+disabilitas,stunting,178,98
+sehat,kurang,155,35
+kronis,kurang,174,40
+kronis,baik,160,78
+sehat,kurang,173,63
+disabilitas,stunting,169,76
+diabetes,stunting,143,41
+disabilitas,gizi buruk,181,70
+disabilitas,kurang,189,58
+kronis,gizi buruk,176,70
+asma,baik,186,79
+asma,gizi buruk,143,96
+disabilitas,gizi buruk,151,86
+jantung,stunting,187,95
+kronis,baik,174,78
+sehat,baik,161,90
+kronis,stunting,150,58
+hipertensi,kurang,185,52
+jantung,baik,178,50
+kronis,kurang,185,61
+hipertensi,gizi buruk,184,63
+diabetes,kurang,164,81
+diabetes,kurang,154,42
+asma,stunting,180,85
+disabilitas,baik,179,60
+asma,stunting,176,62
+sehat,gizi buruk,148,71
+kronis,gizi buruk,160,69
+diabetes,kurang,175,90
+asma,baik,160,59
+diabetes,stunting,167,50
+asma,gizi buruk,157,85
+hipertensi,kurang,173,68
+sehat,stunting,168,98
+hipertensi,gizi buruk,175,63
+disabilitas,gizi buruk,156,75
+sehat,stunting,141,49
+diabetes,kurang,186,40
+disabilitas,stunting,156,57
+diabetes,gizi buruk,144,79
+jantung,stunting,154,73
+kronis,baik,168,90
+disabilitas,stunting,177,47
+sehat,stunting,188,83
+asma,kurang,173,41
+jantung,baik,143,64
+kronis,kurang,151,70
+diabetes,stunting,180,74
+hipertensi,kurang,143,64
+asma,gizi buruk,147,98
+sehat,gizi buruk,180,95
+diabetes,baik,181,62
+hipertensi,kurang,182,93
+diabetes,stunting,168,92
+hipertensi,stunting,166,42
+jantung,baik,149,72
+disabilitas,gizi buruk,145,99
+disabilitas,kurang,148,82
+kronis,gizi buruk,181,90
+kronis,baik,182,39
+sehat,baik,154,72
+kronis,kurang,178,62
+diabetes,baik,151,53
+kronis,stunting,157,53
+sehat,stunting,178,74
+sehat,kurang,157,45
+hipertensi,stunting,167,53
+asma,stunting,182,89
+disabilitas,gizi buruk,172,83
+diabetes,baik,176,41
+hipertensi,stunting,176,73
+jantung,kurang,146,98
+jantung,kurang,180,41
+hipertensi,baik,148,57
+jantung,gizi buruk,142,69
+asma,baik,163,36
+diabetes,kurang,156,65
+hipertensi,kurang,167,61
+diabetes,stunting,168,81
+jantung,stunting,151,88
+sehat,baik,158,89
+kronis,kurang,178,48
+jantung,gizi buruk,156,73
+diabetes,baik,144,57
+jantung,stunting,166,75
+sehat,baik,178,49
+hipertensi,baik,145,70
+diabetes,kurang,182,65
+kronis,stunting,158,82
+sehat,stunting,177,48
+jantung,kurang,150,90
+diabetes,gizi buruk,148,89
+asma,baik,188,37
+disabilitas,baik,183,48
+diabetes,stunting,169,42
+diabetes,kurang,161,65
+hipertensi,gizi buruk,149,79
+disabilitas,baik,142,47
+hipertensi,stunting,146,59
+hipertensi,stunting,149,50
+disabilitas,kurang,177,96
+kronis,kurang,162,44
+hipertensi,stunting,185,49
+disabilitas,gizi buruk,153,86
+jantung,gizi buruk,155,79
+disabilitas,stunting,184,51
+diabetes,gizi buruk,174,46
+diabetes,kurang,173,82
+asma,kurang,148,43
+jantung,stunting,169,93
+sehat,gizi buruk,169,71
+diabetes,baik,140,83
+kronis,gizi buruk,172,94
+jantung,stunting,171,47
+jantung,baik,175,69
+jantung,gizi buruk,184,97
+sehat,kurang,143,95
+diabetes,baik,171,76
+jantung,gizi buruk,170,49
+jantung,gizi buruk,140,77
+hipertensi,baik,158,66
+disabilitas,stunting,175,80
+hipertensi,stunting,140,71
+jantung,kurang,175,85
+kronis,baik,146,74
+jantung,baik,189,81
+jantung,stunting,148,77
+sehat,stunting,188,38
+diabetes,baik,162,90
+disabilitas,baik,158,74
+jantung,gizi buruk,158,52
+kronis,kurang,154,84
+asma,stunting,161,39
+asma,kurang,158,78
+asma,gizi buruk,153,92
+hipertensi,gizi buruk,151,50
+diabetes,baik,140,51
+jantung,baik,160,82
+jantung,baik,141,87
+hipertensi,stunting,146,63
+kronis,baik,181,40
+sehat,kurang,172,79
+diabetes,stunting,162,86
+jantung,gizi buruk,180,82
+hipertensi,stunting,153,60
+jantung,gizi buruk,153,70
+disabilitas,stunting,148,88
+disabilitas,kurang,184,56
+diabetes,baik,140,62
+asma,gizi buruk,149,46
+diabetes,stunting,158,95
+kronis,stunting,162,44
+sehat,stunting,159,77
+asma,stunting,164,81
+sehat,kurang,168,35
+diabetes,kurang,165,58
+kronis,gizi buruk,145,39
+asma,baik,143,86
+hipertensi,baik,167,43
+jantung,gizi buruk,173,73
+sehat,stunting,175,78
+hipertensi,stunting,141,51
+sehat,baik,183,73
+kronis,kurang,141,49
+jantung,stunting,166,78
+jantung,baik,156,82
+kronis,kurang,176,59
+jantung,kurang,186,38
+diabetes,gizi buruk,163,84
+sehat,gizi buruk,140,85
+diabetes,kurang,162,45
+kronis,kurang,185,90
+sehat,kurang,188,38
+hipertensi,gizi buruk,158,57
+asma,stunting,177,81
+jantung,baik,172,83
+diabetes,gizi buruk,156,65
+hipertensi,gizi buruk,162,99
+hipertensi,gizi buruk,185,86
+jantung,kurang,174,79
+diabetes,baik,181,65
+diabetes,kurang,140,39
+kronis,baik,182,50
+kronis,kurang,152,36
+jantung,baik,183,86
+sehat,gizi buruk,171,37
+sehat,stunting,142,44
+jantung,gizi buruk,150,53
+asma,stunting,147,60
+jantung,stunting,148,67
+sehat,baik,176,47
+asma,baik,141,52
+hipertensi,baik,145,57
+asma,baik,158,39
+hipertensi,stunting,165,98
+asma,kurang,158,55
+hipertensi,kurang,173,67
+jantung,gizi buruk,154,38
+jantung,gizi buruk,170,67
+asma,baik,152,96
