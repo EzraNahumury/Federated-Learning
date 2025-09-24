@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Cek Kelayakan Subsidi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f9;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    label {
+      font-weight: bold;
+      display: block;
+      margin-top: 15px;
+      color: #34495e;
+    }
+    input, select {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      margin-top: 20px;
+      width: 100%;
+      padding: 12px;
+      background: #2ecc71;
+      border: none;
+      border-radius: 5px;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #27ae60;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Cek Kelayakan Subsidi</h1>
+    <form action="/predict" method="post">
+      <label for="jumlah_tanggungan">Jumlah Tanggungan</label>
+      <input type="number" name="jumlah_tanggungan" required>
+
+      <label for="penghasilan">Penghasilan (Rp)</label>
+      <input type="number" name="penghasilan" required>
+
+      <label for="kondisi_rumah">Kondisi Rumah</label>
+      <select name="kondisi_rumah" required>
+        <option value="layak">Layak</option>
+        <option value="tidak layak">Tidak Layak</option>
+        <option value="semi permanen">Semi Permanen</option>
+        <option value="sangat sederhana">Sangat Sederhana</option>
+      </select>
+
+      <label for="umur">Umur</label>
+      <input type="number" name="umur" required>
+
+      <label for="status_pekerjaan">Status Pekerjaan</label>
+      <select name="status_pekerjaan" required>
+        <option value="pengangguran">Pengangguran</option>
+        <option value="buruh">Buruh</option>
+        <option value="pekerja informal">Pekerja Informal</option>
+        <option value="wirausaha">Wirausaha</option>
+        <option value="pegawai tetap">Pegawai Tetap</option>
+      </select>
+
+      <label for="status_pernikahan">Status Pernikahan</label>
+      <select name="status_pernikahan" required>
+        <option value="lajang">Lajang</option>
+        <option value="menikah">Menikah</option>
+        <option value="cerai">Cerai</option>
+        <option value="janda">Janda</option>
+        <option value="duda">Duda</option>
+      </select>
+
+      <label for="riwayat_penyakit">Riwayat Penyakit</label>
+      <select name="riwayat_penyakit" required>
+        <option value="sehat">Sehat</option>
+        <option value="kronis">Kronis</option>
+        <option value="jantung">Jantung</option>
+        <option value="asma">Asma</option>
+        <option value="diabetes">Diabetes</option>
+        <option value="disabilitas">Disabilitas</option>
+      </select>
+
+      <label for="status_gizi">Status Gizi</label>
+      <select name="status_gizi" required>
+        <option value="normal">Normal</option>
+        <option value="kurang">Kurang</option>
+        <option value="stunting">Stunting</option>
+        <option value="gizi buruk">Gizi Buruk</option>
+      </select>
+
+      <label for="tinggi_cm">Tinggi (cm)</label>
+      <input type="number" name="tinggi_cm" required>
+
+      <label for="berat_kg">Berat (kg)</label>
+      <input type="number" name="berat_kg" required>
+
+      <button type="submit">Cek Subsidi</button>
+    </form>
+  </div>
+</body>
+</html>

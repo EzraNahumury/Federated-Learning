@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Hasil Prediksi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f9;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .card {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      text-align: center;
+      max-width: 400px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      font-size: 18px;
+    }
+    .yes {
+      color: green;
+      font-weight: bold;
+    }
+    .no {
+      color: red;
+      font-weight: bold;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 15px;
+      text-decoration: none;
+      background: #3498db;
+      color: white;
+      border-radius: 5px;
+    }
+    a:hover {
+      background: #2980b9;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Hasil Prediksi</h1>
+    <p class="{{ 'yes' if 'Layak' in result else 'no' }}">{{ result }}</p>
+    <p>Skor Model: {{ "%.2f" % score }}</p>
+    <a href="/">Coba Lagi</a>
+  </div>
+</body>
+</html>
