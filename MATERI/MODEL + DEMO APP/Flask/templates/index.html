@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Prediksi Subsidi - Federated Models</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f5f8fc; }
+    h1 { text-align: center; padding: 20px; color: #2c3e50; }
+    form { background: #fff; padding: 20px; max-width: 450px; margin: 20px auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+    label { display: block; margin-top: 10px; font-weight: bold; }
+    input, select { width: 100%; padding: 10px; margin-top: 5px; border-radius: 5px; border: 1px solid #ccc; }
+    button { width: 100%; margin-top: 20px; padding: 12px; background: #3498db; color: white; font-size: 16px; font-weight: bold; border: none; border-radius: 5px; cursor: pointer; }
+    button:hover { background: #2980b9; }
+    #resultBox { background: #fff; max-width: 450px; margin: 20px auto; padding: 20px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); text-align: center; }
+    .status-layak { color: green; font-weight: bold; }
+    .status-tidak { color: red; font-weight: bold; }
+    pre { background: #f4f4f4; padding: 10px; border-radius: 5px; text-align: left; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <h1>Prediksi Subsidi</h1>
+
+  <form id="predForm">
+    <label>Pilih Model:
+      <select name="model" id="modelSelect" required>
+        <option value="dinsos">Dinsos</option>
+        <option value="dukcapil">Dukcapil</option>
+        <option value="kemenkes">Kemenkes</option>
+        <option value="gabungan" selected>Gabungan</option>
+      </select>
+    </label>
+
+    <!-- Dinsos -->
+    <div class="field dinsos gabungan">
+      <label>Penghasilan (Rp):
+        <input type="number" name="penghasilan">
+      </label>
+    </div>
+    <div class="field dinsos gabungan">
+      <label>Jumlah Tanggungan:
+        <input type="number" name="jumlah_tanggungan">
+      </label>
+    </div>
+    <div class="field dinsos gabungan">
+      <label>Kondisi Rumah:
+        <select name="kondisi_rumah">
+          <option value="">-- pilih kondisi rumah --</option>
+          <option value="layak">Layak</option>
+          <option value="tidak layak">Tidak Layak</option>
+          <option value="semi permanen">Semi Permanen</option>
+          <option value="sangat sederhana">Sangat Sederhana</option>
+        </select>
+      </label>
+    </div>
+
+    <!-- Dukcapil -->
+    <div class="field dukcapil gabungan">
+      <label>Umur:
+        <input type="number" name="umur">
+      </label>
+    </div>
+    <div class="field dukcapil gabungan">
+      <label>Status Pekerjaan:
+        <select name="status_pekerjaan">
+          <option value="">-- pilih status pekerjaan --</option>
+          <option value="pengangguran">Pengangguran</option>
+          <option value="buruh">Buruh</option>
+          <option value="pekerja informal">Pekerja Informal</option>
+          <option value="wirausaha">Wirausaha</option>
+          <option value="pegawai tetap">Pegawai Tetap</option>
+          <option value="PNS">PNS</option>
+          <option value="karyawan tetap">Karyawan Tetap</option>
+        </select>
+      </label>
+    </div>
+    <div class="field dukcapil gabungan">
+      <label>Status Pernikahan:
+        <select name="status_pernikahan">
+          <option value="">-- pilih status pernikahan --</option>
+          <option value="menikah">Menikah</option>
+          <option value="janda">Janda</option>
+          <option value="duda">Duda</option>
+          <option value="cerai">Cerai</option>
+        </select>
+      </label>
+    </div>
+
+    <!-- Kemenkes -->
+    <div class="field kemenkes gabungan">
+      <label>Riwayat Penyakit:
+        <select name="riwayat_penyakit">
+          <option value="">-- pilih riwayat penyakit --</option>
+          <option value="-">Tidak Ada</option>
+          <option value="ringan">Ringan</option>
+          <option value="kronis">Kronis</option>
+          <option value="jantung">Jantung</option>
+          <option value="asma">Asma</option>
+          <option value="diabetes">Diabetes</option>
+          <option value="disabilitas">Disabilitas</option>
+          <option value="hipertensi">Hipertensi</option>
+        </select>
+      </label>
+    </div>
+    <div class="field kemenkes gabungan">
+      <label>Status Gizi:
+        <select name="status_gizi">
+          <option value="">-- pilih status gizi --</option>
+          <option value="baik">Baik</option>
+          <option value="kurang">Kurang</option>
+          <option value="stunting">Stunting</option>
+          <option value="gizi buruk">Gizi Buruk</option>
+        </select>
+      </label>
+    </div>
+    <div class="field kemenkes gabungan">
+      <label>Tinggi Badan (cm):
+        <input type="number" name="tinggi_cm">
+      </label>
+    </div>
+    <div class="field kemenkes gabungan">
+      <label>Berat Badan (kg):
+        <input type="number" name="berat_kg">
+      </label>
+    </div>
+
+    <button type="submit">Prediksi</button>
+  </form>
+
+  <div id="resultBox">
+    <h2>Hasil:</h2>
+    <div id="status"></div>
+    <pre id="result">Belum ada prediksi</pre>
+  </div>
+
+  <script>
+    const modelSelect = document.getElementById("modelSelect");
+    const fields = document.querySelectorAll(".field");
+
+    function updateFields() {
+      let model = modelSelect.value;
+      fields.forEach(f => {
+        if (f.classList.contains(model) || (model === "gabungan" && f.classList.contains("gabungan"))) {
+          f.classList.remove("hidden");
+        } else {
+          f.classList.add("hidden");
+        }
+      });
+    }
+
+    modelSelect.addEventListener("change", updateFields);
+    updateFields(); // init
+
+    document.getElementById("predForm").onsubmit = async (e) => {
+      e.preventDefault();
+      let formData = Object.fromEntries(new FormData(e.target));
+      let model = formData.model;
+      delete formData.model;
+
+      let resp = await fetch(`/predict/${model}`, {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify(formData)
+      });
+      let data = await resp.json();
+
+      if (data.error) {
+        document.getElementById("status").innerHTML = `<span style="color:red">${data.error}</span>`;
+        document.getElementById("result").innerText = "";
+      } else {
+        if (data.prediksi === 1) {
+          document.getElementById("status").innerHTML = `<span class="status-layak">Layak Subsidi ✅</span>`;
+        } else {
+          document.getElementById("status").innerHTML = `<span class="status-tidak">Tidak Layak Subsidi ❌</span>`;
+        }
+        document.getElementById("result").innerText = JSON.stringify(data, null, 2);
+      }
+    };
+  </script>
+</body>
+</html>
