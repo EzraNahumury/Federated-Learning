@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <title>Prediksi Kelayakan Subsidi – Federated Models</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      --bg: #f5f8fc;
+      --card: #ffffff;
+      --text: #1e293b;
+      --muted: #64748b;
+      --primary: #2e7dff;
+      --primary-hover: #1d62d6;
+      --ok-bg: #dcfce7;
+      --ok-text: #166534;
+      --bad-bg: #fee2e2;
+      --bad-text: #991b1b;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    header {
+      background: linear-gradient(135deg, #2e7dff, #1d62d6);
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+      border-bottom: 4px solid #1d62d6;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 30px;
+      font-weight: 800;
+    }
+
+    p.sub {
+      margin: 8px 0 0;
+      font-size: 14px;
+      color: #e2e8f0;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 30px auto;
+      padding: 0 16px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .card {
+      flex: 1 1 480px;
+      background: var(--card);
+      border-radius: 14px;
+      box-shadow: 0 8px 20px rgba(0,0,0,.07);
+      padding: 24px;
+    }
+
+    h2 {
+      font-size: 20px;
+      margin-top: 0;
+      color: var(--primary);
+    }
+
+    label {
+      display: block;
+      font-weight: 600;
+      margin-top: 14px;
+      font-size: 14px;
+    }
+
+    input, select {
+      width: 100%;
+      padding: 10px 14px;
+      border: 1.5px solid #d6e2ff;
+      border-radius: 8px;
+      margin-top: 6px;
+      background: #fbfdff;
+      transition: all 0.2s ease;
+    }
+
+    input:focus, select:focus {
+      outline: none;
+      border-color: var(--primary);
+      box-shadow: 0 0 0 2px rgba(46,125,255,0.2);
+    }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 24px;
+    }
+
+    button {
+      border: 0;
+      background: var(--primary);
+      color: #fff;
+      padding: 12px 16px;
+      border-radius: 10px;
+      font-weight: 600;
+      cursor: pointer;
+      letter-spacing: .3px;
+      transition: all 0.2s ease;
+    }
+
+    button:hover {
+      background: var(--primary-hover);
+      transform: translateY(-1px);
+    }
+
+    .ghost {
+      background: #eef2ff;
+      color: #1f3b8f;
+    }
+
+    .ghost:hover {
+      background: #e2e8ff;
+    }
+
+    #result {
+      white-space: pre-wrap;
+      background: #0b1220;
+      color: #cce5ff;
+      padding: 16px;
+      border-radius: 10px;
+      font-family: 'Fira Code', monospace;
+      min-height: 150px;
+      border: 1px solid #1d2a4f;
+    }
+
+    #statusBox {
+      text-align: center;
+      margin-bottom: 12px;
+    }
+
+    .status-ok, .status-bad {
+      display: inline-block;
+      padding: 10px 14px;
+      border-radius: 10px;
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    .status-ok { background: var(--ok-bg); color: var(--ok-text); }
+    .status-bad { background: var(--bad-bg); color: var(--bad-text); }
+
+    .hidden { display: none !important; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Prediksi Kelayakan Subsidi</h1>
+    <p class="sub">Federated Learning (TFF) – DINSOS • DUKCAPIL • KEMENKES • GABUNGAN</p>
+  </header>
+
+  <div class="container">
+    <div class="card">
+      <h2>Form Input</h2>
+
+      <label>Pilih Model</label>
+      <select id="model">
+        <option value="dinsos">DINSOS (BPNT/Kartu Sembako)</option>
+        <option value="dukcapil">DUKCAPIL</option>
+        <option value="kemenkes">KEMENKES (KIS)</option>
+        <option value="gabungan" selected>GABUNGAN (Nasional)</option>
+      </select>
+
+      <div id="dynamic-fields" style="margin-top:16px;">
+        <p style="color: var(--muted);">💡 Pilih model untuk menampilkan input terkait.</p>
+      </div>
+
+      <div class="actions">
+        <button id="btnPredict">Prediksi</button>
+        <button id="btnClear" class="ghost" type="button">Bersihkan</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Hasil Prediksi</h2>
+      <div id="statusBox"></div>
+      <div id="result">Belum ada prediksi</div>
+    </div>
+  </div>
+
+  <script>
+    const modelSel = document.getElementById('model');
+    const resultBox = document.getElementById('result');
+    const statusBox = document.getElementById('statusBox');
+    const dynamicFields = document.getElementById('dynamic-fields');
+
+    const modelFields = {
+      dinsos: ["penghasilan", "jumlah_tanggungan", "kondisi_rumah", "status_pekerjaan"],
+      dukcapil: [
+        "nik_valid", "memiliki_kk", "domisili_tetap", "data_ganda", "masuk_dtks",
+        "jumlah_anggota_kk", "usia_kepala_keluarga",
+        "status_perkawinan", "pekerjaan_kepala_keluarga"
+      ],
+      kemenkes: ["penghasilan", "punya_asuransi_lain", "penyakit_kronis"],
+      gabungan: ["penghasilan", "jumlah_tanggungan", "status_pekerjaan", "nik_valid",
+                 "memiliki_kk", "domisili_tetap", "punya_asuransi_lain", "penyakit_kronis"]
+    };
+
+    function createInputField(name) {
+      const label = name.replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase());
+      let inputHTML = "";
+
+      const yesNo = `
+        <option value="">— pilih —</option>
+        <option value="ya">ya</option>
+        <option value="tidak">tidak</option>
+      `;
+
+      // Kondisi khusus untuk dropdown DUKCAPIL & lainnya
+      if (["nik_valid", "memiliki_kk", "domisili_tetap", "data_ganda", "masuk_dtks", "punya_asuransi_lain"].includes(name)) {
+        inputHTML = `<label>${label}</label><select id="${name}">${yesNo}</select>`;
+      } else if (name === "status_perkawinan") {
+        inputHTML = `
+          <label>${label}</label>
+          <select id="${name}">
+            <option value="">— pilih —</option>
+            <option value="menikah">menikah</option>
+            <option value="belum menikah">belum menikah</option>
+            <option value="cerai">cerai</option>
+            <option value="janda">janda</option>
+            <option value="duda">duda</option>
+          </select>`;
+      } else if (name === "pekerjaan_kepala_keluarga" || name === "status_pekerjaan") {
+        inputHTML = `
+          <label>${label}</label>
+          <select id="${name}">
+            <option value="">— pilih —</option>
+            <option value="buruh harian">buruh harian</option>
+            <option value="petani">petani</option>
+            <option value="tidak bekerja">tidak bekerja</option>
+            <option value="pegawai tetap">pegawai tetap</option>
+            <option value="PNS">PNS</option>
+            <option value="wirausaha">wirausaha</option>
+          </select>`;
+      } else if (name === "kondisi_rumah") {
+        inputHTML = `
+          <label>${label}</label>
+          <select id="${name}">
+            <option value="">— pilih —</option>
+            <option value="tidak layak">tidak layak</option>
+            <option value="sederhana">sederhana</option>
+            <option value="semi permanen">semi permanen</option>
+            <option value="sangat sederhana">sangat sederhana</option>
+            <option value="layak">layak</option>
+            <option value="mewah">mewah</option>
+          </select>`;
+      } else if (name === "penyakit_kronis") {
+        inputHTML = `
+          <label>${label}</label>
+          <select id="${name}">
+            <option value="">— pilih —</option>
+            <option value="tidak ada">tidak ada</option>
+            <option value="asma">asma</option>
+            <option value="diabetes">diabetes</option>
+            <option value="hipertensi">hipertensi</option>
+            <option value="ginjal">ginjal</option>
+            <option value="TBC">TBC</option>
+            <option value="jantung">jantung</option>
+          </select>`;
+      } else {
+        inputHTML = `<label>${label}</label><input type="number" id="${name}" placeholder="Masukkan ${label.toLowerCase()}">`;
+      }
+
+      return inputHTML;
+    }
+
+    function updateFields() {
+      const model = modelSel.value;
+      dynamicFields.innerHTML = "";
+      const fields = modelFields[model];
+      if (!fields) return;
+      fields.forEach(name => {
+        dynamicFields.innerHTML += createInputField(name);
+      });
+    }
+
+    modelSel.addEventListener('change', updateFields);
+    updateFields();
+
+    document.getElementById('btnClear').onclick = () => {
+      document.querySelectorAll('input, select').forEach(i => i.value = "");
+      statusBox.innerHTML = "";
+      resultBox.textContent = "Belum ada prediksi";
+    };
+
+    document.getElementById('btnPredict').onclick = async (e) => {
+      e.preventDefault();
+      const model = modelSel.value;
+      const payload = {};
+
+      document.querySelectorAll('#dynamic-fields input, #dynamic-fields select').forEach(i => {
+        payload[i.id] = i.value.trim();
+      });
+
+      resultBox.textContent = "⏳ Memproses…";
+      statusBox.innerHTML = "";
+
+      try {
+        const res = await fetch(`/predict/${model}`, {
+          method: "POST",
+          headers: {"Content-Type": "application/json"},
+          body: JSON.stringify(payload)
+        });
+        const data = await res.json();
+
+        if (data.error) {
+          statusBox.innerHTML = `<div class="status-bad">Error: ${data.error}</div>`;
+          resultBox.textContent = "";
+          return;
+        }
+        const statusHTML = (data.prediksi === 1)
+          ? `<div class="status-ok">Layak Subsidi ✅</div>`
+          : `<div class="status-bad">Tidak Layak Subsidi ❌</div>`;
+
+        statusBox.innerHTML = statusHTML;
+        resultBox.textContent = JSON.stringify(data, null, 2);
+      } catch (err) {
+        statusBox.innerHTML = `<div class="status-bad">Gagal menghubungi server.</div>`;
+        resultBox.textContent = String(err);
+      }
+    };
+  </script>
+</body>
+</html>
