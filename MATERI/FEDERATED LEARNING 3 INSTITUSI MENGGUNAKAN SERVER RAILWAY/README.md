@@ -12,15 +12,15 @@ Hasilnya adalah **model global** yang mampu melakukan prediksi kelayakan subsidi
 
 ---
 
-## ⚙️ Struktur Folder
-├── 📂 FEATURE COL               → berisi file fitur global (fitur_global.pkl)
-├── 📂 Flask                     → aplikasi Flask untuk prediksi berbasis web
-├── 📂 client_dinsos             → pelatihan lokal DINSOS
-├── 📂 client_dinsos2            → pelatihan iterasi ke-2 DINSOS
-├── 📂 client_dukcapil           → pelatihan lokal DUKCAPIL
-├── 📂 client_dukcapil2          → pelatihan iterasi ke-2 DUKCAPIL
-├── 📂 client_kemenkes           → pelatihan lokal KEMENKES
-├── 📂 client_kemenkes2          → pelatihan iterasi ke-2 KEMENKES
-├── 📂 federated_server          → server Railway untuk agregasi FedAvg
-├── 📄 DOKUMENTASI ARCHITECTURE.pdf
-└── 📄 DOKUMENTASI FEDERATED LEARNING 3 LEMBAGA.pdf
+
+
+## 🧩 Cara Clone Repository
+
+```bash
+git clone --no-checkout https://github.com/EzraNahumury/Federated-Learning.git
+cd Federated-Learning
+git sparse-checkout init --cone
+git sparse-checkout set "MATERI/FEDERATED LEARNING 3 INSTITUSI MENGGUNAKAN SERVER RAILWAY"
+git checkout main
+
+
