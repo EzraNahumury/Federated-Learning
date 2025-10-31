@@ -181,7 +181,7 @@ Berarti TensorFlow Federated sudah aktif sepenuhnya
 
 
 
-## 📂 11️ Struktur Folder (Contoh Proyek Federated Learning)
+## 📂 10 Struktur Folder (Contoh Proyek Federated Learning)
 
 ```
 📦 FEDERATED LEARNING 3 INSTITUSI MENGGUNAKAN SERVER RAILWAY
@@ -196,7 +196,7 @@ Berarti TensorFlow Federated sudah aktif sepenuhnya
 
 ---
 
-## 🧩 12️ Clone Repository
+## 🧩 11 Clone Repository
 Jika hanya ingin mengunduh folder proyek TFF tanpa seluruh repo utama:
 
 ```bash
@@ -209,11 +209,6 @@ git checkout main
 
 ---
 
-## 🧾 Penutup
-
-Selamat! 🎉  
-Kamu sudah berhasil menyiapkan **lingkungan TensorFlow Federated (TFF)** di Windows menggunakan **WSL Ubuntu**.  
-Lingkungan ini sudah siap digunakan untuk pengembangan proyek **Federated Learning** baik secara lokal maupun terhubung ke server seperti **Railway** atau **Google Cloud**.
 
 ---
 
