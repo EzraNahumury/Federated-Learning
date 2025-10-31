@@ -210,7 +210,6 @@ git checkout main
 ---
 
 
----
 
 📄 **Dibuat oleh:**  
 **Ezra K. Nahumury**  
