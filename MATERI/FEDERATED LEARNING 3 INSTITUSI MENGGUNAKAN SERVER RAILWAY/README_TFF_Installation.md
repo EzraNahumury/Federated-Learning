@@ -1,14 +1,37 @@
-# 🧠 Panduan Instalasi TensorFlow Federated (TFF) di Windows (WSL)
+# 🧠 Federated Learning – Prediksi Kelayakan Subsidi (3 Institusi)
 
 ## 📘 Deskripsi
-Panduan ini berisi langkah-langkah lengkap untuk menginstal dan menyiapkan **TensorFlow Federated (TFF)** di komputer berbasis **Windows**.  
-Karena TensorFlow Federated lebih stabil di sistem operasi **Linux**, maka digunakan **WSL (Windows Subsystem for Linux)** untuk membuat lingkungan pengembangan yang kompatibel.
+Proyek ini merupakan implementasi **Federated Learning (FL)** yang melibatkan tiga instansi pemerintah:  
+- **DINSOS** (Program Bantuan Pangan Non Tunai / Kartu Sembako)  
+- **DUKCAPIL** (Data Kependudukan)  
+- **KEMENKES** (Kartu Indonesia Sehat / KIS)  
 
-Dengan panduan ini, kamu dapat menjalankan proyek **Federated Learning (FL)** secara lokal tanpa perlu migrasi ke sistem operasi lain.
+Setiap instansi melatih model lokal secara terpisah menggunakan data internal mereka.  
+Bobot hasil pelatihan dikirim ke server pusat untuk digabungkan menggunakan metode **Federated Averaging (FedAvg)**.  
+Hasilnya adalah **model global** yang mampu melakukan prediksi kelayakan subsidi lintas instansi tanpa harus membagikan data mentah antar lembaga.
+
+
+
+
+
 
 ---
 
-## 🧩 1️⃣ Instalasi WSL / Ubuntu di Windows
+
+
+
+
+
+
+
+
+
+
+# Panduan Instalasi TensorFlow Federated (TFF) di Windows (WSL)
+
+
+
+##  1️ Instalasi WSL / Ubuntu di Windows
 
 1. Buka **Microsoft Store**, cari **Ubuntu**, lalu klik **Install**.  
    Jalankan Ubuntu setelah instalasi selesai untuk membuat username dan password Linux.
@@ -23,7 +46,7 @@ Dengan panduan ini, kamu dapat menjalankan proyek **Federated Learning (FL)** se
 
 ---
 
-## 🧮 2️⃣ Cek Versi Python
+##  2️ Cek Versi Python
 
 Pastikan Python sudah terinstal di dalam WSL dengan perintah berikut:
 
@@ -38,7 +61,7 @@ Jika Python belum terinstal, lanjut ke langkah berikut untuk memasang versi yang
 
 ---
 
-## 🔢 3️⃣ Instal Python 3.11 di WSL
+##  3️ Instal Python 3.11 di WSL
 
 Jalankan perintah berikut di terminal Ubuntu (WSL):
 
@@ -57,7 +80,7 @@ Jika muncul seperti `Python 3.11.x`, berarti instalasi berhasil ✅
 
 ---
 
-## 🌐 4️⃣ Buat Virtual Environment
+##  4️ Buat Virtual Environment
 
 Langkah berikutnya adalah membuat *virtual environment* agar setiap proyek terisolasi dari sistem global.
 
@@ -76,7 +99,7 @@ deactivate
 
 ---
 
-## 🔧 5️⃣ Install TensorFlow Federated (TFF)
+##  5️ Install TensorFlow Federated (TFF)
 
 Setelah environment aktif, jalankan perintah berikut untuk menginstal TensorFlow Federated versi terbaru:
 
@@ -89,7 +112,7 @@ pip install --upgrade tensorflow-federated
 
 ---
 
-## ✅ 6️⃣ Verifikasi Instalasi
+##  6️ Verifikasi Instalasi
 
 Cek apakah TensorFlow Federated berhasil diinstal dengan benar:
 
@@ -104,7 +127,7 @@ Ketik `exit()` untuk keluar dari mode Python.
 
 ---
 
-## 🧪 7️⃣ Uji Coba Program TFF Sederhana
+##  7️ Uji Coba Program TFF Sederhana
 
 Untuk memastikan TensorFlow Federated dapat berfungsi, jalankan contoh berikut:
 
@@ -124,11 +147,11 @@ Output yang diharapkan:
 2.0
 ```
 
-Berarti TensorFlow Federated sudah aktif sepenuhnya 🚀
+Berarti TensorFlow Federated sudah aktif sepenuhnya 
 
 ---
 
-## 📎 8️⃣ Rangkuman Instalasi
+##  8️ Rangkuman Instalasi
 
 | Komponen | Versi / Tools yang Disarankan |
 |-----------|-------------------------------|
@@ -141,7 +164,7 @@ Berarti TensorFlow Federated sudah aktif sepenuhnya 🚀
 
 ---
 
-## 💡 9️⃣ Tips Tambahan
+##  9️ Tips Tambahan
 
 - Jalankan semua instalasi dalam **environment (venv)**, bukan global system.
 - Untuk membuka kembali environment yang pernah dibuat:
@@ -156,19 +179,9 @@ Berarti TensorFlow Federated sudah aktif sepenuhnya 🚀
 
 ---
 
-## ⚡ 🔟 Troubleshooting Umum
 
-| Masalah | Penyebab | Solusi |
-|----------|-----------|--------|
-| `ImportError: No module named 'tensorflow_federated'` | Environment belum aktif | Jalankan `source venv/bin/activate` |
-| `ERROR: Could not find a version that satisfies the requirement tensorflow-federated` | Versi Python tidak cocok | Gunakan Python 3.11 |
-| `ModuleNotFoundError: No module named 'grpc'` | Dependensi belum lengkap | Jalankan `pip install grpcio grpcio-tools` |
-| Error CUDA / GPU | TensorFlow Federated tidak memakai GPU | Abaikan, karena TFF berjalan di CPU |
-| `Permission denied` saat install | Tidak pakai sudo di Ubuntu | Gunakan perintah `sudo` jika diperlukan |
 
----
-
-## 📂 11️⃣ Struktur Folder (Contoh Proyek Federated Learning)
+## 📂 11️ Struktur Folder (Contoh Proyek Federated Learning)
 
 ```
 📦 FEDERATED LEARNING 3 INSTITUSI MENGGUNAKAN SERVER RAILWAY
@@ -178,13 +191,12 @@ Berarti TensorFlow Federated sudah aktif sepenuhnya 🚀
 ├── 📂 client_dukcapil           → pelatihan lokal DUKCAPIL
 ├── 📂 client_kemenkes           → pelatihan lokal KEMENKES
 ├── 📂 federated_server          → server Railway untuk agregasi FedAvg
-└── 📄 DOKUMENTASI INSTALLASI TFF.pdf
+└── 📄 DOKUMENTASI
 ```
 
 ---
 
-## 🧩 12️⃣ Clone Repository (Hanya Folder Proyek)
-
+## 🧩 12️ Clone Repository
 Jika hanya ingin mengunduh folder proyek TFF tanpa seluruh repo utama:
 
 ```bash
@@ -194,8 +206,6 @@ git sparse-checkout init --cone
 git sparse-checkout set "MATERI/FEDERATED LEARNING 3 INSTITUSI MENGGUNAKAN SERVER RAILWAY"
 git checkout main
 ```
-
-> ✅ Cara ini hanya mengunduh folder tersebut saja tanpa seluruh isi repo (lebih ringan).
 
 ---
 
