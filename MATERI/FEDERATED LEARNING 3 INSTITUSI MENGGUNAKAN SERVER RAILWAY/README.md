@@ -106,6 +106,7 @@ Setelah environment aktif, jalankan perintah berikut untuk menginstal TensorFlow
 ```bash
 pip install --upgrade pip
 pip install --upgrade tensorflow-federated
+pip install pandas
 ```
 
 > Jika koneksi internet lambat, instalasi bisa memakan waktu beberapa menit karena akan mengunduh dependensi TensorFlow.
